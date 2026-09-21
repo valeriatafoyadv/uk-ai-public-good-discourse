@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://www.anthropic.com/news/gov-UK-partnership",
+  "source": "direct",
+  "sha256": "8417af1964e7fcd10ac3f63f1a7fcd798e8d82942b428b6bda74c252e5efeea3",
+  "bytes": 150336,
+  "n_blocks": 16,
+  "error": null
+}

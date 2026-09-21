@@ -1,0 +1,186 @@
+{
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "source_url": "https://gds.blog.gov.uk/2025/02/10/launching-the-artificial-intelligence-playbook-for-the-uk-government/",
+  "fetched_at": "2026-08-29T15:24:04.467507+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Launching the Artificial Intelligence Playbook for the UK Government"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Today, Technology Secretary Peter Kyle has launched the Artificial Intelligence (AI) Playbook for the UK Government to provide departments and public sector organisations with accessible technical guidance on the safe and effective use of AI."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "AI is at the heart of the UK Government's strategy to drive economic growth and enhance public service delivery - it offers significant opportunities to reduce costs and enhance public service delivery across government, as highlighted in the State of Digital Government Review 2025 . However, we must remain mindful of both the technology's constraints and potential risks."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Who the playbook and learning resources are for"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Who the playbook and learning resources are for"
+      ],
+      "text": "It is crucial for civil servants to gain an understanding of what AI can and cannot do, how it can help, and the potential ethical, legal, privacy, sustainability and security risks it poses."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Who the playbook and learning resources are for"
+      ],
+      "text": "The AI Playbook can be freely accessed by everyone on GOV.UK and it is designed to support government departments, arm’s length bodies and public sector organisations. Different chapters cater for the needs of civil servants working both within and outside the digital and data space and with varying levels of digital knowledge."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Who the playbook and learning resources are for"
+      ],
+      "text": "The AI Playbook updates and expands on old guidance to offer help on a wider range of AI technologies in addition to generative AI, including machine learning, deep learning, natural language processing, computer vision, speech recognition and more."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Who the playbook and learning resources are for"
+      ],
+      "text": "The guidance contained in the Playbook is complemented by a new series of AI courses on Civil Service Learning and off-the-shelf training on Government Campus . These resources were made available in collaboration with several leading tech firms and the Government Skills unit."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Who the playbook and learning resources are for"
+      ],
+      "text": "The AI Playbook is an important element of the government's bigger goal of putting AI to good use - making things run better, encouraging fresh thinking, reducing the time spent on repetitive tasks, and giving the economy a boost."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What the playbook includes"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "To meet the needs of a wide and diverse audience, the AI Playbook includes accessible explanations on AI technologies, sample use cases, and corporate guidance for policy professionals and decision makers, as well as technical advice on how to buy, implement and use AI solutions for digital and data professionals."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "The playbook is organised in five parts:"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "10 principles: this section summarises the key principles that all civil servants should follow when using AI in government."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "Introducing AI: this introductory section explains the foundations of AI (including generative AI), its applications, capabilities and limitations to all civil servants."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "Building AI: this section is designed for a variety of roles working on AI projects and contains both corporate and technological guidance. It offers advice on topics such as how to understand if AI is the right tool for the job, what use cases should be avoided in government, how to conduct user research on AI, how to build an AI team and acquire the necessary skills, and how to buy, procure and implement AI products."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "Using AI safely and responsibly: this section focuses on a wide range of legal, ethical, security and governance aspects of AI projects that team leaders and senior decision makers should consider when working on AI, discussing topics such as bias, privacy, copyright, data protection, and cybersecurity."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "Appendix with AI use cases in the public sector: the appendix collects a series of case studies on the development of several AI and generative AI solutions across the public sector written by the teams who developed these products."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "What the playbook includes"
+      ],
+      "text": "Each section contains a checklist with practical recommendations to consider and actions to take when developing AI projects. More technical aspects of AI are discussed in our new series of AI Insights articles ."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "How we developed the playbook"
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "How we developed the playbook"
+      ],
+      "text": "The creation of the AI Playbook was a collaborative effort involving over 50 experts from GDS and the wider Department for Science Innovation and Technology (DSIT) , contributions from over 20 government departments and public sector organisations, as well as insights and peer-review from industry and academic advisors."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What’s next"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s next"
+      ],
+      "text": "AI is a broad and fast-paced field and we’ll update the AI Playbook regularly. We’re also launching a series of AI Insights publications to cover more specific aspects of AI whose in-depth discussion was not possible in the playbook."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s next"
+      ],
+      "text": "Join the Artificial Intelligence community of practice to connect with people interested in AI across government, attend the monthly meet-ups and receive newsletters with all the latest AI news from across government."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s next"
+      ],
+      "text": "Enrol in our free e-learning courses on Civil Service Learning to learn how to implement and use AI solutions safely and effectively."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "final_url": "https://commonsbusiness.parliament.uk/Document/101491/Pdf",
+  "sha256": "c1fe8e9765987fb1cde675643174cd4630cbe67bf0f790d66b90918bef973773",
+  "bytes": 82991,
+  "n_blocks": 14,
+  "error": null,
+  "source": "browser_prefetch"
+}

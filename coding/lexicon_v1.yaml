@@ -1,0 +1,26 @@
+# Variant lexicon v1 — mirror of the NVivo plan nodes ('method' sheet).
+# Stemming turned off by design: nominal patterns use regex that excludes "goods".
+# PROVISIONAL until approval by the author; changes generate v2 (not edited in place).
+version: 1
+nominal:            # PublicGood_Nominal → term_status = present
+  - 'public good(?!s)'
+  - 'the public good'
+  - 'ai for (the )?public good'
+variant_nominal:    # same claim with a different noun → term_status = variant
+  - 'public benefit'
+  - 'public interest'
+  - 'societal wellbeing'
+  - 'social good(?!s)'
+distributive:       # PublicBenefit_Distributive: the claim without the noun
+  - 'benefits? (of ai )?(reach|felt by|shared|for) (every|all)'
+  - 'delivers? for (all|everyone|working people)'
+  - "improve (people's|citizens') lives"
+  - 'working people'
+  - 'taxpayer'
+  - 'for the benefit of (all|everyone|the public|citizens)'
+  - 'everyone benefits'
+  - 'benefit (all|everyone|the public|citizens|society)'
+beneficiary_probes: # semantic probes for embedding-based retrieval (docs without the term)
+  - 'AI should deliver benefits for every citizen and improve ordinary people''s lives'
+  - 'technology in government must serve the public and society as a whole'
+  - 'the gains from artificial intelligence must be shared across the whole country'

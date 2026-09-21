@@ -1,0 +1,3182 @@
+{
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "source_url": "https://assets.publishing.service.gov.uk/media/678f6665f4ff8740d978864c/a-blueprint-for-modern-digital-government-web-optimised.pdf",
+  "fetched_at": "2026-08-29T15:24:04.838342+00:00",
+  "format": "pdf",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "A blueprint for modern digital government"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Presented to Parliament by the Secretary of State for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "by Command of His Majesty"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "January 2025"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "CP 1252"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "© Crown copyright 2025"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This publication is available from: www.gov.uk/official-documents"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Any enquiries regarding this publication should be sent to us at: correspondence@dsit.gov.uk"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "ISBN 978 1 5286 5375 6"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "E03270724 01/25"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Printed on paper containing 40% recycled fibre content minimum."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Printed in the UK on behalf of the Controller of His Majesty’s Stationery Office."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Secretary of State foreword"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "The UK public sector has some digital services to be proud of, including those that help millions of people do things like apply for Universal Credit, Register to Vote, check for flood warnings, get an MOT test reminder, and order repeat prescriptions with the NHS app. Behind the scenes, there are supporting products like Pay, Notify and One Login, providing invaluable help for the teams that build the services."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "Yet it’s easy to see these successes as entirely unremarkable. Across society, people’s expectations are higher, and they keep rising. So your service is available on a phone? So what? Of course it is. That’s the bare minimum that most people expect, most of the time. Too many of our services still fall short of these basic expectations."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "It is vital that government understands and responds to this. We’re still a long way from building a truly digital state – one where services work across institutional boundaries, and where digital credentials enable a more timesaving, personalised user experience. Lots of public sector services stretch across the remit of many central departments, local authority teams, and NHS trusts. There’s a lot we can do to link those services up, while reducing the bureaucratic burden on the public to remember dozens of different accounts and passwords."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "It is also vital that government responds to rapid advances in technology. Artificial intelligence (AI) is a paradigm shift, bringing substantial new opportunities that we must explore, understand and embrace – responsibly."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "There’s a con to every pro – the more we use technology, the greater the risk from technological threats. So we must protect against them. The more we use technology, the harder we must work to serve people who are less able to use it, or less confident using it."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "It is not enough for government to just ‘keep up’ with the scale of change happening all around us. We have to understand it, use it, and shape it. And we must grasp every opportunity to drive greater value for money for the taxpayer."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "The newly formed digital centre of government has been set up to lead work that’s more than just a change – it will help catalyse a wholesale reshaping of the public sector, reaching out to local government, the NHS, and the private sector too."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "This document sets out how we see the current state of play, our vision for what the future might look like, and a plan for reaching it. I’d like to thank members of the external advisory panel, my ministerial colleagues and digital transformation leaders in departments for helping to create it."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "It offers a long-term view that will take many years to bring about. This plan is only the starting point."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Secretary of State foreword"
+      ],
+      "text": "Rt Hon Peter Kyle MP Secretary of State for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Executive summary"
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The case for change"
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The case for change"
+      ],
+      "text": "Despite the work of digital teams across the public sector to deliver better designed, time-saving public services, progress over the last 15 years has been uneven, and it hasn’t been fast or systemic enough."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The case for change"
+      ],
+      "text": "Rapid advances in AI make it possible to transform our public services at a faster pace than ever before. But while new technology presents us with ever-expanding possibilities to improve the way that government delivers for the public, it also demands that our people have the right skills and are enabled to work together across organisational boundaries."
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The case for change"
+      ],
+      "text": "The State of Digital Government Review published alongside this paper has identified deep systemic challenges: institutionalised fragmentation; persistent legacy, cyber and resilience risk; siloed data; under-digitisation; inconsistent leadership; a skills shortfall; diffuse buying power; and outdated funding models."
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The case for change"
+      ],
+      "text": "Addressing these means a fundamental shift – for whole organisations, not just digital teams. We must not underestimate the scale of the changes and challenges ahead. We need to adopt a digital-first operating model where we treat digital leadership skills as essential for senior leaders, redesign our services, and how we work, and use shared digital and data infrastructure to meet common needs. It must be underpinned by new funding models which support safe, sustainable services. And digital inclusion must be at the heart of how we do this, ensuring as many people as possible can access public services digitally, and that we support the digitally excluded."
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The vision for modern digital government"
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "The vision for modern digital government in the UK is to enable the following outcomes:"
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "• Easier lives: delivering transparent, next-generation public services that do the hard work for the public, can be accessed and used by everyone who needs them, and are designed around the user."
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "• Faster growth: helping businesses start and scale by delivering services that work as well as they do for citizens."
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "• Firmer foundations: securing public services so they are trustworthy and resilient."
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "• Smarter organisations: changing how delivery is done to embed the right ways of working, moving at the same pace that people’s lives do, and working as agile, user‑centred, multidisciplinary teams by default."
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "The vision for modern digital government"
+      ],
+      "text": "• Higher productivity and efficiency: saving public money, delivering outstanding public services at a price we can afford, and enabling frontline workers to focus on delivery."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "A six-point plan for public sector digital reform"
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Transforming government for the digital era will not be straightforward. We’ve identified a set of six priorities to help us get there:"
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Join up public sector services"
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "enabling next-generation public services, better supporting businesses, redesigning cross-organisation end-to-end service delivery, ensuring services are consistently high standard, and acting as one public sector."
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Harness the power of AI for the public good"
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "establishing an AI adoption unit to build and deploy AI into public services, growing AI capacity and capability across government, and building trust, responsibility and accountability into all we do."
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Strengthen and extend our digital and data public infrastructure"
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "expanding GOV.UK One Login and other common components, enabling access to data through the National Data Library, strengthening cyber and technical resilience and building more responsibly."
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Elevate leadership, invest in talent"
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "elevating digital leadership to the centre of public sector decision-making, investing in the digital and data profession and competing for talent and raising the digital skills baseline for all public servants."
+    },
+    {
+      "block_id": "b049",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Fund for outcomes, procure for growth and innovation"
+    },
+    {
+      "block_id": "b050",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "reforming government’s approach to funding digital and technology and maximising the value and potential of public procurement."
+    },
+    {
+      "block_id": "b051",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "Commit to transparency, drive accountability"
+    },
+    {
+      "block_id": "b052",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "A six-point plan for public sector digital reform"
+      ],
+      "text": "publishing and acting more on performance data, and doing more of the work of government ‘in the open’ so that people can help shape changes that affect them."
+    },
+    {
+      "block_id": "b053",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Driving this change"
+    },
+    {
+      "block_id": "b054",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Driving this change"
+      ],
+      "text": "This change will be led by the new digital centre of government. The digital centre exists to serve the public, departments and the wider public sector. It will be magnetic: the home of specialist expertise in digital service design, artificial intelligence and other areas. It will be catalytic: enabling teams to work together more easily to deliver the government’s missions and power public sector reform. It will be strategic: ensuring that the use of digital in the public sector drives efficiency and productivity gains, and helping to accelerate economic growth."
+    },
+    {
+      "block_id": "b055",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Driving this change"
+      ],
+      "text": "And it will be collegiate: working in partnership with colleagues across and beyond the public sector – including over time with local councils, police forces and arm’s length bodies (ALBs) – who will continue to be home to the vast majority of digital, data and technology specialists."
+    },
+    {
+      "block_id": "b056",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Driving this change"
+      ],
+      "text": "The public sector cannot deliver next-generation public services alone: we need to work in partnership with industry and civil society to drive digital change in the public sector but also to support growth in the UK tech sector."
+    },
+    {
+      "block_id": "b057",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Next steps"
+    },
+    {
+      "block_id": "b058",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Next steps"
+      ],
+      "text": "Today we are:"
+    },
+    {
+      "block_id": "b059",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Next steps"
+      ],
+      "text": "• Launching the new digital centre of government, to be known as the Government Digital Service."
+    },
+    {
+      "block_id": "b060",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Next steps"
+      ],
+      "text": "• Announcing five ‘kickstarter’ tests and products, including a GOV.UK App."
+    },
+    {
+      "block_id": "b061",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Next steps"
+      ],
+      "text": "• Launching new collaborations to accelerate work in priority areas, such as in local government and with the Government Commercial Function."
+    },
+    {
+      "block_id": "b062",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary",
+        "Next steps"
+      ],
+      "text": "This document is the start of a conversation: there’s lots more to do. Over the coming months, we’ll co-develop a new Government Digital and AI Roadmap, to set out our collective priorities and how they will help drive the government’s missions and public sector reform. We’ll do this in parallel with the second phase of the Spending Review. We’ll work in the open as we go, seeking input and collaboration from colleagues across central government, the wider public sector, civil society, and tech companies."
+    },
+    {
+      "block_id": "b063",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 1 The case for change"
+    },
+    {
+      "block_id": "b064",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 1 The case for change"
+      ],
+      "text": "Context"
+    },
+    {
+      "block_id": "b065",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "Over the last 15 years, the UK has enjoyed periods as a global leader in digital government. Digital teams across the public sector have delivered more cost effective, time-saving public services: the Universal Credit live service was first introduced in 2013; by 2016, millions of people had access to their own digital tax account; by 2017, almost everyone over 16 could renew their passport online; by January of last year, Child Benefit claims could be made online for the first time. We’ve also created a simpler, more consistent experience of government through the GOV.UK website and publishing platform."
+    },
+    {
+      "block_id": "b066",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "We’ve implemented other world-class digital public infrastructure such as GOV.UK Notify, Pay, and One Login. We’ve deployed new technologies and techniques in our security services and armed forces. During the pandemic, we showed how teams across the public sector can work to deliver critical outcomes in the national interest, like the Vulnerable People Service that delivered millions of support packages to people who were shielding."
+    },
+    {
+      "block_id": "b067",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "However, progress has been uneven, and it hasn’t been fast or systemic enough. This has left UK lagging behind leading digital nations around the world and at risk of falling further back. Too many government services fall short of user expectations, and the bureaucratic burden on people and businesses is too high. Seven years after the launch of the Public Sector Bodies Accessibility Regulations, we still have a way to go to make sure that services can be accessed and used by everyone who needs them. A number of transformation programmes have foundered, and we aren’t maximising every pound of public money spent."
+    },
+    {
+      "block_id": "b068",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "Critically, we are living through a period of profound shifts in technology. AI is massively expanding what technology can do, changing the way that people expect to interact with digital services. In turn, this is bringing major new opportunities for preventative interventions in public services and to provide more personalised, effective experiences, as well as tools to help public servants do their job better and more efficiently. We are, though, still learning how to use AI responsibly and safely and are yet to harness the benefits at scale; we must make substantial changes to capitalise on this technology."
+    },
+    {
+      "block_id": "b069",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "More widely, our data infrastructure remains fragmented, preventing the delivery of more joined-up, personalised services, and making it harder to realise efficiencies through improved productivity and reduced fraud and waste. We remain dependent on decades‑old and costly legacy systems with crumbling foundations. Large parts of the public sector are still digitally immature. We face the most hostile threat landscape ever, at a time when we are ever more dependent on the stability and integrity of our services, and our cyber defences and technical resilience must evolve to cope."
+    },
+    {
+      "block_id": "b070",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "The current paradigm for digital transformation in the public sector is not working to deliver the change we need quickly or systematically enough. We must redefine digital as a value driver rather than a cost centre, making the shift from funding one-off digital projects to funding persistent product teams; and from long discovery projects to delivering value early."
+    },
+    {
+      "block_id": "b071",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "We need to move away from digitising transactional services one at a time, towards more automated, real-time services; and from digital skills being seen as a specialism to an institutional understanding in every area of policy and service delivery."
+    },
+    {
+      "block_id": "b072",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "This is a key element of how we can reform our public services so that they are more people‑centred and responsive, helping to catalyse broader societal and economic change, giving public servants the tools and freedom to innovate, while ensuring they are held to account for delivering high standards for everyone, everywhere."
+    },
+    {
+      "block_id": "b073",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "We know that major, structural change is needed if we are to meet these objectives. Most critically, we are encumbered by the siloed structure of government and incentives that act against modern approaches. When value is measured only within organisational boundaries, it is hard to invest in technology and services that create value beyond them."
+    },
+    {
+      "block_id": "b074",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "Net satisfaction of digital government services has declined over the past decade from 79% to 68%. Users’ expectations continue to rise: people expect government services to provide the same convenience and personalisation that they see in private sector services. They can see what’s possible. They want government to be raising the bar on universality, inclusion, reliability, security and transparency. There’s a generation gap to address: today’s young adults do not remember a time when most services were not digital; but we also need to deliver on their high expectations in a way that doesn’t exclude anyone."
+    },
+    {
+      "block_id": "b075",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "Context"
+      ],
+      "text": "Progress to date has been thanks to the efforts of dedicated people across the public sector. There’s much to learn from that work and from those people. But digital teams still often lack the capacity and endorsement required to innovate and solve problems for the widest possible benefit."
+    },
+    {
+      "block_id": "b076",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 1 The case for change"
+      ],
+      "text": "The State of Digital Government"
+    },
+    {
+      "block_id": "b077",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "The Secretary of State commissioned a comprehensive review of the state of digital across the public sector, engaging more than 100 organisations, including local authorities, hospital trusts, police forces and central government departments. This is available as a standalone report which supplements and supports this one."
+    },
+    {
+      "block_id": "b078",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "The review found many ways in which public sector digital teams excel: on average they have embraced cloud services faster than the private sector; used data and AI to improve clinical outcomes and the speed of emergency response; and found innovative ways to build and distribute mobile apps in response to national crises."
+    },
+    {
+      "block_id": "b079",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "However, too often, these achievements have been made despite the system rather than because of it. Teams depend on creative ingenuity to overcome constraints imposed by cumbersome processes, legacy systems and a lack of stable funding and resources. These achievements are typically in isolation: sharing success and reusing code is rare."
+    },
+    {
+      "block_id": "b080",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "The review identified significant challenges across the public sector. These include institutionalised fragmentation: digital services and the technology which underpins them are fragmented between organisations resulting in broken customer journeys, like parents needing to apply for up to 15 services if their child qualifies for free school meals; and duplication, like having over 44 different accounts to interact with government."
+    },
+    {
+      "block_id": "b081",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "It confirmed the existence of persistent legacy. Despite prior funding for legacy remediation, organisations still report that high percentages of their services depend on unsupported, unpatched legacy technology systems: the count of the highest risk and most critical systems rose by 26% from 2023 to 2024 as organisations struggle to maintain focus on risk remediation alongside other priorities. Under-digitisation also persists, with only half of public services digitised, and digital expenditure 30% below benchmarks in industry and other governments."
+    },
+    {
+      "block_id": "b082",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "Government is also carrying significant cyber and technology resilience risk. We have seen a number of high-profile incidents across the public sector that have had real world impacts on citizens’ lives and incurred new costs to repair the damage done."
+    },
+    {
+      "block_id": "b083",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "Siloed data continues to hinder collaboration. Data sharing between and within organisations, even after recent legislative changes and sustained effort, is high friction, with agreements taking months or even years to negotiate."
+    },
+    {
+      "block_id": "b084",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "There is inconsistent leadership. Most senior leaders don’t get the training or preparation they need to run digital organisations. Most organisations do not have digital leaders on their executive committee. Linked to this, there is a skills shortfall; the remuneration offer and overall employee value proposition is not competitive with private industry, resulting in stalled increase in growth in digital and resources, talent churn across the sector, and over‑dependence on third parties at higher cost."
+    },
+    {
+      "block_id": "b085",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "Diffuse buying power dilutes value for money. Despite central constructs such as frameworks and Memoranda of Understanding, public sector organisations contract locally and individually, holding back the potential of our buying power of over £26 billion p.a. Our funding models are outdated: over the last 15 years the technology industry has moved from a capital intensive model to a revenue intensive model, in which teams are funded on an ongoing basis and services are paid for by subscription."
+    },
+    {
+      "block_id": "b086",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "By contrast, most public sector digital funding is provided in a programme model more suitable for physical infrastructure projects. There is a clear need for sustainable funding models that support run costs over several years."
+    },
+    {
+      "block_id": "b087",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "Underlying these challenges we have identified five root causes that need to be addressed in order to overcome them. These are:"
+    },
+    {
+      "block_id": "b088",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "• Leadership: There is little reward for prioritising an agenda of service digitisation, reliability, or risk mitigation. Organisational leaders are not paid, promoted, or valued for doing so. Digital leaders are not consistently placed at senior levels, and do not have the power to shape the strategic agenda."
+    },
+    {
+      "block_id": "b089",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "• Structure: Public sector organisations are independent bodies with limited mechanisms to contract services from each other. Consequently, most choose to build and maintain their own technology estate, inhibiting standardisation, interoperability, reuse, and constraining the ability to benefit from scale."
+    },
+    {
+      "block_id": "b090",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "• Measurement: There is no consistent measurement of digital performance across the public sector, including service quality, cost, risk, or ability to deliver change. This lack of measurement inhibits the ability to recognise high performance, identify organisations which need help, and make cross-sector strategic decisions."
+    },
+    {
+      "block_id": "b091",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "• Talent: Compensation and career progression are uncompetitive with the private sector, especially for senior leaders, making it hard to attract and retain top digital and data talent. The lack of an integrated cross-public sector workforce strategy limits the sector’s ability to respond strategically to resource and skills gaps."
+    },
+    {
+      "block_id": "b092",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1 The case for change",
+        "The State of Digital Government"
+      ],
+      "text": "• Funding: Spend is biased towards new programmes with insufficient prioritisation of the effective operation and maintenance of existing systems, especially legacy assets. This presents an acute challenge for digital services, which increasingly depend on committed and sustained funding."
+    },
+    {
+      "block_id": "b093",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 2 The vision for modern digital government"
+    },
+    {
+      "block_id": "b094",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "Below, we set out our long-term vision for the future of digital government in the UK, to enable five outcomes: easier lives, faster growth, firmer foundations, smarter organisations, and higher productivity."
+    },
+    {
+      "block_id": "b095",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "It is a future that relies on more smart automation, without expecting it to take over. A future where the whole public sector works together as a buyer and builder of public services. A future where those services work harder, mostly behind the scenes, to improve people’s lives and contribute to economic growth. A future where ‘digital’ is not an add‑on, an optional extra, or something that’s outsourced: it is embedded. It is structural. And it is permanent."
+    },
+    {
+      "block_id": "b096",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "This is an ambitious and far-reaching vision, one that will require a combined effort across the whole public sector over the next decade. We recognise the challenge it represents. It won’t be easy or quick. It represents a significant shift in culture and ways of working. This is not just a shift for digital teams, but for all public servants. As well as delivering great digital services, we need to shape policy and legislation to be digital-ready and reimagine frontline operations for the digital age. It asks a lot, from teams and organisations already working hard to deliver critical live services."
+    },
+    {
+      "block_id": "b097",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "It is a vision for everyone: the people who use and rely on public services, and the people who design and deliver them right across the public sector, including smaller organisations and ALBs, local authorities and NHS trusts, as well as the larger central government departments. We know that the public, public servants, civil society and businesses all have a contribution to make to this vision, and we will set up the right routes to work in partnership with them."
+    },
+    {
+      "block_id": "b098",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "This is a vision. There is more work to do to build the detailed plan to deliver, and we know it will take time and effort to make this a reality. It sets out where we want to get to, and a direction of travel for achieving it, but we expect that the details will change along the way as we test new approaches and learn what works. These measures are ambitions and will be subject to the allocation of funding through the usual terms of trade between departments, or other means. In Section 3 we set out a six-point plan for how we will begin the reforms necessary to achieve this vision."
+    },
+    {
+      "block_id": "b099",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government"
+      ],
+      "text": "What we want to deliver"
+    },
+    {
+      "block_id": "b100",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Easier lives"
+    },
+    {
+      "block_id": "b101",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Modern digital government should reduce the ‘time tax’ on people using public services. Not just the time it takes to use a service, but the time to understand what needs to be done. The future we see is one where services are designed around people: wasting less time, money, and energy, and cutting the time that UK citizens spend trying to access public services."
+    },
+    {
+      "block_id": "b102",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "That means accelerating improvements to user experience, and reimagining public services so they’re more proactive and more joined up. It shouldn’t be a citizen’s job to work out what benefits it is worth them applying for. Nor should it be a business owner’s job to remember what steps the government needs them to take when starting a new business."
+    },
+    {
+      "block_id": "b103",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "What that looks like:"
+    },
+    {
+      "block_id": "b104",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Next-generation public sector services will do the hard work for the public: anticipating, reminding, and connecting."
+    },
+    {
+      "block_id": "b105",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Services will understand more about the people who use them, which means those people will have to understand less about how services work. Services will come with built-in timelines and status updates, so people always know where they stand and what happens next."
+    },
+    {
+      "block_id": "b106",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Services will come to users, not the other way around. They will be there, when and where people need them: in their pocket, at the GP surgery, on the high street."
+    },
+    {
+      "block_id": "b107",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Public services will work for everyone. No-one should have difficulty using government services – that includes disabled people and people who need extra support, as well as those who don’t have internet access, or lack the skills or confidence to use it. This applies for people across the UK, as well as British citizens overseas. It will be easier for workers, carers and volunteers supporting those in need to arrange services on behalf of those they support."
+    },
+    {
+      "block_id": "b108",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Faster growth"
+    },
+    {
+      "block_id": "b109",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Economic growth is a priority for the UK. We need to help businesses start and grow faster and more easily than before, through services that minimise the bureaucracy. We should make the business of running a business less of a chore."
+    },
+    {
+      "block_id": "b110",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "There’s also the business of doing business with government. There’s a lot we could improve about how public data is made available – with appropriate safeguards and permissions – for new commercial opportunities. And there’s a lot we could improve about how suppliers and start-ups can work with government and across the wider public sector to solve the most pressing public challenges."
+    },
+    {
+      "block_id": "b111",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "What that looks like:"
+    },
+    {
+      "block_id": "b112",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Government services for businesses will be as good as those for individuals, making it easy for them to do the things they need to. We’ll use clarity as an enabler: it will be clearer what licences and certifications a business must apply for, what permissions it must seek, what tasks it must complete, and which it is already completed."
+    },
+    {
+      "block_id": "b113",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Businesses will be able to connect to digital public infrastructure, to build new products and services, with appropriate security and privacy controls. They’ll be able to create new services, catalysing growth and innovation."
+    },
+    {
+      "block_id": "b114",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Government will build a new relationship with the commercial sector, becoming a helpful collaborator rather than a source of frustration. It’ll be easier for innovators and entrepreneurs to work with government, and the public will get better value for money."
+    },
+    {
+      "block_id": "b115",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Firmer foundations"
+    },
+    {
+      "block_id": "b116",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "People expect that public services are secure, accurate, trustworthy, and available when they need them. This needs to remain true even in the face of cyber threats and attacks, and as we begin to use AI more in public service delivery."
+    },
+    {
+      "block_id": "b117",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "We need to reset our relationship with technology risk so it is managed effectively, to reduce our dependence on decades-old legacy systems and bolster our inadequate cyber defences – all without slowing down the pace of change."
+    },
+    {
+      "block_id": "b118",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "There’s also enormous untapped value in the data and technology capabilities locked in silos across the public sector. We want to release that value, reducing duplication, fragmentation and waste. Data should be treated as a public asset, along with the platforms that facilitate access to it. Central government needs to be better connected and integrated with the wider public sector, including local government."
+    },
+    {
+      "block_id": "b119",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "What that looks like:"
+    },
+    {
+      "block_id": "b120",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• We will have a clear understanding of the risks facing digital public services, and manage them responsibly, investing public money efficiently to tackle the most urgent cyber security and technical resilience risks. We’ll learn from industry and use data to track progress."
+    },
+    {
+      "block_id": "b121",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Government will hold itself publicly accountable for the safety, security and quality of services, publishing performance and progress transparently and building in mechanisms to enable evaluation, audit and challenge."
+    },
+    {
+      "block_id": "b122",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Public sector organisations will be connected, not fragmented. Modern digital public infrastructure will make public organisations more integrated, and we’ll responsibly share high value data within and outside the public sector."
+    },
+    {
+      "block_id": "b123",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Smarter organisations"
+    },
+    {
+      "block_id": "b124",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Changing what the public sector delivers means changing how delivery is done. Too often, we ship the org chart. Despite a number of improvements to processes and practices, we still need major reform to embed modern ways of working and thinking as the norm."
+    },
+    {
+      "block_id": "b125",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "This goes deeper than agile service design teams – it reaches into every part of our work, including funding and governance. It means we’ll need to be more systematic in how we find, train and retain the expert practitioners we need, and be bolder in breaking down the barriers that get in their way."
+    },
+    {
+      "block_id": "b126",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "It also means investing in the component parts that make large scale digital service design possible – the platforms, data, and digital credentials that tie everything together."
+    },
+    {
+      "block_id": "b127",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "What that looks like:"
+    },
+    {
+      "block_id": "b128",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Government will move at the same pace that people’s lives do. Information will move through the system faster, enabling more automation for uncomplicated, rules-driven tasks and more human intervention to oversee complex cases."
+    },
+    {
+      "block_id": "b129",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Public sector digital teams will have the skills and support they need to build services that better echo people’s lives and real-world experiences: in healthcare; in education; and in national, local and devolved government."
+    },
+    {
+      "block_id": "b130",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Agile, user-centred, multidisciplinary teams will be the default in most circumstances, embedding best practice, with service teams that traverse across the public sector in the same way a citizen’s life does. Policy and delivery will always work hand-in-hand, and we’ll have the confidence to test good ideas and learn from failure."
+    },
+    {
+      "block_id": "b131",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• We will have the right mix of internal teams and external suppliers, relying less on wholesale outsourcing, but working in partnership with industry to bring in innovation and targeted support."
+    },
+    {
+      "block_id": "b132",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "Higher productivity and efficiency"
+    },
+    {
+      "block_id": "b133",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "As economic forces continue to put pressure on public spending and families’ budgets, the need to deliver outstanding public services at a price we can afford has never been greater. The State of Digital Government Review found £45-87 billion per year of savings and productivity benefits are not realised, equivalent to 4-7% of public sector spend."
+    },
+    {
+      "block_id": "b134",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "We know there’s significant scope to deliver better value for the taxpayer by tackling waste, duplication and fraud. We need to look at all opportunities to reduce waste in the way we buy and build services, and to combat fraud through better data exchange and stronger counter-fraud capabilities. To do this we need to build on great examples like GOV.UK One Login, as well as the debt and fraud data sharing powers in the Digital Economy Act, which have saved £137 million since being introduced."
+    },
+    {
+      "block_id": "b135",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "The latest tools and technology, including but not limited to AI, present major savings opportunities. They can take on more of the tasks that humans can do perfectly well, but that computers can do faster. That creates space for humans to do the tasks that computers can’t do at all, allowing public sector workers to focus on delivering the crucial frontline work that will always require human relationships, judgement and empathy."
+    },
+    {
+      "block_id": "b136",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "What that looks like:"
+    },
+    {
+      "block_id": "b137",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• We’ll reduce the costs of delivery by harnessing AI and automation technologies. AI will give us new tools and techniques for spotting patterns and processing information, with a focus on prevention as well as time saving. If we use it responsibly, it can remove the need for routine automatable tasks and reduce the cost of delivery."
+    },
+    {
+      "block_id": "b138",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• We’ll improve value for money by tackling waste and fraud, ensuring every pound of taxpayer money is spent effectively on public service delivery."
+    },
+    {
+      "block_id": "b139",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• We’ll put the right tools and technologies into the hands of hard-working public servants. We’ll give workers the tools, training, data access and autonomy to innovate, adapt, and make decisions that best serve the public. We’ll work with public servants to understand which parts of their roles they value most, aiming to achieve not just higher productivity, but also make public sector roles more satisfying."
+    },
+    {
+      "block_id": "b140",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2 The vision for modern digital government",
+        "What we want to deliver"
+      ],
+      "text": "• Even as they become more digital, services will be more human, too. Technology will do what it does best: calculating, listing, sorting. That will speed up, and scale up, as the technology improves. All of this leaves public servants more opportunities to improve the services where human interactions matter most, maintaining and enhancing public trust and satisfaction."
+    },
+    {
+      "block_id": "b141",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 3 Making it happen: a six-point plan for government digital reform"
+    },
+    {
+      "block_id": "b142",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "Setting out a vision is one thing. Making it happen is another. In this section, we set out some of the main changes we believe are needed to start to address the root causes set out in the State of Digital Government Review (Section 1) and work towards the vision set out in Section 2."
+    },
+    {
+      "block_id": "b143",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "These reforms outline the changes the digital centre will need to drive over the coming years, in partnership with colleagues across the public sector. They are an important starting point, setting the direction of travel, but we have more work to do to convert this into a detailed and fully funded roadmap for delivery. That’s why we will develop these ideas into a Government Digital and AI Roadmap alongside the second phase of the Spending Review, to be published in summer 2025. This will supersede the existing 2022 to 2025 roadmap for digital and data, Transforming for a Digital Future."
+    },
+    {
+      "block_id": "b144",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "Progress since 2022"
+    },
+    {
+      "block_id": "b145",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "The 2022-25 roadmap generated a step change in collaboration: senior leadership across government came together to collectively create it and commit themselves to a series of tangible actions. These included: to transform 50 of the top 75 government services to a ‘great’ standard; develop and implement a single sign-in for government services, GOV.UK One Login; and grow the size of the Government Digital and Data profession to 6% of total civil service headcount."
+    },
+    {
+      "block_id": "b146",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "Progress has been made across the roadmap, including:"
+    },
+    {
+      "block_id": "b147",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "• Supporting the transformation of priority services by embedding the ‘great’ framework for service performance into government service standards and directly supporting 24 services to reach the ‘great’ standard."
+    },
+    {
+      "block_id": "b148",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "• GOV.UK One Login has now onboarded more than 50 government services for authentication and identity proving, while more than six million people have so far used it to prove who they are."
+    },
+    {
+      "block_id": "b149",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "• Growing vital digital and data capabilities, including bringing new recruits into government through the TechTrack apprenticeship programme which launched in August and received thousands of applications for the first apprenticeship roles."
+    },
+    {
+      "block_id": "b150",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "Progress since 2022"
+      ],
+      "text": "However, though delivery against the 2022-25 roadmap laid important foundations, the State of Digital Government Review highlights a number of areas where we have not been able to make enough sustained progress on some of the broader systemic change that is needed. We have more to do to match the government’s aspiration for how digital, data and AI can transform public service delivery."
+    },
+    {
+      "block_id": "b151",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "What is different this time?"
+    },
+    {
+      "block_id": "b152",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "We believe this moment is different. We recognise that an even greater level of ambition is needed; we have learnt from what has worked and what hasn’t; and we have an opportunity to build on the collective commitment of ministers across government to this reform. We have:"
+    },
+    {
+      "block_id": "b153",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "• A recognition across the public sector, from the NHS to the courts system, that digitally‑enabled change is a vital and urgent part of getting our public services working again."
+    },
+    {
+      "block_id": "b154",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "• A clear shared vision, backed by senior ministerial sponsorship by the Digital Inter‑Ministerial Group representing the Department for Science, Innovation and Technology (DSIT), HM Treasury and the Cabinet Office."
+    },
+    {
+      "block_id": "b155",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "• A strengthened digital centre of government, bringing together specialist digital, data and AI skills into a single central organisation."
+    },
+    {
+      "block_id": "b156",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "• Commitment to fixing the systemic blockers that have held previous attempts back, including a focus on funding models designed for digital delivery through the upcoming spending review, and opportunities to improve public procurement of digital and technology as the Procurement Act 2023 comes into force next year."
+    },
+    {
+      "block_id": "b157",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "• A moment of change in the technology landscape, with the advent of generative AI bringing new opportunities and threats that compel action."
+    },
+    {
+      "block_id": "b158",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "A six-point plan for government digital reform"
+    },
+    {
+      "block_id": "b159",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "1. Join up public sector services"
+    },
+    {
+      "block_id": "b160",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "2. Harness the power of AI for the public good"
+    },
+    {
+      "block_id": "b161",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "3. Strengthen and extend our digital and data public infrastructure"
+    },
+    {
+      "block_id": "b162",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "4. Elevate leadership, invest in talent"
+    },
+    {
+      "block_id": "b163",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "5. Fund for outcomes, procure for growth and innovation"
+    },
+    {
+      "block_id": "b164",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "What is different this time?"
+      ],
+      "text": "6. Commit to transparency, drive accountability"
+    },
+    {
+      "block_id": "b165",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "1. Join up public sector services"
+    },
+    {
+      "block_id": "b166",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "To the user, public services are not joined up. Some people have to interact with more than 40 different services across nine organisations when managing a long-term condition or disability. The digital centre will work with departments to enable next generation public services and make it easier to join up and act as one public sector."
+    },
+    {
+      "block_id": "b167",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "Creating GOV.UK and building better services around user needs was a great start. But if we really want services that do the hard work, we need to create the right conditions for building them and change how we develop policy in the first place."
+    },
+    {
+      "block_id": "b168",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "To radically improve value for money we need new approaches to transforming services, both nationally, and local areas as we invest to support place-based growth. We need to holistically improve policies, business processes, data, and systems rather than on a piecemeal basis. That’s a considerable shift in how government delivers."
+    },
+    {
+      "block_id": "b169",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "The digital centre will build on existing work to enable more personalised user interactions across multiple channels. To make it easier to join up services we plan to scale common infrastructure. We will continue to create a shared digital workplace where public servants can access and use the latest AI and productivity tools. And over time we will extend this work to the wider public sector."
+    },
+    {
+      "block_id": "b170",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "Aligning with other ongoing work on digital inclusion, we aim to improve digital access to public services and support the digitally excluded."
+    },
+    {
+      "block_id": "b171",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b172",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "The Home Office’s EU Settlement Scheme showed how a digital-first, cross organisational approach, with collaboration across HM Revenue & Customs (HMRC) and the Department of Work and Pensions (DWP) digital and policy teams, could automate residency verification for over 6 million people at record pace."
+    },
+    {
+      "block_id": "b173",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b174",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "The Ministry for Housing, Communities and Local Government’s (MHCLG) Levelling Up and Regeneration Act was developed by policy and digital teams working together, producing legislation that would transform the planning system for the modern digital age. This included new powers for Ministers to set planning data standards and software requirements."
+    },
+    {
+      "block_id": "b175",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b176",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b177",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "• Introduce a Digital Wallet to store government credentials, and require services to issue a digital verified credential alongside any paper/card based credential or proof of entitlement eligibility by the end of 2027.1"
+    },
+    {
+      "block_id": "b178",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "1 There will be some limited exceptions to this target date, for example for international travel documents."
+    },
+    {
+      "block_id": "b179",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "• Establish a ‘once only’ rule, so that if people have provided information to one service, it can be reused by others with appropriate safeguards. It will start with central government services and commonly reused data, but be designed to scale over time to the broader public sector and more information."
+    },
+    {
+      "block_id": "b180",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "• Work towards all legislation being ‘digital ready’ to reduce complexities in service delivery and improve efficiencies, drawing on Denmark’s approach."
+    },
+    {
+      "block_id": "b181",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "• Stand up a new Service Transformation Team to look at whole public sector service transformation and the improvement of priority services, accelerating delivery of the Plan for Change."
+    },
+    {
+      "block_id": "b182",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "1. Join up public sector services"
+      ],
+      "text": "• Save money and effort by streamlining the procurement and provision of devices and tools – and cloud and compute resources in the future – and enabling public servants to work easily across organisations and at different security levels."
+    },
+    {
+      "block_id": "b183",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "2. Harness the power of AI for the public good"
+    },
+    {
+      "block_id": "b184",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "The digital centre will strengthen responsible AI use and skills across government. The work of the AI Incubator (i.AI) will focus on building and testing AI tools to boost public sector productivity, targeting the £45 billion per year potential improvements identified in the State of Digital Government report."
+    },
+    {
+      "block_id": "b185",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "As outlined in the recently published AI Opportunities Action Plan, AI has enormous potential to improve lives, drive growth and increase productivity, for example by helping target preventative interventions better at those who need them. We must harness this by integrating AI and automation safely and securely within the design and delivery of public services. We have made a good start, with the creation of i.AI and work in many parts of the public sector to explore and pilot potential opportunities, but there is a long way to go, for example to address the data fundamentals needed to make AI possible."
+    },
+    {
+      "block_id": "b186",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "What’s more, we have a unique opportunity to demonstrate the use of AI in line with public values to promote equity, fairness, and transparency. The public sector will role model the responsible use of AI and seek to partner with the UK’s thriving AI sector in the process."
+    },
+    {
+      "block_id": "b187",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "That means we will continue our work to embed AI and automation in common products and platforms to provide public servants with better tools to support their work and improve services for the public. Building on the work of the Responsible Tech Adoption Unit, we will provide clear and actionable guidance to embed best practices in trust and responsibility, as well as taking a proactive approach to managing the environmental impact of our use of AI and other technologies."
+    },
+    {
+      "block_id": "b188",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b189",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "Hillingdon Council became the first UK local authority to use voice automation and AI at scale, creating an AI-driven citizen contact system that reduces cost per call by 5% and immediately provided the capacity of 25-30 full time employees, successfully delivering a cost saving of £5 for every pound spent and allowing citizens to phone the council 24 hours a day."
+    },
+    {
+      "block_id": "b190",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b191",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b192",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Build on the work of the Incubator for AI (i.AI) to provide rapid prototyping and innovation, identifying and buying or building solutions focused on public sector productivity including customer service, casework, prevention and policy work, working with other departments and public bodies who will continue to deliver the majority of AI solutions."
+    },
+    {
+      "block_id": "b193",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Offer specialist assurance support, including a service to rigorously test models and products before release."
+    },
+    {
+      "block_id": "b194",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Create an external Responsible AI Advisory Panel and a dedicated in-house team. The Panel will bring together expert insight from the public sector (including frontline workers), industry, academia and civil society groups to provide constructive challenge and advice, and shape standards based on best practice."
+    },
+    {
+      "block_id": "b195",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Build and regularly convene AI and data communities of practice across the public sector, to further shape our response to fast growing technology, and support practitioners across government by providing expert advice on AI and reusable technical solutions."
+    },
+    {
+      "block_id": "b196",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Build up a strong technical market intelligence capability to inform procurement and design decisions, recognising that AI and its uses are evolving rapidly."
+    },
+    {
+      "block_id": "b197",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "2. Harness the power of AI for the public good"
+      ],
+      "text": "• Develop a sourcing and procurement framework for AI, including rapid procurement and mission-focused national tenders."
+    },
+    {
+      "block_id": "b198",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "3. Strengthen and extend our digital and data public infrastructure"
+    },
+    {
+      "block_id": "b199",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Our infrastructure needs to be stronger than ever before to protect against current and future threats. In the last year alone, we have seen multiple examples of the impact that our digital systems failing can have on the lives of people across the UK. The digital centre will build on GOV.UK One Login, improve data infrastructure, and strengthen cybersecurity and national technical resilience."
+    },
+    {
+      "block_id": "b200",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Thousands of teams across the public sector are already using our world-leading digital components such as GOV.UK Notify, Pay and Design System. We need to do more of this and build the underlying infrastructure that makes it easy for teams across the whole public sector to work together, access shared technical components and data, and connect with external organisations and the public. For example, we will support the introduction of a single unique identifier for children to improve data linkage."
+    },
+    {
+      "block_id": "b201",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Our infrastructure also needs to be resilient and secure against threats if we’re to build and maintain public trust and confidence. Currently, vital systems and services are too exposed to risk: we need to tackle these and embed security by design, at scale."
+    },
+    {
+      "block_id": "b202",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "That means we will continue our work to expand GOV.UK One Login’s availability, while exploring the development of an equivalent for businesses. We will continue our work to reduce the barriers to sharing data by implementing standards, frameworks and tools that ensure quality, trust, security, privacy and interoperability."
+    },
+    {
+      "block_id": "b203",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "We should adopt best practices for technical resilience, focusing on safeguarding key services and managing failures with integration into existing cyber response capabilities. We will evolve centrally defined guidance with proven patterns and standards developed with industry partners for responsible technology adoption, and we will continue to explore how to improve the environmental sustainability of government’s digital services."
+    },
+    {
+      "block_id": "b204",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b205",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "HMRC’s Making Tax Digital service allows businesses to submit VAT returns from their accounting software via an HMRC API. HMRC provide clear public guidance on the API, with over 500 external accounting software providers now integrated to the service, offering businesses a much wider range of choice for how they interact with HMRC."
+    },
+    {
+      "block_id": "b206",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b207",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "The NHS runs one of the biggest collaboration platforms in the world for 1.8 million people and is developing an NHS Marketplace that will enable the sharing of secure, interoperable and accessible digital solutions across the NHS. It will be platform agnostic, encouraging innovation and supporting a variety of applications, including third-party apps, locally developed solutions from the NHS’s 46,000 digital and data professionals, and enterprise-built tools, providing a comprehensive ecosystem for innovation and efficiency that will enable the NHS to deliver better patient care."
+    },
+    {
+      "block_id": "b208",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b209",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b210",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Create the National Data Library, making it easier to find and reuse data across public sector organisations; this supports better prevention, intervention and detection, and opens up data to industry, the voluntary sector, start‑ups and academics to accelerate AI-driven innovation and boost growth."
+    },
+    {
+      "block_id": "b211",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Introduce a Digital Backbone: the integration, orchestration and instrumentation technology needed to share capabilities and build true end-to-end journeys, such as exposing, creating, processing and maintaining APIs across the public sector. We intend to open up the Backbone for industry to publish services and products for use across the public sector, providing a streamlined way to consume services from the market."
+    },
+    {
+      "block_id": "b212",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Mandate the publication of a standard set of APIs and events by public sector organisations. Starting with an expectation that every new service in central government departments will have an open API."
+    },
+    {
+      "block_id": "b213",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Develop and implement a more interventionist model for cyber security and technical resilience, acting as one to tackle severe and systemic risks, and help prioritise and identify the required funding for remediation, including legacy technology."
+    },
+    {
+      "block_id": "b214",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Deploy a new vulnerability scanning service for the public sector, to detect weaknesses and take preventative action on them."
+    },
+    {
+      "block_id": "b215",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "3. Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "• Set up a Technical Design Council led by expert technology, data and AI practitioners, to tackle the toughest and most strategic technical decisions with the needs of the whole sector in mind."
+    },
+    {
+      "block_id": "b216",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "4. Elevate leadership, invest in talent"
+    },
+    {
+      "block_id": "b217",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "The public sector’s digital and data capability is severely lacking, and as a result depends heavily on third parties. This is costly, with the average contractor costing three times as much as a public servant. The digital centre will work with the Government People Group to elevate digital leadership, invest in the profession and the competition for talent, and raise the digital skills baseline for all public servants."
+    },
+    {
+      "block_id": "b218",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "Change won’t happen without the right people with the right expertise, working at the right levels, in multidisciplinary teams. We need greater technological literacy at the top of public sector organisations to ensure that digital is not an add-on but a core skillset across the public sector."
+    },
+    {
+      "block_id": "b219",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "We need to make digital government the compelling choice for specialists seeking new careers by competing successfully with the private sector, providing an attractive public sector offering for specialists, and growing talent from within."
+    },
+    {
+      "block_id": "b220",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "That means we will continue our work to equip all senior leaders to be effective in the digital age through an updated curriculum and learning programme. We will enhance digital, cyber security, and AI understanding among non-specialists by integrating standards and learning into all professional curricula, which is a significant culture shift."
+    },
+    {
+      "block_id": "b221",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "We will also work with the people function to run high-profile recruitment campaigns targeting the most important skills gaps. And we will look to expand the cross-government TechTrack upskilling apprenticeship programme and protect headcount to develop the future pipeline of digital experts. We will explore opportunities to link up this work across the broader public sector, for example into the NHS."
+    },
+    {
+      "block_id": "b222",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b223",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "The Driver Vehicle and Licensing Agency’s (DVLA) Centre of Digital Excellence has 15 programmes with academic qualifications, professional certifications and apprenticeships, with 13% of their digital and technology organisation in this pipeline."
+    },
+    {
+      "block_id": "b224",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b225",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b226",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Develop and assess the optimum employment models to attract, grow and mobilise expert digital talent."
+    },
+    {
+      "block_id": "b227",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Assess the overall package for digital and data professionals, including remuneration, with a view to ensuring our offer is competitive within the market, making the UK public sector an attractive and viable place for digital specialists."
+    },
+    {
+      "block_id": "b228",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Work with the Government Property Agency to establish a Digital Hub in Manchester, building on its already thriving tech sector and a number of existing public sector digital teams in the city."
+    },
+    {
+      "block_id": "b229",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Require that all public sector organisations have a digital leader on their executive committee and a digital non-executive director on their board by 2026 at the latest and publish this information publicly.2"
+    },
+    {
+      "block_id": "b230",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "2 A Chief Digital Information Officer (CDIO), Chief Technology Officer (CTO), Chief Data Officer (CDO) or leader in service transformation, product or customer experience with deep digital expertise. We will consult on detailed criteria to determine organisations in scope and envisage that this would apply to the majority of organisations."
+    },
+    {
+      "block_id": "b231",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Establish a dotted reporting line to the Government Chief Digital Officer (GCDO) for all CDIOs in central government, including input into recruitment decisions, coaching support and feedback on performance."
+    },
+    {
+      "block_id": "b232",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "4. Elevate leadership, invest in talent"
+      ],
+      "text": "• Raise the status of the GCDO role to Second Permanent Secretary‑level."
+    },
+    {
+      "block_id": "b233",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "5. Fund for outcomes, procure for growth and innovation"
+    },
+    {
+      "block_id": "b234",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "Only one in five State of Digital Government survey respondents felt the current funding model enabled effective investment in and running of digital services. The digital centre will work with HM Treasury to reform the government’s funding approach, and work with the Government Commercial Function to maximise the value and potential of public procurement."
+    },
+    {
+      "block_id": "b235",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "We must spend in line with modern digital practice, both internally and with suppliers. Digital services need to be funded in a way that focuses on outcomes, allows for prototyping, iteration and pivots, addresses risks and enables joined-up action across the sector. The way we fund also needs to explicitly address service resilience, cyber security shortfalls and technical debt – so that we prevent the creation of new and costly legacy."
+    },
+    {
+      "block_id": "b236",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "As the country’s largest digital buyer, we must also make use of our scale to unlock greater value and procure in a way that drives creation of responsible, inclusive and secure technologies and benefits the public, public services and UK businesses including SMEs."
+    },
+    {
+      "block_id": "b237",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "That means we will continue our work to streamline governance and approvals to enable agility and iterative delivery while protecting value for money. We will also continue our work to negotiate whole-of-public-sector agreements and contracting once for a limited number of high value cases, including platform services such as cloud. And we will align research, innovation and procurement policies to create ‘cradle-to-growth’ relationships with innovators and entrepreneurs."
+    },
+    {
+      "block_id": "b238",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b239",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "The Advanced Research and Innovation Agency (ARIA) follows a single business case approach, whereby only one business case for ARIA must be cleared with HM Treasury, with pre-agreed risk tolerance appetites in its project and programme funding. While the organisation as a whole has an open scope, individual programmes have a clearly defined scientific or technological ‘mission’. Empowered programme managers distribute funding across a range of projects, with each project contributing to the overall aims of the programme. This approach enables ARIA to stop projects quickly and re-allocate funding and resources, minimise hurdles across a typical project lifecycle, and create an agile and efficient operating model."
+    },
+    {
+      "block_id": "b240",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b241",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "DWP and MOJ jointly ran a ‘reverse pitch’ exercise where they pitched three problem statements to a broad spectrum of small and large companies at three events in London, Leeds and Manchester. Teams were provided access to subject matter experts to discuss the problem statements, and given half a day to build a pitch for a ‘Dragons Den’ panel on how the problem could be addressed. This offered a new route for a much greater variety of organisations to engage with big departments, with the best ideas taken forwards into three-month proof of concept phases."
+    },
+    {
+      "block_id": "b242",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b243",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b244",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "• Launch tailored funding models for digital products and services, legacy remediation and risk reduction, and staged, agile funding that better enables exploratory work with new technologies."
+    },
+    {
+      "block_id": "b245",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "• Expand use of performance-based, outcomes-focused funding modelsthat tie funding to metrics and accelerate the shift from ‘boom and bust’ transformation programmes to continuous funding of persistent, multidisciplinary product teams."
+    },
+    {
+      "block_id": "b246",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "• Define a comprehensive sourcing strategy for what we build, what we buy and how we partner, helping to drive greater efficiency across the £26 billion the UK government spends annually on digital technology."
+    },
+    {
+      "block_id": "b247",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "5. Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "• Launch work on a Digital Commercial Centre of Excellence to identify opportunities for further reform and improvements needed to enable tech startups, scaleups and SMEs to access government contracts."
+    },
+    {
+      "block_id": "b248",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform"
+      ],
+      "text": "6. Commit to transparency, drive accountability"
+    },
+    {
+      "block_id": "b249",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "The digital centre will help central government work in the open, publish more performance data and act on it to improve accountability."
+    },
+    {
+      "block_id": "b250",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "Increased use of technology can improve government services, making them faster, more personalised and consistent. But experience shows that things can go wrong, and that automated mistakes can scale quickly."
+    },
+    {
+      "block_id": "b251",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "We need to make sure that agile accountability mechanisms are baked into the system, with frontline public servants able to apply oversight and judgement to individual decisions, and senior leaders able to account for the overall operation of a system."
+    },
+    {
+      "block_id": "b252",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "Transparency is crucial to making accountability possible. It is essential to foster trust, giving people and businesses confidence that government organisations are treating them, and their data, with appropriate care."
+    },
+    {
+      "block_id": "b253",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "That means we will enhance transparency by building on the Algorithmic Transparency Recording Standard to increase openness about AI usage, working with the new Responsible AI External Panel (see point two). Our services will be designed to give people visibility and control over how their data is used, ensuring it benefits end users. We will include diverse external voices in impact assessments for new technologies to ensure comprehensive and inclusive evaluations."
+    },
+    {
+      "block_id": "b254",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "We will include diverse external voices in impact assessments for new technologies to ensure comprehensive and inclusive evaluations."
+    },
+    {
+      "block_id": "b255",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "Good practice example:"
+    },
+    {
+      "block_id": "b256",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "Camden Council have led the way in working with local citizens and the Alan Turing Institute to develop a data charter, building trust in how they use data about local residents. This has enabled them to use data with confidence to improve citizen experiences of council services, while maintaining public confidence in a borough with huge disparities in wealth and opportunity."
+    },
+    {
+      "block_id": "b257",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "Priority reforms"
+    },
+    {
+      "block_id": "b258",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "The new digital centre will catalyse change across the public sector. It will:"
+    },
+    {
+      "block_id": "b259",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Empower public servants to work in the open to improve our services and build public trust. This means giving hard-working teams credit for their achievements, while being open about the challenges and learning in public from each other and from the wider world."
+    },
+    {
+      "block_id": "b260",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Create an inventory of services to measure the progress of service modernisation and publish a version of this in the open."
+    },
+    {
+      "block_id": "b261",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Set an expectation that all central government departments publish their public-facing product roadmaps at least annually and talk about what services they’re working on and why. Encourage other public sector organisations to do the same."
+    },
+    {
+      "block_id": "b262",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Co-develop a methodology for measuring the administrative burden including the ‘time tax’ government places on people, and track progress on reducing it, involving civil society groups in the design."
+    },
+    {
+      "block_id": "b263",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Require departments to publish metrics at least annually on the outcomes they achieve, including service performance, value for money, resilience, digital inclusion and AI adoption."
+    },
+    {
+      "block_id": "b264",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3 Making it happen: a six-point plan for government digital reform",
+        "6. Commit to transparency, drive accountability"
+      ],
+      "text": "• Hold Secretaries of State accountable for their department’s performance against these measures, including through regular reviews with the Digital Inter‑Ministerial Group (annually for the largest operational departments)."
+    },
+    {
+      "block_id": "b265",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 4 Driving this change"
+    },
+    {
+      "block_id": "b266",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "We’ve made the case for change, set out a vision for what it should look like, and listed our plan for getting started. Next, we will describe how the digital centre will take the lead."
+    },
+    {
+      "block_id": "b267",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "The digital centre will be overseen by the Digital Inter-Ministerial Group consisting of the Secretary of State for Science, Innovation and Technology, the Chief Secretary to the Treasury, and chaired by the Chancellor of the Duchy of Lancaster. This group will advocate for digital change across government, putting the conditions in place that enable departments to deliver, driving major cross-government digital and data programmes, holding departments to account, and prioritising funding."
+    },
+    {
+      "block_id": "b268",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "The digital centre’s scope and remit"
+    },
+    {
+      "block_id": "b269",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "The digital centre’s scope and remit"
+      ],
+      "text": "The digital centre will be led by the Government Chief Digital Officer. It will be a distinct unit within the Department for Science, Innovation and Technology (DSIT), unifying existing teams across the Government Digital Service (GDS), the Central Digital and Data Office (CDDO), the Incubator for Artificial Intelligence (i.AI), Geospatial Commission and parts of the Responsible Tech Adoption Unit into one organisation. This new integrated function will be referred to as the Government Digital Service."
+    },
+    {
+      "block_id": "b270",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "The digital centre’s scope and remit"
+      ],
+      "text": "The expanded Government Digital Service exists to serve departments and the wider public sector. It will be magnetic: the home of specialist expertise in digital service design, AI and other areas. It will be catalytic: enabling teams in different organisations to work together more easily to deliver the missions and power public sector reform. It will be strategic: ensuring that the use of digital in the public sector drives efficiency and productivity gains, and helps accelerate economic growth. And it will be collegiate: working in partnership with colleagues across and beyond the public sector – including over time with local councils, police forces and arm’s length bodies (ALBs) – who will continue to be home to the vast majority of digital, data and technology specialists."
+    },
+    {
+      "block_id": "b271",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "Changes in focus"
+    },
+    {
+      "block_id": "b272",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "Changes in focus"
+      ],
+      "text": "The full remit of the new Government Digital Service is set out in Annex A, but in summary, the focus will shift towards catalysing joined-up delivery in line with the government’s missions, to drive better services that cut across organisational and functional boundaries and different levels of government, and that serve businesses as well as individuals to improve people’s experience of government. That will require us to serve and connect the wider public sector, starting with targeted support for local government and the NHS, and eventually reaching approximately 100,000 digital and data professionals across the public sector."
+    },
+    {
+      "block_id": "b273",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "Changes in focus"
+      ],
+      "text": "As we embrace and encourage the use of AI at scale, we’ll work hard to use it safely and ethically, building upon existing delivery expertise in GDS, and specialist expertise in i.AI to plan, incubate and scale AI products, working with other departments."
+    },
+    {
+      "block_id": "b274",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "Changes in focus"
+      ],
+      "text": "We’ll be responsible for taking a strategic view of national opportunities and risks, developing more strategic relationships with technology companies of all sizes, and proactively monitoring and addressing threats to resilience at a national level."
+    },
+    {
+      "block_id": "b275",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "Changes in focus"
+      ],
+      "text": "There are some things we will stop doing, especially things that are delivered better outside the centre, or where central ownership slows down teams. That will mean radical consolidation of guidance and standards for digital and technology, retiring out-of-date and duplicative things, updating critical ones, streamlining the information teams need and making it easier for them to understand what to do. We’ll reform controls, in favour of more strategic, data-driven decision-making using performance metrics; and close the Top 75 programme in favour of a focus on catalysing deeper service transformation."
+    },
+    {
+      "block_id": "b276",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "What this will feel like for the public sector"
+    },
+    {
+      "block_id": "b277",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "We’re not here to take the wheel – we’re here to steady the ship."
+    },
+    {
+      "block_id": "b278",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "The majority of digital teams in central government departments and the wider public sector already know what to do, and how best to do it. They should – and will – continue to lead the delivery of their services, for their users. They will be home to the vast majority of digital, data and technology specialists. The digital centre will support and champion this work, providing leadership and guardrails where needed, and getting out of the way of delivery where it is not. Our aspiration is that organisations will see and feel:"
+    },
+    {
+      "block_id": "b279",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• Greater clarity on what the centre does, and who to go to for what."
+    },
+    {
+      "block_id": "b280",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• An elevated digital and data profession that is seen as a decision-maker and driver of public service reform."
+    },
+    {
+      "block_id": "b281",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• Confidence to work in the open, being open about the challenges and learning in public."
+    },
+    {
+      "block_id": "b282",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• Public celebration of success, giving hard-working teams credit for their achievements, and helping teams learn from one another."
+    },
+    {
+      "block_id": "b283",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• Better support and tools to deliver, including guidance and processes that are easier to understand and less reliant on controls and interventions alone."
+    },
+    {
+      "block_id": "b284",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• Easier ways to join up work across organisations so that collaboration becomes the norm, teams have the agency to take on cross-cutting challenges, and there is a coherent thread from policy intent to delivery."
+    },
+    {
+      "block_id": "b285",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for the public sector"
+      ],
+      "text": "• More focus on addressing risks, including cyber security and legacy technology, and data quality."
+    },
+    {
+      "block_id": "b286",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "What this will feel like for suppliers and the UK tech sector"
+    },
+    {
+      "block_id": "b287",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for suppliers and the UK tech sector"
+      ],
+      "text": "The public sector cannot deliver this transformation alone: we need to work in partnership with a thriving tech sector across the UK. If we get this relationship right, we can deliver more digital change in the public sector, and support growth in the UK tech sector. Over time, tech companies will find:"
+    },
+    {
+      "block_id": "b288",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for suppliers and the UK tech sector"
+      ],
+      "text": "• It is easier to do business with the public sector, regardless of how big your organisation is, with more consistency and less complexity in the demands made of suppliers."
+    },
+    {
+      "block_id": "b289",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for suppliers and the UK tech sector"
+      ],
+      "text": "• There are more opportunities to link their products and services directly with digital public services or data sets, delivering more for users, building on good examples in tax and public transport."
+    },
+    {
+      "block_id": "b290",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for suppliers and the UK tech sector"
+      ],
+      "text": "• Relationships with the digital centre are clearer, especially for suppliers that supply a product or service to multiple government organisations."
+    },
+    {
+      "block_id": "b291",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 4 Driving this change"
+      ],
+      "text": "What this will feel like for civil society and local communities"
+    },
+    {
+      "block_id": "b292",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for civil society and local communities"
+      ],
+      "text": "The more we work in the open, the clearer our intentions will be. That helps people feel that they have a voice, they are listened to, and that they can play a part in shaping the services they rely on. Civil society groups have a key role to play in making this possible. We will follow the principles of the Civil Society Covenant Framework launched by the Prime Minister in October 2024, which are currently being consulted on. Civil society groups will find that:"
+    },
+    {
+      "block_id": "b293",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for civil society and local communities"
+      ],
+      "text": "• They are invited to co-design services in partnership with communities and public sector workers to ensure they are responsive to their needs."
+    },
+    {
+      "block_id": "b294",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for civil society and local communities"
+      ],
+      "text": "• They are able to use data sets to influence their own decision-making and service delivery."
+    },
+    {
+      "block_id": "b295",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for civil society and local communities"
+      ],
+      "text": "• Their voices are listened to and respected, via the new Responsible Tech Advisory Panel."
+    },
+    {
+      "block_id": "b296",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4 Driving this change",
+        "What this will feel like for civil society and local communities"
+      ],
+      "text": "• The public sector holds itself to the highest standards of ethics, accountability and transparency in its use of AI and digital technologies."
+    },
+    {
+      "block_id": "b297",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 5 Next steps"
+    },
+    {
+      "block_id": "b298",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps"
+      ],
+      "text": "3 Over 2.5 million people are economically inactive due to long term health issues, with 26m people affected in total, including the family and friends who support them. This challenge cuts across health, employment, education and housing, with an individual potentially accessing 43+ services across nine organisations (DWP, NHS England and Trusts, Department of Health and Social Care, Department for Education, DVLA, HMRC, MHCLG, local authorities, Network Rail)."
+    },
+    {
+      "block_id": "b299",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps"
+      ],
+      "text": "Today, we’re establishing the new digital centre, unifying existing teams as a single organisation and point of access and expertise for central government and – over time – organisations across the wider public sector."
+    },
+    {
+      "block_id": "b300",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 5 Next steps"
+      ],
+      "text": "Kickstarters to kick things off"
+    },
+    {
+      "block_id": "b301",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "Over the first six months of 2025, the digital centre will start by launching five bold and transparent kickstarter initiatives. They will be designed to showcase a new era of digital government, delivering progress and cultural change through open collaboration and public engagement."
+    },
+    {
+      "block_id": "b302",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "More specifically, we’ll start work on:"
+    },
+    {
+      "block_id": "b303",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "• A beta GOV.UK App and GOV.UK Wallet, enabling more personalised user experiences, verifiable digital credentials, and next-generation public services."
+    },
+    {
+      "block_id": "b304",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "• Collaborations with organisations across the public sector, supporting the government’s goal to Get Britain Working, by piloting improvements on how we can better manage a long-term health condition or disability.3"
+    },
+    {
+      "block_id": "b305",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "• Piloting GOV.UK Chat, an LLM-powered chat user interface for GOV.UK that resolves complex queries using natural language in seconds, providing targeted support to and reducing friction for businesses and business users. Marking our shift to better support businesses and growth in the new digital centre, we also see this as a good way of demonstrating responsible use of AI in digital public services."
+    },
+    {
+      "block_id": "b306",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "• Launching a new AI accelerator upskilling programme, helping digital professionals to become machine learning engineers. This will deliver important new AI expertise in leading government departments."
+    },
+    {
+      "block_id": "b307",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Kickstarters to kick things off"
+      ],
+      "text": "• Launching a new cross-government vulnerability scanning service, so that we can find and address weaknesses in our systems and services. This work is vital in ensuring our infrastructure is resilient and is a step towards better securing it against threats."
+    },
+    {
+      "block_id": "b308",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Section 5 Next steps"
+      ],
+      "text": "Addressing the big challenges"
+    },
+    {
+      "block_id": "b309",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "We have more work to do to define how the digital centre will tackle some of the biggest challenges. To get started on this, we will:"
+    },
+    {
+      "block_id": "b310",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "• Work with HM Treasury to take a new approach to digital funding in Spending Review Phase 2, demonstrating and testing a shift in funding models to drive the right outcomes, better value, increase agility and reduced risk. There’ll be more focus on realising efficiencies and productivity gains across departments, including through tackling fraud and waste."
+    },
+    {
+      "block_id": "b311",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "• Start work on a Digital Commercial Centre of Excellence, identifying opportunities for reform to digital procurement practices and policies to support growth and innovation."
+    },
+    {
+      "block_id": "b312",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "• Research the needs of UK businesses to streamline their interactions with central government and scope the potential of GOV.UK One Login equivalents for businesses."
+    },
+    {
+      "block_id": "b313",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "• Work with local government, MHCLG and other departments to define new models for collaboration, aimed at improving outcomes for residents and reducing the financial burden on local authorities. This will include identifying opportunities to:"
+    },
+    {
+      "block_id": "b314",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "–Extend the digital centre’s specialist talent programmes and adapt capability"
+    },
+    {
+      "block_id": "b315",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "frameworks to meet local authorities’ needs and boost local digital leadership."
+    },
+    {
+      "block_id": "b316",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "–Extend the digital centre’s work on technology procurement and strategic supplier"
+    },
+    {
+      "block_id": "b317",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "management to help local government achieve better outcomes and value for money."
+    },
+    {
+      "block_id": "b318",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "–Set common data standards and taxonomies, and facilitate better data exchange to"
+    },
+    {
+      "block_id": "b319",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "enable more joined-up services."
+    },
+    {
+      "block_id": "b320",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "–Reduce and better co-ordinate the digital and data demands on local authorities from"
+    },
+    {
+      "block_id": "b321",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "central government (which for instance occur through policy changes)."
+    },
+    {
+      "block_id": "b322",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "• Set out clear metrics for how we will drive and measure progress against the outcomes described in this document."
+    },
+    {
+      "block_id": "b323",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 5 Next steps",
+        "Addressing the big challenges"
+      ],
+      "text": "In summer 2025, we’ll publish a new Government Digital and AI Roadmap, setting a clear direction for digital and the safe and responsible use of AI in the public sector. We’ll align this with the Spending Review to secure funding for priorities and be transparent in how we communicate progress in the years ahead, and how we will support the five national missions."
+    },
+    {
+      "block_id": "b324",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Annex: The new Government Digital Service"
+    },
+    {
+      "block_id": "b325",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Annex: The new Government Digital Service"
+      ],
+      "text": "At a glance guide to the remit of the digital centre"
+    },
+    {
+      "block_id": "b326",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Setting direction and strategy"
+    },
+    {
+      "block_id": "b327",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Setting the overarching vision and strategy for government digital, including publishing a new Government Digital and AI Roadmap in summer 2025."
+    },
+    {
+      "block_id": "b328",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Setting strategy in specific cross-functional areas or domains, to include legislative development, data and sourcing strategy."
+    },
+    {
+      "block_id": "b329",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Delivering common products and services"
+    },
+    {
+      "block_id": "b330",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Running and improving GOV.UK and developing the GOV.UK App."
+    },
+    {
+      "block_id": "b331",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Continuing the rollout of GOV.UK One Login."
+    },
+    {
+      "block_id": "b332",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Maintaining and investing in our suite of GOV.UK common components, including Forms, Pay and Notify."
+    },
+    {
+      "block_id": "b333",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Managing Public Sector Domains including .gov.uk."
+    },
+    {
+      "block_id": "b334",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Incubating AI products, and scaling these into cross government services."
+    },
+    {
+      "block_id": "b335",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Defining a common public sector approach and delivering centralised infrastructure for verifiable digital credentials."
+    },
+    {
+      "block_id": "b336",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Building the National Data Library and delivering the National Underground Asset Register."
+    },
+    {
+      "block_id": "b337",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Catalysing delivery and building community"
+    },
+    {
+      "block_id": "b338",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Providing direct ‘centre of excellence’ expertise to practitioners across government, in particular in AI, risk and resilience, service delivery and data."
+    },
+    {
+      "block_id": "b339",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Incubate work to join up public sector services, and accelerate delivery of the missions, through a new Service Transformation Team."
+    },
+    {
+      "block_id": "b340",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Championing the work of teams across government, by shining a spotlight on good practice."
+    },
+    {
+      "block_id": "b341",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Building community, including by supporting the development of communities of practice."
+    },
+    {
+      "block_id": "b342",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Effectively prioritise spend in Spending Review Phase 2 to drive greater efficiency and interoperability."
+    },
+    {
+      "block_id": "b343",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Convening and co-ordinating cross-government groups including the Functional Leadership Group for Chief Digital and Information Officers."
+    },
+    {
+      "block_id": "b344",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Maintaining guidance and tools to support best practice including the Service Manual."
+    },
+    {
+      "block_id": "b345",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Saving money and applying guardrails"
+    },
+    {
+      "block_id": "b346",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Measuring and managing digital performance across government via a consistent metrics framework and governance model."
+    },
+    {
+      "block_id": "b347",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Applying central spend assurance and digital spend controls, in line with earned autonomy principles."
+    },
+    {
+      "block_id": "b348",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Negotiating whole-of-public-sector commercial agreements."
+    },
+    {
+      "block_id": "b349",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Providing shared cyber security services including domain-based vulnerability management, the Cyber Assessment Framework and an information assurance service for Public Services Network, in collaboration with Government Security Group and the National Cyber Security Centre."
+    },
+    {
+      "block_id": "b350",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Taking a cross public sector view of national technical resilience."
+    },
+    {
+      "block_id": "b351",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Supporting and advocating for the profession"
+    },
+    {
+      "block_id": "b352",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Maintaining and building out the Capability Framework."
+    },
+    {
+      "block_id": "b353",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Assess the overall package for digital and data professionals, including remuneration."
+    },
+    {
+      "block_id": "b354",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Managing and building on the Government Digital and Data brand to aid recruitment."
+    },
+    {
+      "block_id": "b355",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Setting the policies and standards that digital teams must meet when designing and delivering services, building or buying products, and running a digital function – currently including the Service Standard, Technology Code of Practice, Functional Standard, GovAssure, Secure by Design, data standards owned by the Data Standards Authority, Data Maturity Assessment and Algorithmic Transparency Recording Standard."
+    },
+    {
+      "block_id": "b356",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Ensuring close collaboration with HM Treasury and the Cabinet Office, and with other cross-government priorities including the national missions and public sector reform."
+    },
+    {
+      "block_id": "b357",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "Changes in structure"
+    },
+    {
+      "block_id": "b358",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "To deliver this change, the digital centre will make some internal changes too. It will:"
+    },
+    {
+      "block_id": "b359",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Bring GDS and CDDO back together, reducing duplication and ensuring a clear single place for departments and other public sector organisations to go to."
+    },
+    {
+      "block_id": "b360",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Evolve central AI capabilities in line with the AI Opportunities Action Plan, to meet the existing and emergent challenges and opportunities."
+    },
+    {
+      "block_id": "b361",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Set up a new Service Transformation Team to look at whole public sector service transformation and the improvement of priority services."
+    },
+    {
+      "block_id": "b362",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Expand its scope to include catalysing change and join-up across the wider public sector, starting with local government and the NHS."
+    },
+    {
+      "block_id": "b363",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Work towards an account management structure to enable more strategic partnership with government departments and other partners."
+    },
+    {
+      "block_id": "b364",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "• Take full advantage of the transition into DSIT to join up our approach to using digital technologies in the public sector with government’s approach to digital technology in the broader economy (including on how we engage with the tech industry, and improve, amongst other things, cyber security, technical resilience and digital inclusion)."
+    },
+    {
+      "block_id": "b365",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex: The new Government Digital Service",
+        "At a glance guide to the remit of the digital centre"
+      ],
+      "text": "E03270724 ISBN 978-1-5286-5375-6"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-nvidia-on-ai-and-advanced-connectivity-technologies/memorandum-of-understanding-between-uk-and-nvidia-on-ai-and-advanced-connectivity-technologies",
+  "fetched_at": "2026-09-09T20:08:13.434596+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Memorandum of Understanding between UK and NVIDIA on AI and Advanced Connectivity Technologies"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Memorandum of Understanding ( MoU ) between NVIDIA and the UK government (Department for Science, Innovation and Technology - DSIT ) on AI and Advanced Connectivity Technologies ( ACT ) opportunities."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "AI and Advanced Connectivity Technologies"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "AI and Advanced Connectivity Technologies"
+      ],
+      "text": "In line with the UK government’s commitment to accelerating AI adoption in key industries, the use of AI in Advanced Connectivity Technologies (“ ACT ”) can improve network performance and efficiency, strengthen security, and improve customer experiences, as well as creating new applications and revenue opportunities."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "AI and Advanced Connectivity Technologies"
+      ],
+      "text": "DSIT is facilitating collaboration between NVIDIA and leading UK universities to promote the UK’s goals for ACT ."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "AI and Advanced Connectivity Technologies"
+      ],
+      "text": "The UK government is committed to commercialisation by fostering collaboration between academia and industry, supporting the development of cutting-edge research into scalable, commercially viable products that can also shape international standards."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Empowering the UK research ecosystem"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering the UK research ecosystem"
+      ],
+      "text": "Under this collaboration, NVIDIA intends to support a consortium of UK universities in using a suite of powerful AI tools, platforms, and training resources for R&D into ACT ."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering the UK research ecosystem"
+      ],
+      "text": "Participation is expected to be open to universities across the UK’s world-leading ACT research ecosystem and this includes engagement through the EPSRC -funded Federated Telecoms Hubs."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering the UK research ecosystem"
+      ],
+      "text": "DSIT intends to support the convening of UK researchers with NVIDIA to share findings and strengthen the UK’s voice within global standards development organisations."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Areas of research"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Areas of research"
+      ],
+      "text": "This collaboration is intended to deepen the relationship between academia, industry, and NVIDIA."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Areas of research"
+      ],
+      "text": "Through its 6G Developer Program and Academic Grant Program, NVIDIA intends to provide access to its AI Aerial platform, advanced compute infrastructure, simulation tools, and training. These resources will help empower UK researchers to: Develop AI -driven solutions for Advanced Connectivity Technologies, including Edge AI applications such as anomaly detection and infrastructure optimisation, population modelling tools, AI -powered service delivery, cloud-distributed learning, and energy-efficient AI execution. Leverage advanced platforms and simulation environments to test and deploy AI tools in complex scenarios - such as high-speed mobility and satellite communications - while contributing to the development of open, standardised simulation frameworks for fair benchmarking. Access cutting-edge AI infrastructure and tools through physical research centres and Lab-as-a-Service ( LaaS ) models, with opportunities for shared hardware access to democratise innovation across universities, SMEs , and telecom operators. Build and utilise data centres and datasets tailored to UK-specific telecom use cases, supported by both synthetic and real-world data, with a strong emphasis on transparent governance and energy efficiency. Strengthen training and capability building by addressing the existing skills gap through structured training programmes, technical support, and the sharing of best practices to maximise the impact of NVIDIA’s toolsets. Contribute to global standards and innovation in 6G through the production of proofs of concept and other real-world demonstrations of ACT in action."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Areas of research"
+      ],
+      "text": "DSIT and NVIDIA intend to explore these shared priorities, with details - including resource commitments and timelines - to be finalised through ongoing collaboration and subsequent agreements. The activities described above are voluntary, not legally binding, and without prejudice to any future procurement decisions or signed agreements."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Signatories"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Signatories"
+      ],
+      "text": "Sir Chris Bryant MP Minister of State for Data Protection and Telecoms"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Signatories"
+      ],
+      "text": "Ronnie Vasishta SVP , Telecom, NVIDIA"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Signatories"
+      ],
+      "text": "Date: 9 June 2025."
+    }
+  ],
+  "doc_id": "2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity"
+}

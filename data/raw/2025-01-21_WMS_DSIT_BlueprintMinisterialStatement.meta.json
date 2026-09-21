@@ -1,0 +1,12 @@
+{
+  "doc_id": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html",
+  "final_url": "https://questions-statements.parliament.uk/written-statements/detail/2025-01-21/hcws375",
+  "sha256": "1b0348869e9eed933380b967869c032508d20810dbb4f219a93cba62a791d204",
+  "bytes": 8366,
+  "n_blocks": 20,
+  "error": null,
+  "source": "browser_prefetch"
+}

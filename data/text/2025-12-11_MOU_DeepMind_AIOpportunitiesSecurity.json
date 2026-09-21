@@ -1,0 +1,178 @@
+{
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "source_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security",
+  "fetched_at": "2026-08-29T15:24:05.320676+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Memorandum of Understanding between the UK and Google DeepMind on AI opportunities and security"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introduction"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "This Memorandum of Understanding ( MoU ) outlines the shared intent of the Department for Science, Innovation and Technology ( DSIT ) and Google DeepMind to collaborate on initiatives to deliver the UK’s AI Opportunities Action Plan and advance UK preparedness for transformative AI ."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Google DeepMind and DSIT share an ambition to harness the transformative potential of AI to drive scientific breakthroughs, building on the UK’s world-class scientific research base and Google DeepMind’s leadership in AI for Science."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Both parties share a commitment to secure, responsible AI development. This strategic partnership will advance AI security and support the UK to safely capture the transformative benefits of AI ."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Google DeepMind is committed to supporting the goals and implementation of the US-UK Tech Prosperity Deal to enhance cooperation in science and technology matters, including through the initiatives set out in this MoU ."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 1: Promote responsible adoption of AI to transform public services"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1: Promote responsible adoption of AI to transform public services"
+      ],
+      "text": "DSIT and Google DeepMind will deepen their collaborations to support the UK in leveraging the responsible adoption of AI to transform public services at scale and deliver opportunities to improve people’s lives throughout the UK."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1: Promote responsible adoption of AI to transform public services"
+      ],
+      "text": "Google DeepMind and DSIT will explore high-impact solutions for responsible AI adoption across the public sector. As part of this partnership, Google DeepMind may offer engineering expertise and other support for potential collaborations with government departments and the Incubator for AI ( i.AI ). To support the delivery of public services, Google DeepMind and Google Cloud will explore a ‘Gemini for Government’ offer for UK government departments. Google DeepMind will seek to develop a version of Gemini grounded in the national curriculum for England that meets government expectations for safety in education. Google DeepMind will also support research into AI in education and its impact on teaching and learning."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 2: Accelerate scientific discovery and innovation"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2: Accelerate scientific discovery and innovation"
+      ],
+      "text": "DSIT and Google DeepMind will collaborate to advance the UK’s position as a world-leader in AI for Science, building on the UK’s leading scientific strengths and research excellence and maximising the potential of AI in accelerating scientific discovery."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2: Accelerate scientific discovery and innovation"
+      ],
+      "text": "Google DeepMind and DSIT will work together to support the launch of automated R&D and lab facilities in the UK and address practical challenges to their establishment. The UK’s scientific research community will receive priority access to Google DeepMind’s latest AI for Science models and tools, including AI co-scientist, AlphaEvolve, AlphaGenome and WeatherNext. Google DeepMind will continue to collaborate with the government and the UK scientific community to identify priorities for AI -ready datasets in strategically important domains, such as fusion energy."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 3: Advance AI security and preparedness"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3: Advance AI security and preparedness"
+      ],
+      "text": "DSIT and Google DeepMind will build on the UK’s established global leadership in AI security and collaborate to drive cutting-edge security research and advance the UK’s scientific understanding of AI ’s transformative impacts."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3: Advance AI security and preparedness"
+      ],
+      "text": "Google DeepMind will deepen its work with the UK AI Security Institute ( AISI ) through enhanced technical information exchange on frontier AI capabilities and their real-world impacts, including indicators of accelerating AI progress, economic effects, and emerging security risks. The partnership will advance joint research on AI safety, security and societal resilience, with Google DeepMind providing AISI with priority technical access to its frontier models. Google DeepMind will also collaborate with the UK government to explore AI -enhanced approaches to national cyber resilience, including initiatives to identify and remediate threats at scale."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "General terms"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "General terms"
+      ],
+      "text": "This MoU is between The Secretary of State for the Department for Science, Innovation and Technology ( DSIT ) acting on behalf of the Crown, of 22-26 Whitehall, London SW1A 2EG, UK ( DSIT ) and Google LLC , of 1600 Amphitheatre Parkway, Mountain View, California 94043, USA (Google DeepMind)."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "General terms"
+      ],
+      "text": "The MoU takes effect from the date of the last signature and will remain active for 36 months."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "General terms"
+      ],
+      "text": "This MoU is voluntary, not legally binding, and without prejudice to any existing or future binding agreements. DSIT intends to conduct any future procurements in full accordance with applicable laws and regulations. Participation in this MoU will neither advantage nor disadvantage Google DeepMind or its affiliates in any current or future competitive processes. There is no intent for DSIT or Google DeepMind to undertake activities that could give rise to an organisational conflict of interest in relation to any future procurements. This MoU does not create an obligation for either party to pursue any particular commercial agreement and does not create any financial commitments."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "General terms"
+      ],
+      "text": "Any data shared under this MoU shall be handled in compliance with all applicable data privacy laws and regulations, including UK GDPR . No personal data shall be processed between the parties without an appropriate data sharing agreement in place."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Signatories"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Signatories"
+      ],
+      "text": "Rt Hon Liz Kendall MP Secretary of State for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Signatories"
+      ],
+      "text": "Sir Demis Hassabis Co-Founder and CEO , Google DeepMind"
+    }
+  ]
+}

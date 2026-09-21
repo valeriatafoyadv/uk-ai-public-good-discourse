@@ -1,0 +1,67 @@
+doc_id,genre,speaker,family,n_nominal,n_variant,n_distributive,nominal_forms
+2024-01-18_STRAT_CDDO_GenerativeAIFramework,STRAT,CDDO,None,2,0,1,public good; the public good
+2024-02-06_REG_DSIT_ProInnovationAIRegulation,REG,DSIT,None,4,2,3,public good; the public good
+2025-01-13_STRAT_DSIT_AIActionPlanGovResponse,STRAT,DSIT,None,0,1,1,
+2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn,STRAT,DSIT,None,0,1,0,
+2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI,PRGOV,PMO,None,1,0,5,public good
+2025-01-21_WMS_DSIT_BlueprintMinisterialStatement,WMS,DSIT,None,3,0,2,ai for the public good; public good; the public good
+2025-01-21_STRAT_GDS_StateOfDigitalGovReview,STRAT,DSIT_and_GDS,None,4,0,3,public good; the public good
+2025-01-27_BLOG_GDS_SameNameNewAmbitions,BLOG,GDS,None,0,0,0,
+CONTEXT_2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan,STRAT,External_adviser,None,0,0,1,
+2025-02-10_STRAT_GDS_AIPlaybookUKGovernment,STRAT,GDS,None,4,9,1,public good
+2025-02-10_BLOG_GDS_LaunchingAIPlaybook,BLOG,GDS,None,0,0,0,
+2025-01-21_STRAT_GDS_BlueprintModernDigitalGov,STRAT,DSIT_and_GDS,None,9,0,3,ai for the public good; public good; the public good
+2026-01-20_BLOG_GDS_OurRoadmapLaunch,BLOG,GDS,None,2,0,0,ai for public good; public good
+2026-01-20_STRAT_GDS_RoadmapModernDigitalGov,STRAT,DSIT_and_GDS,None,3,0,0,ai for the public good; public good; the public good
+2026-01-19_WMS_DSIT_RoadmapMinisterialStatement,WMS,DSIT_and_GDS,None,0,0,0,
+2026-01-27_PRGOV_DSIT_TopBritishAIExpertise,PRGOV,DSIT,None,2,1,3,public good; the public good
+2025-08-18_BLOG_GDS_AIExemplarsProgramme,BLOG,GDS,None,2,0,0,ai for public good; public good
+2025-02-14_MOU_Anthropic_AIOpportunities,MOU,DSIT_and_Anthropic,Anthropic,0,0,0,
+2025-02-14_PRCO_Anthropic_SignsMOUUKGov,PRCO,Anthropic,Anthropic,0,0,0,
+2026-01-27_PRCO_Anthropic_GOVUKPartnership,PRCO,Anthropic,Anthropic,0,2,0,
+2025-06-16_MOU_Cohere_AIOpportunities,MOU,DSIT_and_Cohere,Cohere,0,0,0,
+2025-06-15_PRCO_Cohere_CanadaUKPartnerships,PRCO,Cohere,Cohere,0,0,0,
+2025-07-21_MOU_OpenAI_AIOpportunities,MOU,DSIT_and_OpenAI,OpenAI,0,0,1,
+2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice,PRGOV,DSIT,OpenAI,0,0,3,
+2025-07-21_PRCO_OpenAI_StrategicPartnership,PRCO,OpenAI,OpenAI,0,0,0,
+2025-10-22_PRCO_OpenAI_NextChapterSovereignAI,PRCO,OpenAI,OpenAI,0,0,0,
+2025-09-16_PRCO_OpenAI_StargateUK,PRCO,OpenAI,OpenAI,0,0,0,
+2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity,MOU,DSIT_and_DeepMind,DeepMind,0,0,0,
+2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind,PRGOV,DSIT,DeepMind,4,0,3,ai for public good; public good; the public good
+2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership,PRCO,DeepMind,DeepMind,0,0,0,
+2025-12-10_PRCO_DeepMind_StrengtheningPartnership,PRCO,DeepMind,DeepMind,0,1,0,
+2026-06-08_MOU_ElevenLabs_AIOpportunities,MOU,DSIT_and_ElevenLabs,ElevenLabs,0,0,1,
+2026-02-18_PRCO_ElevenLabs_UKAISIPartnership,PRCO,ElevenLabs,ElevenLabs,0,0,0,
+2026-06-08_PRCO_ElevenLabs_UKMOUExpansion,PRCO,ElevenLabs,ElevenLabs,0,0,0,
+2025-02-14_PRGOV_DSIT_TacklingAISecurityRisks,PRGOV,DSIT,None,0,0,0,
+2026-01-29_WMS_DSIT_AIActionPlanOneYearOnMinisterialStatement,WMS,DSIT,None,0,1,0,
+2026-06-08_MOU_Cisco_AIOpportunities,MOU,DSIT_and_Cisco,Cisco,0,0,0,
+2026-06-08_PRCO_Cisco_JoinsForcesUKGov,PRCO,Cisco,Cisco,0,0,0,
+2026-06-08_MOU_Synthesia_AISkillsOpportunities,MOU,DSIT_and_Synthesia,Synthesia,0,0,0,
+2025-06-09_MOU_NVIDIA_AISkills,MOU,DSIT_and_NVIDIA,NVIDIA,0,0,0,
+2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity,MOU,DSIT_and_NVIDIA,NVIDIA,0,0,0,
+2025-06_PRCO_NVIDIA_UKPartnership_,PRCO,NVIDIA,NVIDIA,0,0,0,
+2025-10-23_PRGOV_MOJ_OpenAIDataHosting,PRGOV,DSIT,OpenAI,0,0,0,
+2025-12-18_STRAT_GDS_DataAIEthicsFramework,STRAT,DSIT,None,1,6,2,public good
+2025-01-13_WMS_DSIT_AIActionPlanMinisterialStatement,WMS,DSIT,None,0,0,3,
+2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships,PRGOV,DSIT,Anthropic,0,0,1,
+2025-06-02_WMS_DSIT_CrossGovernmentAIExperiment,WMS,DSIT,None,2,0,2,ai for public good; public good
+2024-07-26_WMS_DSIT_AIActionPlanCommissioning,WMS,DSIT,None,0,0,1,
+2024-02-06_WMS_DSIT_AIRegulationGovResponse,WMS,DSIT,Anthropic,0,1,0,
+2025-02-07_BLOG_GDS_ShapingDigitalCentre_,BLOG,GDS,None,0,0,0,
+2025-11-07_BLOG_TechInGov_SourcingStack_,BLOG,DSIT,None,0,0,0,
+2026-04-15_BLOG_GDS_GDSLocalFoundations_,BLOG,GDS,None,0,0,0,
+2026-01-21_BLOG_GDS_DigitalWalletReality_,BLOG,GDS,None,0,0,0,
+2025-10-03_BLOG_CDDO_AISummitResearch_,BLOG,DSIT,None,3,0,0,public good; the public good
+2025-03-27_BLOG_CDDO_UserResearchAI_,BLOG,DSIT,None,0,0,0,
+2025-03-10_BLOG_CDDO_ResponsibleAIFrameworks_,BLOG,DSIT,None,0,1,0,
+2026-07-02_BLOG_TechInGov_ResponsibleAICloudEvent_,BLOG,DSIT,None,0,0,0,
+2025-07-16_BLOG_CDDO_ResponsibleAIAdvisoryPanel_,BLOG,DSIT,None,3,0,0,ai for the public good; public good; the public good
+2025-09-22_BLOG_CDDO_TestAssureAI_,BLOG,DSIT,None,0,0,0,
+2025-05-27_BLOG_DataInGov_ResponsibleAIHR_,BLOG,DSIT,None,0,0,0,
+2025-12-18_BLOG_DataInGov_DataAIEthicsFramework_,BLOG,DSIT,Cohere,0,0,0,
+2025-02-18_BLOG_TechInGov_CloudFirst12_,BLOG,DSIT,None,0,0,0,
+2025-11-24_BLOG_GDS_GDSLocalGoesLive_,BLOG,GDS,None,0,0,0,
+2026-05-15_BLOG_InsideGOVUK_DevelopingChat_,BLOG,DSIT,Anthropic,0,0,0,
+2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_,BLOG,DSIT,None,0,0,0,
+2025-03-07_BLOG_GDS_VisualisingModernDigitalGov_,BLOG,GDS,None,0,0,0,

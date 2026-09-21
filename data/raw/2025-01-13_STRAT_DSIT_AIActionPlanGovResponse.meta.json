@@ -1,0 +1,11 @@
+{
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response/ai-opportunities-action-plan-government-response",
+  "sha256": "46b7712f375a3cf15efc35656d680aaa16bda4d8d4d9b2920b8431612d195ecc",
+  "bytes": 190714,
+  "n_blocks": 53,
+  "error": null
+}

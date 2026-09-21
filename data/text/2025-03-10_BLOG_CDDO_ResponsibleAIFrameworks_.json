@@ -1,0 +1,208 @@
+{
+  "source_url": "https://cddo.blog.gov.uk/2025/03/10/developing-frameworks-and-tools-to-support-responsible-data-and-ai-use-across-the-public-sector/",
+  "fetched_at": "2026-09-10T15:58:00.416135+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Developing frameworks and tools to support responsible data and AI use across the public sector"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The UK government’s recently announced AI Opportunities Action Plan underlines the importance of safe and responsible AI adoption to drive innovation, boost economic growth, and improve public services - crucial drivers of the government’s Plan for Change ."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "As the Data Ethics team here in GDS, we play a vital role in supporting responsible innovation across the public sector. Our role involves convening expertise on topics such as fairness, accountability, legal obligations, and ethical risks in the development of data and technology products and policies."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "We provide frameworks, tools and guidance to promote the ethical and trustworthy use of data and data-driven technologies across the public sector. One of our key products, the Data Ethics Framework , helps public sector teams deliver data projects in responsible, fair, and transparent ways. To make sure the framework remains relevant and useful, we’re updating it - and we need your help!"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What’s the Data Ethics Framework?"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "The Data Ethics Framework is designed to help anyone working with data in the public sector to consider the ethical dimensions that may arise during their projects. It follows three key principles - transparency, accountability and fairness - and provides five specific actions that teams should follow throughout their projects:"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "Define public benefit and user need"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "Involve diverse expertise"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "Comply with the law"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "Check the quality and limitations of the data"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "Evaluate and consider wider policy implications"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s the Data Ethics Framework?"
+      ],
+      "text": "The framework was first published in 2016, and updated in 2018 and 2020 following user testing and consultation with public sector teams."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "We’re refreshing the Data Ethics Framework"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "Since the framework’s last update in 2020, we’ve seen rapid advancements in areas such as AI."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "We want to make sure the framework reflects these changes, remains relevant and practical, and continues to support public trust in government’s use of data and data-driven technologies."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "After engaging with teams across government, we found that the volume and variety of guidance, and lack of clear signposting make it difficult for people to find the right resources and know which ones to follow for their projects."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "We’re reviewing and updating the Data Ethics Framework with the goal to:"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "Provide the latest, comprehensive central government guidance on data and AI ethics, aligning across and merging existing documents where possible"
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "Align the framework with the latest advice and best practice"
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "Make it easier for teams to apply to real projects"
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "We’re refreshing the Data Ethics Framework"
+      ],
+      "text": "Provide clearer guidance on emerging issues such as AI"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "We need your feedback"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "We need your feedback"
+      ],
+      "text": "Whether you’re a civil servant, researcher, or working in the wider public sector on data and technology projects, your insights are invaluable. We’ve launched a short survey to gather your views."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "We need your feedback"
+      ],
+      "text": "Your feedback will help us shape the next version of the framework so that it better meets user needs, and reliably identifies ethical risks. Please get in touch with us if you can share case studies of how you’ve used the framework in your project."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Making guidance more accessible"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Making guidance more accessible"
+      ],
+      "text": "Having spoken to teams across government, we've learned that the landscape of guidance can be complex and hard to navigate. We understand that teams need accessible guidance to be able to confidently address emerging challenges."
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Making guidance more accessible"
+      ],
+      "text": "To support this, we’ve created a Guidance Hub , which brings together key documents and makes it easier for public sector teams to find the right resources."
+    }
+  ],
+  "doc_id": "2025-03-10_BLOG_CDDO_ResponsibleAIFrameworks_"
+}

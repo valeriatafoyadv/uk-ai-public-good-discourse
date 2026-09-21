@@ -1,0 +1,159 @@
+{
+  "source_url": "https://questions-statements.parliament.uk/written-statements/detail/2024-07-26/hcws24",
+  "fetched_at": "2026-09-09T20:08:10.821520+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "AI Opportunities Action Plan"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Statement made on 26 July 2024"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024"
+      ],
+      "text": "Statement UIN HCWS24"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 26 July 2024"
+      ],
+      "text": "Statement made by"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 26 July 2024"
+      ],
+      "text": "Statement"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "Artificial Intelligence (AI) has enormous potential to drive economic growth, through productivity improvements and technological innovation, and to stimulate more effective public service design and delivery. These are opportunities the United Kingdom cannot afford to miss and that is why AI, alongside other technologies, will support the delivery of our five national missions. Through targeted action this Government will support the growth of the AI sector, enable the safe adoption of AI across the economy and lead the way in deploying it responsibly in our public services to make them better."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "Today, I am setting out our plans to create an ambitious AI Opportunities Action Plan, and our next steps on the regulation of frontier AI systems."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "I have appointed tech entrepreneur and Chair of the Advanced Research Invention Agency (ARIA), Matt Clifford CBE, to develop the AI Opportunities Action Plan. It will set out how government can support the growth of the AI sector and compete on the global stage, while also including actions designed to boost the responsible adoption of AI across all parts of the economy. This Plan will identify ways to accelerate the use of AI to improve people's lives by making services better and developing new products."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "The Action Plan will also address key AI enablers such as the UK’s compute and broader infrastructure requirements; how this infrastructure is made available to industry as well as researchers; and how to develop, attract and retain top AI talent. To develop the Action Plan, Matt Clifford will engage with academic, industry and civil society experts."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "Matt Clifford will deliver a set of recommendations to me by September. To support implementation of the Action Plan, an AI Opportunities Unit will be established within the Department for Science, Innovation and Technology."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "Delivering the Plan will play a vital role in driving up productivity and kickstarting economic growth. Estimates from the IMF show that while the exact economic impact hinges on the wider development and adoption of AI, and realisation could be gradual, the UK could ultimately see productivity gains of up to 1.5 percent annually."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "While AI has the potential to boost our productivity, unlock new sources of growth, and improve the quality and efficiency of our public services, we know that advanced capabilities also present risks. In the King’s Speech on 17 July, the Government set out its intention to legislate in line with our manifesto commitment to place requirements on those working to develop the most powerful artificial intelligence models."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "This legislation will place the AI Safety Institute on a statutory footing, providing it with a permanent remit to enhance the safety of AI over the longer term."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "Our proposals will be highly targeted and will support growth and innovation by ending regulatory uncertainty for AI developers, strengthening public trust, and boosting business confidence. They will avoid creating new rules for those using AI and will instead apply to the small number of developers of the most powerful AI models with a focus on the AI systems of tomorrow and not today."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Statement"
+      ],
+      "text": "We will shortly launch a consultation on these legislative proposals, to harness the insights and expertise of the AI industry, academia and civil society."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 26 July 2024"
+      ],
+      "text": "Statement from"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 26 July 2024"
+      ],
+      "text": "Linked statements"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 26 July 2024",
+        "Linked statements"
+      ],
+      "text": "This statement has also been made in the House of Lords"
+    }
+  ],
+  "doc_id": "2024-07-26_WMS_DSIT_AIActionPlanCommissioning"
+}

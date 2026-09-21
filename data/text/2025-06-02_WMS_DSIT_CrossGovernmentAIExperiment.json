@@ -1,0 +1,231 @@
+{
+  "source_url": "https://questions-statements.parliament.uk/written-statements/detail/2025-06-02/hcws669",
+  "fetched_at": "2026-09-09T20:08:10.033570+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "AI in Government: Cross Government Experiment Report"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Statement made on 2 June 2025"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025"
+      ],
+      "text": "Statement UIN HCWS669"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 2 June 2025"
+      ],
+      "text": "Statement made by"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 2 June 2025"
+      ],
+      "text": "Statement"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "I wish to inform the House of the findings from the recent Microsoft 365 Copilot experiment - a landmark government AI experiment, which demonstrates this government's bold commitment to harnessing cutting-edge technology to transform public service delivery and gain better value for the taxpayer."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "The Government Digital Service (GDS) led this cross-government experiment using an AI-powered assistant from September to December 2024, involving 20,000 civil servants across 12 major government organisations. The experiment used a robust methodology to evaluate whether AI tools could:"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "improve user satisfaction at work"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "reduce effort required to complete tasks"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "improve task quality"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "reduce time spent on routine activities"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "The eye-opening findings report will be published shortly on Gov.uk and show AI tools are liberating civil servants from repetitive administrative tasks, unleashing their talents on strategic priorities that deliver greater value for Britain and British taxpayers."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Key Findings"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "The most common benefits reported were increased productivity and reduced time searching for information. Importantly, many users indicated that productivity gains allowed them to spend more time on strategic and satisfying tasks."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Data received from the 12 participating departments indicate a strong impact on time savings, with people saving an average of 26 minutes per day. Users reported increased work quality and motivation, as well as improving employee experience. In particular:"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Adoption and usage : The experiment achieved an impressive 83% adoption rate within the first month. Adoption levels of around 80% were maintained throughout the experiment."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Time savings: the tool has a strong impact on time savings, with people saving an average of 26 minutes per day. More than a third of users reported to have saved more than half an hour a day."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "User satisfaction: Users display a strong value / attachment to using the tool and reported it increased work quality and motivation. 85% of users agree that the AI tool provides good value to the organisation. 82% of users wouldn’t want to go back to working without using an AI assistant."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Limitations: 17% of users did not notice any clear time savings. Professions that saved the least amount of time were those with the lowest satisfaction scores."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "Conclusions: Priority should now be given to implementing an AI tool with groups showing the highest and lowest time savings, to better understand the tool’s impact and limitations across diverse user segments and professions. Priority should also be given to exploring how AI tools can improve accessibility, on which we have got some anecdotal evidence, and implementing benefits tracking for deeper insights."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "This experiment is just one example of how we're using technology to drive far-reaching reform across the public sector. By putting the power of AI to work for the British people, we're creating a government that is more efficient, responsive, and equipped to meet the challenges of the 21st century aligning with our broader vision set out in the Blueprint for Modern Digital Government to harness the power of AI for public good."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "In line with our commitment to AI adoption in the public sector, we will take these findings forward through the newly established AI adoption unit within the Government Digital Service, which will build and deploy AI into public services, grow AI capacity and capability across government, and ensure trust, responsibility and accountability in all we do. As part of this work, we are exploring a range of AI tools to assess their benefits, recognising that different AI tools and technologies may add more or less value depending on the use case."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Statement"
+      ],
+      "text": "We will continue to update the House on our progress as we work to make government more efficient, responsive, and fit for the digital age."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 2 June 2025"
+      ],
+      "text": "Statement from"
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Statement made on 2 June 2025"
+      ],
+      "text": "Linked statements"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Statement made on 2 June 2025",
+        "Linked statements"
+      ],
+      "text": "This statement has also been made in the House of Lords"
+    }
+  ],
+  "doc_id": "2025-06-02_WMS_DSIT_CrossGovernmentAIExperiment"
+}

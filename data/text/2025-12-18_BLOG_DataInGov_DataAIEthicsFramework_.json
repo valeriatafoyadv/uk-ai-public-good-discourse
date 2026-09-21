@@ -1,0 +1,216 @@
+{
+  "source_url": "https://dataingovernment.blog.gov.uk/2025/12/18/building-trust-in-data-and-ai-the-new-data-and-ai-ethics-framework-and-self-assessment-tool/",
+  "fetched_at": "2026-09-10T15:58:04.688920+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Building trust in data and AI: the new Data and AI Ethics Framework and self-assessment tool"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The use of data and artificial intelligence (AI) is helping government improve productivity and deliver better public services across many different areas. As data-driven technologies continue to evolve, however, it’s essential that guidance keeps pace to support their responsible development and use. That’s why we’ve refreshed the Data Ethics Framework - and developed a new self-assessment tool to support teams in making ethical decisions across the life cycle of their data and AI projects. The updated title is the Data and AI Ethics Framework , which reflects these changes."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "The Responsible Data and AI team"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "The Responsible Data and AI team"
+      ],
+      "text": "Our team plays a central role in supporting the ethical and safe adoption of data-driven technologies and AI in the public sector. We help teams across the public sector to innovate responsibly by offering practical tools and guidance, such as the Algorithmic Transparency Recording Standard (ATRS) and the AI Playbook for the UK Government ."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Why we updated the framework"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we updated the framework"
+      ],
+      "text": "The Data Ethics Framework was first published in 2016 and last updated in 2020. Since its inception, it has been helping teams across the public sector and beyond in delivering data projects in fair, transparent and accountable ways. However, rapid advancements in AI are creating new and complex ethical challenges related to fairness, transparency, accountability, privacy, safety, societal impact and sustainability. As a result, we’ve updated the framework to ensure it remains relevant, and continues to support public trust in the government’s use of data and data-driven technologies."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Our methodology"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Our methodology"
+      ],
+      "text": "We’ve refreshed the framework to reflect feedback from over 100 users across government, gathered through surveys, workshops and interviews. As part of our user-centred approach, we carried out:"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Our methodology"
+      ],
+      "text": "a survey, workshops and deep dives with policy, delivery and technical teams"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Our methodology"
+      ],
+      "text": "one-to-one interviews with data and AI practitioners, including data governance professionals and data analysts"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Our methodology"
+      ],
+      "text": "iterative testing and drafting of content, which received feedback from government departments and external experts"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Our methodology"
+      ],
+      "text": "This approach has helped us understand how teams currently engage with ethics guidance, where gaps exist, and what practical support is needed. We also collaborated with external experts such as the Alan Turing Institute, and civil society organisations such as Connected by Data, to ensure the framework is grounded in real-world concerns and reflects diverse perspectives."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What’s new"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s new"
+      ],
+      "text": "The new Data and AI Ethics Framework includes several updates:"
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s new"
+      ],
+      "text": "we’ve expanded the scope to cover AI and algorithmic technologies, and updated content on working with data"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s new"
+      ],
+      "text": "we’ve expanded the ethical principles to also cover privacy, environmental sustainability, societal impact and safety, in addition to fairness, accountability and transparency"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s new"
+      ],
+      "text": "we’re aligning the framework more closely with other government resources, such as the Model for Responsible Innovation , the AI Playbook and the ATRS , to provide a coherent suite of resources to support responsible innovation"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s new"
+      ],
+      "text": "we’ve included a self-assessment tool that teams can use alongside the framework to help identify risks and impacts in their data and AI projects"
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "How to use the framework"
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "How to use the framework"
+      ],
+      "text": "The framework is written primarily for people who are designing, building, implementing, maintaining or updating projects that use data, AI and algorithmic technologies in the public sector. This may include developers, project managers, analysts, statisticians, policy, commercial or procurement professionals and more."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "How to use the framework"
+      ],
+      "text": "Users can work through the framework individually or as a team while planning, implementing and evaluating a new project. Each part of the framework is designed to be regularly revisited throughout a project’s life cycle, especially when changes are made. The self-assessment tool can be a helpful component in a robust governance process for data and AI tools within an organisation."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "quotation",
+      "heading_path": [
+        "How to use the framework"
+      ],
+      "text": "“ This publication promises to have a profound and lasting impact at a critical juncture in the UK’s AI journey. At a time when ‘frontier AI’ systems present a new scope and scale of risks and opportunities, this effort by the GDS Responsible Data and AI Team will steward a trustworthy path forward for civil servants and AI developers as the rapid adoption of AI begins to radically transform government services and public administration across Great Britain. The framework will anchor and advance the UK’s pacesetting global leadership in responsible AI design, development, deployment and procurement for a long time to come .” Professor David Leslie Director of Ethics and Responsible Innovation Research, The Alan Turing Institute, and Professor of Ethics, Technology and Society, Queen Mary University of London."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Plans going forward and how you can help"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Plans going forward and how you can help"
+      ],
+      "text": "We’re launching the new Data and AI Ethics Framework in an iterative way, with plans to publish an updated version in the first half of 2026. Over the next months, we’re:"
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Plans going forward and how you can help"
+      ],
+      "text": "doing more user testing to understand what works well, areas for improvement, and how people are using the framework"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Plans going forward and how you can help"
+      ],
+      "text": "exploring options for developing an interactive online version to make the framework easier to use"
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Plans going forward and how you can help"
+      ],
+      "text": "planning on hosting information sessions to support use of the framework across government"
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Plans going forward and how you can help"
+      ],
+      "text": "We’re keen to hear how the Data and AI Ethics Framework and self-assessment tool works for you. If you have any suggestions, feedback, questions, would like to be informed about upcoming events or would like to participate in user research, please email us at GDS-Responsible-Data-AI@dsit.gov.uk ."
+    }
+  ],
+  "doc_id": "2025-12-18_BLOG_DataInGov_DataAIEthicsFramework_"
+}

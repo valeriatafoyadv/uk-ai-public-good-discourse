@@ -1,0 +1,12 @@
+{
+  "doc_id": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html",
+  "final_url": "https://cohere.com/blog/canada-uk-government-partnerships",
+  "source": "direct",
+  "sha256": "66e149cdd57cf9f0b0357e491775e11e0d485f229a51057b789231c2843f8017",
+  "bytes": 360242,
+  "n_blocks": 16,
+  "error": "direct fetch 200 pero cuerpo insuficiente (title=True, body_chars=118) -> intento archive.org | archive.org status=503 | resuelto vía renderizado JS (r.jina.ai) sobre la URL directa"
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://elevenlabs.io/blog/uk-mou-and-expansion",
+  "source": "direct",
+  "sha256": "7a65af221e20fb0203d433f307d910b1ab4bd7c35b440820ae7ac55ba8f0dcd4",
+  "bytes": 422572,
+  "n_blocks": 23,
+  "error": null
+}

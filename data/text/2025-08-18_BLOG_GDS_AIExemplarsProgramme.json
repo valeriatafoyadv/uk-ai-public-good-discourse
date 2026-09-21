@@ -1,0 +1,321 @@
+{
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "source_url": "https://gds.blog.gov.uk/2025/08/18/the-prime-ministers-ai-exemplars-programme-a-portfolio-approach-to-public-sector-innovation/",
+  "fetched_at": "2026-08-29T15:24:05.153444+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "The Prime Minister’s AI Exemplars programme: A portfolio approach to public sector innovation"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Yesterday, Technology Secretary Peter Kyle announced a suite of new artificial intelligence (AI) Exemplar products across a range of government departments. Sponsored by the Prime Minister as an initiative to revolutionise our public services, the AI Exemplars Programme will explore new ways for services like justice, education and the NHS to make best use of emerging technology by embracing a test and learn culture with AI."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Background on the products already announced as PM’s AI Exemplars can be found here ."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Embracing a test and learn culture"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "The Prime Minister’s AI Exemplars Programme represents a fundamental shift in how the public sector approaches innovation. Rather than only pursuing a single, high-stakes technological solution, we've deliberately adopted a portfolio approach that acknowledges an important element of innovation: not everything is guaranteed to scale to production, and that's by design."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "Numerous potential AI use cases across government were identified, then a subset of Exemplars that represent the most promising opportunities were selected. This diverse Exemplar portfolio spans various levels of maturity, technology types, and delivery approaches, allowing us to:"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "progress multiple use cases simultaneously"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "learn quickly from both successes and failures"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "adopt responsibility while maximising potential return on investment"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "allow teams across the public sector to share learnings on AI adoption"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "create opportunities to scale AI rapidly across the public sector."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Embracing a test and learn culture"
+      ],
+      "text": "The portfolio focuses on improving public services in practical ways: helping doctors discharge patients from hospitals more quickly while maintaining clinical oversight, speeding up planning decisions to improve consistency and reduce bureaucracy for homeowners."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Scan > Pilot > Scale: A structured approach to innovation"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Scan > Pilot > Scale: A structured approach to innovation"
+      ],
+      "text": "We're following the \"Scan > Pilot > Scale\" approach outlined in the AI Opportunities Action Plan . This plan recommended the digital centre of government should support public sector partners where needed to “move fast and learn things”."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Scan > Pilot > Scale: A structured approach to innovation"
+      ],
+      "text": "Our approach identifies promising AI technologies, tests viable solutions through targeted pilots, and scales successful initiatives across government. We continuously monitor emerging technology, quickly halt underperforming projects to manage risk, and document lessons to create reusable components—balancing innovation with pragmatism. This approach has been shown as the best way to accelerate innovation."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "The role of GDS: catalyst and enabler"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler"
+      ],
+      "text": "GDS plays a crucial role as the digital centre for government, we’re here to support as a delivery agent and a catalyst for wider innovation."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler"
+      ],
+      "text": "What GDS brings to the portfolio"
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "What GDS brings to the portfolio"
+      ],
+      "text": "GDS is the digital centre of government that has been brought together in the Department of Science Innovation and Technology (DSIT). To support our work in successfully and safely scaling AI, we have set up a Public Sector AI Adoption Unit. This acts as a focus for bringing support to Exemplars, including:"
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "What GDS brings to the portfolio"
+      ],
+      "text": "Technical expertise: Deep specialist knowledge in digital service design, AI implementation, and responsible innovation"
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "What GDS brings to the portfolio"
+      ],
+      "text": "Rapid prototyping capability: The mindset of GDS's AI Incubator (i.AI) has been to \"move fast and learn things\" – building 22 AI prototypes with 11 now at Alpha or Beta stage, all within the last 12 months ( read more on the Incubator for AI blog )"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "What GDS brings to the portfolio"
+      ],
+      "text": "Cross-government perspective: The ability to identify opportunities for reuse and scale across departmental boundaries"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "What GDS brings to the portfolio"
+      ],
+      "text": "Common enablers: Working with other central functions to accelerate critical work on procurement models, recruitment, training, security assessments, and responsible AI frameworks"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler"
+      ],
+      "text": "Three delivery models:"
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Three delivery models:"
+      ],
+      "text": "The programme deliberately employs multiple delivery approaches to match the needs of each use case:"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Three delivery models:"
+      ],
+      "text": "Department-owned: Innovation closely responsive to departmental service approach, supported by digital centre expertise but ultimately owned and operated by its home department. For example, the Department of Education is building a content store to support AI tools for teachers."
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Three delivery models:"
+      ],
+      "text": "GDS collaboration: \"Build once, use many\" products and components supporting multiple services or public bodies, delivered either fully by GDS such as GOV.UK Chat or as a collaboration with other departments for example ‘Extract’ AI toolset to digitise planning documents in partnership with MHCLG’s digital planning programme."
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Three delivery models:"
+      ],
+      "text": "Industry collaboration: Innovation arising from the private sector in response to or adapted for public sector needs, bringing ideas which may be harder to invent from within. For example, working with platform providers, the Department for Health and Social Care’s Discharge Summaries uses AI integrated into the NHS Federated Data Platform which was developed with industry partners. The tool automates the drafting of these critical documents by extracting pertinent data from a patient’s electronic health record."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler"
+      ],
+      "text": "Learning as we go"
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "The programme will drive adoption of high-performing, trustworthy AI at scale and build our collective capacity to maximise AI's potential for better outcomes. Key aspects include:"
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "Documenting successes and failures: capturing insights from all Exemplars, whether they succeed or not"
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "Identifying patterns: understanding which approaches work best for different types of challenges"
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "Building communities of practice: creating networks across the public sector to share knowledge and best practices"
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "Evolving our approach: using what we learn to refine both our portfolio and our methods"
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "The role of GDS: catalyst and enabler",
+        "Learning as we go"
+      ],
+      "text": "Measuring outcomes: monitoring and evaluating the value delivered across the different use cases and technologies."
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Leading by exemplar"
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Leading by exemplar"
+      ],
+      "text": "By taking this portfolio approach to AI innovation, we're not just developing individual technology solutions – we're building the capability, confidence and culture needed to transform public services for the better."
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Leading by exemplar"
+      ],
+      "text": "The Prime Minister’s AI Exemplars Programme doesn't promise that every project will succeed. Instead, it promises something more valuable: that we will learn quickly, adapt accordingly, and progressively build our collective ability to harness AI for public good."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "body",
+      "heading_path": [
+        "Leading by exemplar"
+      ],
+      "text": "Want to be kept up to date on the Prime Minister’s AI Exemplars? Join the AI Community or subscribe to the monthly Government Digital and Data bulletin. Both are only available to public sector workers. Outside the public sector? We’ll be sharing progress regularly on this blog."
+    }
+  ]
+}

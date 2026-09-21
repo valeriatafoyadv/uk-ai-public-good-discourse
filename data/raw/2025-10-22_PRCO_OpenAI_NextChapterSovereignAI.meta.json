@@ -1,0 +1,12 @@
+{
+  "doc_id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai/",
+  "source": "direct",
+  "sha256": "842e3e47e2650b8c99bea778753699451275dd0458fa06baed1eeabb69296924",
+  "bytes": 375727,
+  "n_blocks": 15,
+  "error": null
+}

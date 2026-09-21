@@ -1,0 +1,360 @@
+{
+  "source_url": "https://cddo.blog.gov.uk/2025/09/22/how-do-we-test-and-assure-ai-in-government/",
+  "fetched_at": "2026-09-10T15:58:02.828627+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "How do we test and assure AI in Government?"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "How do we test and assure AI solutions - is one of the most common questions we hear across government right now."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "AI is changing how we deliver public services. For example, the GOV.UK Chat is experimenting with generative AI to help people navigate more than 700,000 pages of GOV.UK content and find the information they need more easily. Other projects, like the Crown Commercial Service’s recommendation system, use AI to provide smarter agreement recommendations for customers based on procurement data. You can find more examples of how AI is being trialled and adopted across government in the UK Government AI Playbook . However, they are not traditional software and we can’t test them in the same old ways."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "AI systems learn from data, behave in probabilistic ways and can even change over time. They might work well in a lab, but fail in real-world conditions if we don’t test them rigorously and thoughtfully."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Evaluating AI isn’t about proving it works once. It’s about continuously asking questions like:"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Is it safe, fair, unbiased and effective?"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "How will it behave in real-world conditions?"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "What happens when things change?"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "How do we spot and fix unintended behaviour?"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "AI systems bring together technical infrastructure and probabilistic models. That means we need both system testing and model evaluation. Testing looks at the whole AI system (infrastructure, APIs and interfaces). Evaluation focuses on the AI model, asking how well it meets key quality attributes. Together, they give assurance that AI systems are safe, fair and accountable."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Hence, we need a framework supporting teams to embed this kind of critical thinking throughout the lifecycle of AI testing and assurance."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "A shared framework for public sector teams"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "A shared framework for public sector teams"
+      ],
+      "text": "To help with this, the Cross-Government Testing Community has developed the AI Testing Framework for the public sector. In March, we brought people together for a workshop to pool our experience and ideas on how best to test and assure AI systems. Since then, the framework has been shaped through working group reviews and community feedback. We published a beta version in June and you can see everyone who contributed in the Review Log ."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "A shared framework for public sector teams"
+      ],
+      "text": "This framework offers a shared baseline for testing, model evaluation and assurance that any department can adapt to its needs. It’s designed to support everyone involved in AI projects, from policy teams scoping ideas to technical teams developing and deploying solutions."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "A shared framework for public sector teams"
+      ],
+      "text": "It recognises there’s no single way to test or evaluate AI. Different types of systems (rule-based, predictive models, generative chatbots) demand different approaches."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What’s inside the framework"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "The framework is built around four core elements to help teams think rigorously about testing AI:"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "1. Principles for testing AI systems"
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "It sets out 11 clear principles, from designing context-appropriate tests to monitoring for change over time. These principles help teams plan quality from the outset and embed responsible practices throughout."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "2. Core quality attributes"
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "AI testing and evaluation must consider things like fairness, explainability, robustness, autonomy and evolution. These attributes shape the questions teams need to ask while testing or assuring, and the risks they need to manage."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "3. Continuous Defensive Assurance Model"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "Testing isn’t a one-off step. The framework provides guidance for every phase of delivery: planning and design, data preparation, development, deployment and ongoing monitoring. At each stage, testing produces evidence, evaluation helps to interpret it in context and assurance provides confidence that the system, or any changes, are ready to go."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "4. Modular testing strategy"
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "What’s inside the framework"
+      ],
+      "text": "Not every project needs every test. The framework includes a modular strategy that lets teams choose and combine testing activities based on the type of AI system, its use case and the level of risk involved."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Why it matters"
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "Testing or evaluation isn’t just a box to tick."
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "Without good testing and evaluation, we risk:"
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "producing unfair or biased outcomes"
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "failing in unanticipated scenarios"
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "degrading over time without detection"
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "eroding public confidence in government use of AI"
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "Good testing and evaluation helps us:"
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "catch problems early"
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "make better design choices"
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "build systems that are safe, fair and effective"
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "maintain trust in government use of AI"
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Why it matters"
+      ],
+      "text": "This framework helps us do that in a clear, structured way."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Designed for public sector use"
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "We’ve built this framework with the realities of public sector work in mind. It:"
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "aligns with the UK Government AI Playbook and principles"
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "encourages transparency, documentation and accountability"
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "supports proportionate assurance, recognising that not all AI projects have the same risks"
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "went through a cross Government workshop and working group reviews"
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "body",
+      "heading_path": [
+        "Designed for public sector use"
+      ],
+      "text": "It’s there to help teams make informed, responsible decisions about how they test and assure their AI solutions."
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Learn more"
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "body",
+      "heading_path": [
+        "Learn more"
+      ],
+      "text": "You can read and contribute to the framework here:"
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "body",
+      "heading_path": [
+        "Learn more"
+      ],
+      "text": "AI Testing Framework for Public Sector"
+    }
+  ],
+  "doc_id": "2025-09-22_BLOG_CDDO_TestAssureAI_"
+}

@@ -1,0 +1,450 @@
+{
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "source_url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response/ai-opportunities-action-plan-government-response",
+  "fetched_at": "2026-08-29T15:24:03.874104+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "AI Opportunities Action Plan: government response"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "AI Opportunities Action Plan: government response"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Presented to Parliament by the Secretary of State Science, Innovation and Technology by Command of His Majesty."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "CP 1242"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "© Crown copyright 2025"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "ISBN 978-1-5286-5363-3"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "E03258823 01/25"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Foreword by the Prime Minister"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Artificial Intelligence is the defining opportunity of our generation. It is not a technology that is coming; a future revolution on the horizon. It is already here, materially changing lives – preventing illness in our NHS, creating exciting new companies in our economy, pushing the boundaries of scientific discovery in our universities. It will turbocharge every mission in this government’s Plan for Change . And the potential for further innovation is vast."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "AI -powered scans can help doctors detect disease earlier. AI can cut NHS waiting lists by scheduling better appointments. It allows teachers to personalise their lessons to their children’s needs. It can support small businesses with their record-keeping, spot potholes more quickly, and help speed up planning applications. Indeed, right across our public services, it offers frontline staff the precious gift of time. A chance to reconnect with the human, face-to-face aspects of their job, which I know is something that attracts so many people to public service in the first place."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "In short, in the coming years, there is barely an aspect of our society that will remain untouched by this force of change. But this government will not sit back passively and wait for change to come. It is our responsibility to harness it and make it work for working people. And it is our responsibility to make sure that Britain maintains its position as a world leader in AI , even as the competition increases. Some countries are going to make AI breakthroughs and export them to the world. Other countries will be left to buy those breakthroughs by importing them. This Action Plan sets out how Britain will be the former – a plan to make our country an AI superpower."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "We start from a position of strength. This is the nation of Babbage, Turing and Lovelace – driving change is in our DNA . Already, Britain is the third largest AI market in the world. We have established a world-leading infrastructure for AI safety. Vast resources of talent in our universities and scientific institutions. Numerous technology companies, operating at the AI frontier, are proud to call our country home. And our values of democracy, open commerce and the rule of law are suited to the test of the times – crucial for the free exchange of ideas needed to maximise AI ’s potential."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Nonetheless, this race is speeding up and we must continue to move fast. Within days of our election, we commissioned Matt Clifford CBE to develop this plan. Today, I am happy to endorse it and take the recommendations forward. Harnessing AI and using it to deliver our Plan for Change requires ambition, purpose and focus. This is a unique chance to boost growth, raise living standards, transform public services, create the companies of the future in Britain and deliver our Plan for Change. This Action Plan shows we are ready to take it."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "The Rt Hon Keir Starmer KCB KC MP Prime Minister"
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Government response to the AI Opportunities Action Plan"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Lay the foundations to enable AI"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "Building sufficient, secure, and sustainable AI infrastructure"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Building sufficient, secure, and sustainable AI infrastructure"
+      ],
+      "text": "The government is committed to building cutting-edge, secure, and sustainable AI infrastructure. We will take forward the recommendation to expand our sovereign compute capacity by at least 20x by 2030 – as compute needs grow, such expansion is critical if the UK is to keep pace."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Building sufficient, secure, and sustainable AI infrastructure"
+      ],
+      "text": "The government will now start delivery of a new state of the art supercomputing facility that will double the capacity of our national AI Research Resource. DSIT will immediately start to develop the business case process and proceed to lock in a site and suppliers in 2025. UK researchers and SMEs will be able to begin accessing the AI Research Resource in early 2025, using the powerful supercomputers at Bristol (Isambard AI ) and Cambridge (Dawn), enabling our best and brightest to make new discoveries and help drive economic growth."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Building sufficient, secure, and sustainable AI infrastructure"
+      ],
+      "text": "In recognition of the importance of compute for scientific disciplines beyond AI , DSIT is also extending the UK’s leading scientific computing resource, Archer2, at Edinburgh University, until November 2026. This will ensure that our leading scientists have the resources they need."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Building sufficient, secure, and sustainable AI infrastructure"
+      ],
+      "text": "This investment in sovereign compute complements the more than £25 billion of private sector investment in new UK data centres announced since July ."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Building sufficient, secure, and sustainable AI infrastructure"
+      ],
+      "text": "The government will also work with stakeholders to develop a long-term compute strategy that will ensure the UK has the AI infrastructure and compute capacity it needs to deliver new scientific innovations and discoveries that will drive productivity and growth throughout the economy. The government will publish the Compute Strategy in Spring 2025."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "AI Growth Zones"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "AI Growth Zones"
+      ],
+      "text": "As the Action Plan sets out, the UK must maximise opportunities to crowd in private sector investment and facilitate close government-industry collaboration. The government will create AI Growth Zones (AIGZs), areas with enhanced access to power and support for planning approvals, to accelerate the build out of AI infrastructure on UK soil. The government will deliver the first AI Growth Zone at Culham, the headquarters of the UK Atomic Energy Authority ( UKAEA ), subject to the agreement of a public-private partnership that delivers benefits to the local area, the UKAEA ’s fusion energy mission and the UK’s wider national AI infrastructure. The government and UKAEA will seek a private-sector partner who would develop one of the UK’s largest AI data centres, beginning with 100MW of capacity and with plans to scale up to 500MW. The pilot would pioneer innovative public-private models to deliver secure, dedicated public sector computing capacity, supporting key national priorities. A process to identify a private sector partner will commence in Spring 2025, alongside steps to select further AI Growth Zones. AIGZs have the potential to grow the AI sector to support AI adoption across the economy and enable the government to build new strategic partnerships with leading AI players. They also have the potential to deliver local benefits, including job creation, enhanced digital and energy infrastructure and sustainability initiatives."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "AI Energy Council"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "AI Energy Council"
+      ],
+      "text": "Clean and renewable energy solutions are needed to power the increasing energy demands of AI . To identify potential solutions, the Science and Technology Secretary of State and the Energy Secretary will co-chair a new AI Energy Council formed of industry leaders from the energy and AI sectors. The Energy Council will provide expert insight on the energy needs of AI , opportunities to accelerate investment in the development of renewable and innovative energy solutions, including Small Modular Reactors (SMRs) and the role of AI in a modern, efficient and sustainable energy system."
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "National Data Library"
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "National Data Library"
+      ],
+      "text": "To make new advances in AI that benefit our society we need to ensure researchers and innovators have access to new data. We will responsibly, securely and ethically unlock the value of public sector data assets to support AI research and innovation through the creation of the National Data Library and the government’s wider data access policy. Both will be underpinned by strong privacy-preserving safeguards. The government will set out further details on the National Data Library in due course."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "AI skills and talent"
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "AI skills and talent"
+      ],
+      "text": "Creating a strong talent pipeline and ensuring we address wider skills demands will be critical to realising our AI ambitions. Prestigious scholarship and fellowship programmes have an important role to play, alongside broader efforts to drive greater diversity across the AI talent pool. The creation of Skills England and the Curriculum and Assessment Review will also enable us to upskill the existing workforce as well as teach young people the key skills they need to succeed in the future. DSIT will work with DfE , DBT and UKRI to take forward the recommendations designed to attract and support top talent and ensure we continue to train world-class AI experts."
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI"
+      ],
+      "text": "Regulation"
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Lay the foundations to enable AI",
+        "Regulation"
+      ],
+      "text": "Ensuring we have the right regulatory regime that addresses risks and actively supports innovation will drive AI trust and adoption across the economy. The government will set out its approach on AI regulation and will act to ensure that we have a competitive copyright regime that supports both our AI sector and the creative industries."
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Change lives by embracing AI"
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Change lives by embracing AI"
+      ],
+      "text": "AI presents exciting opportunities to improve people’s lives, including by making our public services better. To transform our public services with AI and encourage the private sector to stimulate growth through AI adoption, we will take forward Matt Clifford’s recommendations on adoption, including to employ a flexible ‘Scan, Pilot, Scale’ approach to adoption of AI across our public services. We intend to accept these recommendations in full and start by prioritising the scaling up of successful pilots that adopt AI in the public interest, such as Caddy, led by the Incubator for AI ."
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Change lives by embracing AI"
+      ],
+      "text": "Government will appoint AI Champions in particular sectors highlighted in the Industrial Strategy. DSIT will also work with devolved and local government to identify AI adoption opportunities to drive growth."
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Secure our future with homegrown AI"
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "The Action Plan highlights how quickly AI has advanced. A small number of companies at the frontier of AI are set to wield outsized global influence. The UK has a window of opportunity to secure a stake, strengthening our global leadership in AI , protecting our economic security and positioning UK citizens to benefit."
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "To seize this opportunity, the government will launch a new function with the mandate to strengthen the UK’s sovereign AI capabilities by supporting national champions at the frontier of AI . The function will operate with agility and draw on wider government functions to partner with AI companies, including by:"
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "Leveraging AI Growth Zones to support partnered companies and ensuring that new compute capacity is utilised strategically."
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "Exploring making available high-potential data sets for partnered companies, in coordination with the National Data Library."
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "Supporting top AI talent to relocate to the UK to work with UK-based partnered companies."
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "Helping to build relationships between partnered AI companies and the UK’s national security community."
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Secure our future with homegrown AI"
+      ],
+      "text": "Achieving this ambitious mandate will require an agile team with leading industry expertise. The government will provide further details by Spring 2025."
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Next steps"
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "body",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan",
+        "Next steps"
+      ],
+      "text": "The government will continue to develop its policy response to the Action Plan as part of the broader work ahead of the Spring 2025 Spending Review. It will further set out its wider approach to AI in the Industrial Strategy’s Digital and Technologies Sector Plan. To track effectively against the delivery of this plan, the Technology Secretary of State has created an AI Opportunities Unit in DSIT which will report to him regularly on progress across government."
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Building sufficient, secure, and sustainable infrastructure"
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Unlocking data assets in the public and private sector"
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Training, attracting and retaining the next generation of AI scientists and founders"
+    },
+    {
+      "block_id": "b049",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+    },
+    {
+      "block_id": "b050",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Adopt a “Scan > Pilot > Scale” approach in government"
+    },
+    {
+      "block_id": "b051",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Enable public and private sectors to reinforce each other"
+    },
+    {
+      "block_id": "b052",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Address private-sector-user adoption barriers"
+    },
+    {
+      "block_id": "b053",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Government response to the AI Opportunities Action Plan"
+      ],
+      "text": "Advancing AI"
+    }
+  ]
+}

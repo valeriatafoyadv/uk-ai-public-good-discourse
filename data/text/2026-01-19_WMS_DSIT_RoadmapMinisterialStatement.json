@@ -1,0 +1,92 @@
+{
+  "doc_id": "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement",
+  "source_url": "https://commonsbusiness.parliament.uk/Document/101491/Pdf",
+  "fetched_at": "2026-08-29T15:24:05.087862+00:00",
+  "format": "pdf",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "A roadmap for modern digital government 2025-2030"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "broader awareness. Furthermore, we are creating new infrastructure like the National DataLibrary to unlock the value of public data for economic growth and improved services.Elevate leadership, invest in talent: we are committed to making government a leadingdigital career choice. This includes implementing a new digital pay framework, andequipping civil servants with essential digital, data, and AI skills through programmes likethe AI Accelerator and TechTrack apprenticeships, ensuring the public is served by the verybest digital professionals."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Fund for outcomes, procure for growth and innovation: we are reforming how governmentfunds, buys and manages technology, working closer with industry to deliver the bestoutcomes for citizens. By shifting to agile, outcome-focused funding models and leveragingour buying power through the Digital Commercial Centre of Excellence, we will ensurepublic money delivers maximum value and fosters a more competitive and vibranttechnology marketplace. Procurement will prioritise resilience through a diversity ofsuppliers. We will actively support sovereign capabilities in sensitive areas such as AI andleverage UK assets to guarantee secure and resilient connectivity. This coherent approachensures that our spending not only delivers value but strengthens our national digitalinfrastructure and supports growth and innovation."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Commit to transparency, drive accountability: we are changing to be more open,accountable, and focused on what matters to the public. We are creating consistent ways tomeasure service performance, working in the open, and publishing clear information on howand why we are using algorithmic tools through the Algorithmic Transparency RecordingStandard. This helps every citizen know how their government is performing and whydecisions affecting them are being made."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Work to deliver this plan is already well underway."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "the GOV.UK app was launched in July 2025 and has achieved over 200,000 downloads andtrials for GOV.UK Chat have recently concluded to explore the use of conversational AI forhelping users navigate complex government services;"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "the first digital credential was added to GOV.UK Wallet providing almost 2 million veteranswith a secure and convenient way to prove their status and access services from theirphone;"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "as of October 2025, over 13.2 million people have proven their identity through GOV.UK OneLogin, and its identity verification app;"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "we completed a discovery phase for the ‘Get Britain Working’ Service Transformation toexplore how to help people find or keep a job while managing long-term health conditions,which has helped to inform the creation of a new unit that will drive this end-to-end servicetransformation approach across the public sector;"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "our first cohort of 24 data scientists from across government complete the AI AcceleratorProgramme and have upskilled into machine learning engineers;"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "over 600 public sector organisations have signed up to our free vulnerability scanningservice to help them identify cyber weaknesses."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "we recently announced our plans for a digital ID scheme so that everyone in the UK caneasily and securely prove their identity to access public and private services, welfare andother benefits."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "We will now take this roadmap forward at pace, building on the momentum already in place. By"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "working collaboratively across government, with researchers, businesses, and most importantly,with the public, we will unlock the full potential of digital and AI to deliver transformationaloutcomes for citizens across the entire country. This roadmap will be iterative and we will provideannual updates on our progress against milestones and blueprint outcome metrics."
+    }
+  ]
+}

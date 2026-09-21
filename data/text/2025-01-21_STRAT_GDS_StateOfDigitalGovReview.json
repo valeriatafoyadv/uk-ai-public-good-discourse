@@ -1,0 +1,2741 @@
+{
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "source_url": "https://www.gov.uk/government/publications/state-of-digital-government-review/state-of-digital-government-review",
+  "fetched_at": "2026-08-29T15:24:04.071736+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "State of digital government review"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "State of digital government review"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Presented to Parliament by the Secretary of State Science, Innovation and Technology by Command of His Majesty."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "CP 1251"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "© Crown copyright 2025"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "ISBN 978–1-5286-5360-2"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "E03268765 01/25"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Executive summary"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The UK public sector has enormous digital resources: it spends over £26 billion annually on digital technology, employs a workforce of nearly 100,000 digital and data professionals, and delivers millions of online transactions every day. Millions of people across the country rely on digital services from their local authority, their hospital, their school and all parts of the public sector to help them in their daily lives."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "When these resources are deployed effectively, they can deliver outstanding results."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The NHS app, delivered in a time of crisis, is the most widely used app in the UK. GOV.UK combines government digital services in a way which is emulated worldwide. This report is full of examples where digital teams across the public sector have used their ingenuity and expertise to improve services and keep them running."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Yet these successes are too often achieved despite the system rather than because of it. They rely on the dedication of experts doing their best with limited resources, navigating processes which were not designed for a digital age, and implementing policies which were not designed to be digital first. As we move into a new era of opportunities created by artificial intelligence ( AI ) and other technology innovations, we must take a realistic and unflinching view of how much more we have to do to create a modern digital government and reform public services."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "This report presents key findings on the state of digital government, including where we can build on success, where we must improve, and identifies 5 root causes for the challenges we face."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Users expect more. In the past decade, satisfaction with public services in the UK has dropped from 79% to 68%. [footnote 1] Satisfaction with 70% of the Top 75 services is below private sector benchmarks. Even where the public sector provides great digital services, users must join them up across disparate offerings. Someone moving home needs to contact 10 separate organisations. Managing a long-term condition or disability requires interaction with more than 40 services across 9 different organisations. The average UK adult citizen spends a week and a half dealing with government bureaucracy every single year."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Services are under-digitised. 47% of central government and 45% of NHS services still lack a digital pathway, and very few services avoid manual processing altogether. For instance, HMRC handles approximately 100,000 calls each day, the DVLA processes around 45,000 letters daily, and Defra still manages over 500 paper form-based services."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Digital delivery creates policy success. When public sector policy is developed without involvement of digital teams or consideration for digital delivery, opportunities are missed. By contrast, when digital, operational, and policy teams work collaboratively, they can deliver rapid impact. The Home Office’s EU Settlement Scheme, for example, showed how a digital-first approach, with collaboration across HMRC and DWP digital and policy teams, could automate residency verification for over 6 million people at record pace."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Public sector productivity has fallen. [footnote 2] Analysis shows that over £45 billion per year of unrealised savings and productivity benefits, 4-7% of public sector spend, could be achieved through full potential digitisation of public sector services. This makes digitisation the most powerful lever available to drive public sector and service reform. Opportunities are based predominantly on process simplification, AI -driven automation of manual tasks, greater availability, adoption of low-cost digital channels and reduced fraud through compliance automation."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Public sector technology is fragmented and duplicative. Most organisations implement their own solutions, even for common needs. For example, in 2021, there were 44 different accounts and ways to prove who you are. Where sharing happens, it has great impact: the West Midlands Police Force, for example, has integrated AI to respond to non-urgent 101 (non-emergency) calls and shared their approach with other forces. However, this is the exception rather than the rule."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Data is fragmented and underused. This holds back AI , machine learning, and advanced analytics. Only 27% of survey respondents believe their current data infrastructure enables a comprehensive view of operations or transactions. 70% say their data landscape is not well co-ordinated, interoperable, and does not provide a unified source of truth. Despite these limitations, the ingenuity of public servants has led to some noteworthy results such as DfE using supplier-held data to overcome the friction of sharing between schools and enable real-time attendance visibility."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Critical services depend on decades-old legacy technology. The scale of legacy varies by organisation and is not consistently measured, but it is estimated to comprise 28% of systems in central government departments in 2024, an increase from 26% in 2023. Levels of legacy technology in police forces and NHS trusts varies widely, ranging from 10% to 60-70%, depending on the organisation. While some central government departments such as MOD , Home Office and MOJ classify and track their legacy assets, most public sector organisations do not have comprehensive registers or quantification of the legacy risk they carry."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Service reliability is too low. Over 2024, 25% of survey respondents suffered critical outages, 123 in NHS England alone. Many systems do not have adequate plans in place for how to manage incidents and even where they do they are not exercised frequently enough."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Cyber risk to the public sector is critically high. We have seen a number of high-profile incidents across the public sector that have had real world impacts on citizens’ lives and incurred new costs to repair the damage done."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The public sector spends less on technology than peers. In 2023, the public sector spent around £26 billion on technology, around 30% below benchmark comparisons. [footnote 3] Current budgets and funding practices make it difficult to maintain the existing technology estate, respond to legislative change, and keep up with evolving cyber threats. 28% of red-rated legacy systems lack remediation funding. All organisations profiled in this study cited not having enough appropriate funding to manage legacy technology and technical debt. Most mentioned budgets that prioritise new programmes at the expense of continuous improvement."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Funding models do not reflect modern digital practice. In the last 15 to 20 years, technology has shifted from a capital-intensive business, based on the acquisition and creation of hardware and software assets, to a revenue intensive business based on continuous improvement and subscription services. [footnote 4] In central government, RDEL (resource or operating funds) accounted for less than half of total digital and data funding in Spending Review 2021 versus 78% for peer-set benchmark. [footnote 5] [footnote 6] Many have highlighted that it is easier to get CDEL (capital funds) than RDEL , and only 1 in 5 survey respondents felt the current funding model enabled effective investment in and running of digital services. Existing governance and controls processes are not seen as well suited to digital programmes as they prioritise predictable returns over longer-term resilience and continuous improvement, and do not allow for the flexible nature of digital delivery."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Cloud adoption is concentrated in central government. The cloud-first policy defined in 2013, accelerated by dedicated cloud transformation budgets, means that around 55% of central government organisations reported that over 60% of their estate is now on the cloud, although most of these migrations entail replicating systems in the cloud with minimal reengineering. Despite this progress in central government, other areas of the public sector, such as local authorities, policing and the NHS, are less advanced in cloud adoption, with remaining on-premises estates."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The public sector is dependent on external resources for core skills. The public sector depends heavily on third parties to augment digital and data teams. Of the £26 billion public sector digital and data spend in 2023, less than 20% (around £5 billion) was on permanent public sector staff while 55% (£14.5 billion) was spent on contractors, managed services providers, and IT consultants. Headcount restrictions have made it easier to hire more costly third-party resources than permanent staff, with the average contractor in the central government costing 3 times as much per year as the average civil servant. In the public sector, contractors account for approximately 18% headcount but around 40% headcount cost. Use of temporary staff also hinders retention of institutional knowledge."
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "There are not enough digital and data people in the right roles. The proportion of the workforce in digital and data roles varies across the public sector and has doubled across central government and agencies from 3% in 2021 to around 6% today. Despite this significant growth, the largest operational departments ( MOD , HMRC , Home Office, DWP ) average 5% vs. benchmarks of 6% for central governments and 8-12% in regulated private sector industries. Most other operational organisations are in-line with benchmarks, and many agencies, arm’s length bodies ( ALBs ) and non-departmental public bodies ( NDPBs ) have a greater share of digital and data staff than benchmarks. In local government, digital and data roles are only 2% of headcount, against benchmarks of 4%, in the NHS, workforce proportion roughly matches a comparable 3% benchmark. The mix of digital and data roles is also skewed. The digital and data workforce has an oversupply of project managers and other non-technical digital and data functions relative to technical roles (such as software developers). High-performing private sector organisations achieve a ratio of 4:1 technical to non-technical roles in their permanent staff. In the Civil Service, the current ratio is closer to 2:1."
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The public sector struggles to consistently attract and retain top digital and data talent. Compensation is below the private sector; for example a typical central government cyber specialist earns 35% less than private sector peers, while civil service CISOs earn on average 40% less than their private sector counterparts. [footnote 7] While the Digital, Data and Technology pay framework attempts to close this gap, it is not universally or consistently adopted, encouraging skilled talent to move within the sector to earn more."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Digital leadership is not a consistent priority. In contrast to the private sector where digital leaders are routinely part of executive committees, public sector digital leaders are not well represented at executive level and often report lower in their organisations, relative to policy, operational delivery, and finance colleagues. Digital capabilities are not seen as essential for policy formulation or operational delivery and are regarded as lower prestige. Most non-digital leaders have insufficient technical expertise and lack the digital orientation and training to implement tech-enabled programmes, in contrast to best practice in the private sector where digital and technical expertise are increasingly seen as essential general management skills."
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The public sector does not realise the value of its buying power. The public sector does not have a cohesive digital sourcing strategy: organisational silos, the challenges of sharing services, and the lack of collective buying drive fragmented purchasing. Each of the NHS’s 209 secondary care entities negotiates and buys its own infrastructure. Over 320 local councils negotiate their own agreements. Commercial teams often have insufficient category expertise to drive optimal terms, and digital teams commonly lack the capability to properly manage vendors. Only 28% of survey respondents believe their organisation has sufficient internal capabilities to monitor, track and drive supplier performance. Work by the Crown Commercial Service ( CCS ), the Government Commercial Function ( GCF ) and Central Digital and Data Office ( CDDO ) has created common frameworks and constructs which consolidate the buying power of central government, but these are not mandatory or universally adopted."
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Central digital capabilities have had some success but limited cross-sector reform. Government Digital Service ( GDS ) created GOV.UK, a single publishing platform replacing more than 1,800 separate websites, and continues to refine One Login to simplify access to central government services. CDDO has driven a critical focus on service usability and efficiency through the Top 75 Services Programme. However, a lack of sustained senior sponsorship, uneven funding and a focus on central government departments rather than the full public sector have limited the ability of central teams to drive deep, cross-sector reforms which address the challenges described in this report."
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "This review has identified 5 root causes:"
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "1. Leadership"
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "There is little reward for prioritising an agenda of service digitisation, reliability, or risk mitigation. Organisational leaders are not paid, promoted, or valued for doing so. Digital does not shape and drive the organisational agenda."
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "2. Structure"
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Fragmentation is a feature of the system. Public sector organisations are independent bodies with limited mechanisms to contract services from each other. Most choose to build and maintain their own technology estate, inhibiting standardisation, interoperability and reuse, and constraining the ability to benefit from scale. Architectural design, product management, operations, and development are inconsistent between organisations. The public is presented with fragmented services and expected to make sense of them."
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "3. Measurement"
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "The public sector does not have consistent metrics of digital performance. Aggregate data about service quality, user experience, cost and risk exposure is not available without dedicated, periodic effort such as the production of this report."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "4. Talent"
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Compensation and career path progression are uncompetitive with the private sector, especially for senior leaders. A lack of integrated cross-government workforce strategy limits recognition of specialist skill needs and prevents realisation of efficiencies longer term. Headcount restrictions intended to constrain spend have shifted cost and talent to third-party contractors, managed services and IT consultants, also degrading institutional knowledge."
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "5. Funding"
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "Executive summary"
+      ],
+      "text": "Spend is biased towards new programmes with insufficient prioritisation of the effective operation and maintenance of existing systems, especially legacy assets. New or urgent legislation often comes without additional funding, forcing re-prioritisation of previously allocated budgets. This presents an acute challenge for digital and data projects as funding has shifted from capital purchase towards subscription-based, increasing the reliance on committed ongoing funding."
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introduction"
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "The Secretary of State for Science, Innovation and Technology has commissioned this rapid review to assess how effectively the public sector uses digital technology to deliver services to people, communities and businesses. The review evaluates the technology base that supports these services and the readiness of public sector organisations, including central government departments, arm’s length bodies, executive agencies, the NHS, police and local government, to meet the government’s digital ambitions."
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "The state of digital government review is grounded on a fact base covering perspectives from over 500 technical and non-technical leaders across 120 public organisations listed in Annex 1 . This is the first time a survey of this magnitude has been completed across the public sector. The fact base has been further bolstered by 17 supplementary data returns representing inputs from 100+ organisations, and discussions with over 65 public, private, and third sector stakeholders. The conduct of this survey has highlighted that, outside of this report, this data represented is not consistently tracked and managed. For example, there is no comprehensive record of the scale of legacy IT across central government, let alone the entire public sector. We would like to extend our thanks to the many organisations and individuals that have contributed to this review."
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Context"
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "body",
+      "heading_path": [
+        "Context"
+      ],
+      "text": "Historically, the UK has been a leader in digital government, ranking third in the Organisation for Economic Co-operation and Development ( OECD ) Digital Government Index (2023) and first in the UN E-Government Development Index (2016). [footnote 8] [footnote 9] Standout initiatives, such as the NHS App, GOV.UK One Login, the EU Settlement Scheme and Universal Credit, have set high standards for digital public service delivery. Recent investment has further increased spending on digital and data by 11% over the past 5 years and raised headcount by 31%. [footnote 10]"
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "body",
+      "heading_path": [
+        "Context"
+      ],
+      "text": "However, despite successes, the digital foundations are creaking and services have not kept pace with other countries or the private sector. Under-digitisation, institutional fragmentation, technical debt, outdated strategies, untapped data and lack of capabilities present headwinds to modernisation, exacerbated further by changing policy mandates."
+    },
+    {
+      "block_id": "b049",
+      "structural_position": "body",
+      "heading_path": [
+        "Context"
+      ],
+      "text": "While the challenges are considerable, so too is the opportunity. The UK has the scale, commercial power and political mandate to deliver more to taxpayers through technology. Digital transformation as a central lever for public service reform has the potential to improve services, save money, make public sector roles more productive and unlock the power of innovations such as AI . With strategic focus, the UK can reaffirm its leadership in digital government and set a new standard for service delivery in the digital age."
+    },
+    {
+      "block_id": "b050",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Key facts"
+    },
+    {
+      "block_id": "b051",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "£26 billion : Spent annually on digital and data in 2023 across the public sector, including both third party and employee spend"
+    },
+    {
+      "block_id": "b052",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "47% : Services offered by central government which still rely on non-digital methods like phone calls and paper forms [footnote 11]"
+    },
+    {
+      "block_id": "b053",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "97,000 : Digital and data permanent employees and contractors across the public sector"
+    },
+    {
+      "block_id": "b054",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "9% Major tech programmes in Government Major Projects Portfolio ( GMPP ) assessed as ‘Green’ (successful delivery highly likely); tech programmes are 60% more likely to be assessed as ‘Red’ (successful delivery highly at risk) than non-tech projects [footnote 12]"
+    },
+    {
+      "block_id": "b055",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "3 million+ : Accounts created through GOV.UK One Login, to access an initial set of 50 central government services, as at October 2024"
+    },
+    {
+      "block_id": "b056",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "50% : Digital and data recruitment campaigns which failed in 2024; a decline in performance from 22% in 2019"
+    },
+    {
+      "block_id": "b057",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "35% : Pay gap (%) between public and private sector for technical architects; equivalent to £30,000 per year"
+    },
+    {
+      "block_id": "b058",
+      "structural_position": "body",
+      "heading_path": [
+        "Key facts"
+      ],
+      "text": "3x : Average cost of a digital or data contractor relative to a permanent employee"
+    },
+    {
+      "block_id": "b059",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Key assessment areas"
+    },
+    {
+      "block_id": "b060",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Services"
+    },
+    {
+      "block_id": "b061",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Services"
+      ],
+      "text": "The UK is under-digitised: only half of UK public services have a digital channel"
+    },
+    {
+      "block_id": "b062",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "Every day in the UK, 2.7 million people complete a transaction with a central government service, 1.3 million people interact with the NHS, and local authorities provide over 800 services at the frontline of service delivery. [footnote 13] [footnote 14] The UK has pioneered digital solutions to make services more efficient and accessible at both the national and local level."
+    },
+    {
+      "block_id": "b063",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "National examples include the NHS App, GOV.UK One Login, the EU Settlement Scheme and Universal Credit. At a local level, innovations such as Cambridge University Hospitals NHS Foundation Trust’s ‘virtual ward’ save over 1,000 ‘bed days’ a month by providing remote care. Local authorities are also making it easier for residents to access services and engage with their council online by adopting one-stop online portals such as ‘MyAccount’."
+    },
+    {
+      "block_id": "b064",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "People expect that public services are available digitally. This expectation is largely set by private sector norms where services such as remote banking (online, mobile, telephone) are used by 86% of adults. [footnote 15] While digital channels and services are not optimal for every user and situation, approximately half of central government and NHS services still do not offer a digital pathway. [footnote 16] The UK lags behind global leaders such as Estonia, which offers an online option for 99% of its services. Many UK public services still rely on phone calls, emails, letters, and in-person visits. HMRC , for example, handles 100,000 daily calls, DVLA processes 45,000 letters every day, and Defra manages over 500 services accessed via paper-based forms."
+    },
+    {
+      "block_id": "b065",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "“Over 80% of services are online with 95 million digital transactions and 4 billion API hits each year. Despite high levels of digitisation, we still process 45,000 mail items each day.” Senior leader, DVLA ."
+    },
+    {
+      "block_id": "b066",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "“70% of services are digitally enabled although 37 million calls and 17 million letters are still processed per year; key challenges experienced are with supporting citizen understanding and reassurance.” Senior leader, HMRC ."
+    },
+    {
+      "block_id": "b067",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "“83% of our services are form based … there are more than 500 forms involved in our services.” Senior leader, Defra."
+    },
+    {
+      "block_id": "b068",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "The UK is under-digitised: only half of UK public services have a digital channel"
+      ],
+      "text": "Beyond just offering a digital channel, public services also need to offer sufficient ‘depth’ of digitisation, embedding digital through every step and ‘pathway’ of the service. Many services in the public sector have a ‘digital veneer’ with a modern frontend but rely on inefficient and costly manual operations. Services like applying for Pension Credit have an online application but require case workers to re-enter information into multiple separate legacy systems. Others involve time-consuming data entry that mirrors paper forms. Defra, for example, estimates that 60% of their contact centre calls are due to broken / unclear digital pathways."
+    },
+    {
+      "block_id": "b069",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Services"
+      ],
+      "text": "Digital services are not keeping pace with expectations of the UK public and businesses"
+    },
+    {
+      "block_id": "b070",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Digital services are not keeping pace with expectations of the UK public and businesses"
+      ],
+      "text": "People expect public services to be easy to use, reliable, and accessible. The UK public sector has multiple success stories in which improving the quality (ease of use, reliability, accessibility) of a digital service has improved the user experience. HMRC introduced an AI -assisted tool to simplify over 900 pages of tax guidance which improved accessibility and is expected to reduce related calls by 30%. MOJ offers a digital service to calculate the release date of prisoners which has saved time for thousands of frontline staff."
+    },
+    {
+      "block_id": "b071",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Digital services are not keeping pace with expectations of the UK public and businesses"
+      ],
+      "text": "Despite successes, overall satisfaction with UK public digital services has fallen from 79% to 68% over the past decade. [footnote 17] This is lower than central government’s target of 78% satisfaction for ‘Great’ services, and below the 90% benchmark of regulated industries such as the banking sector. Poor digital services also impact vulnerable user accessibility and digital inclusion, increasing costs of failure demand and support resources. This is particularly relevant at the local government level. Twenty four of the ‘Top 75’ government services failed to meet basic accessibility standards in Q1 2024."
+    },
+    {
+      "block_id": "b072",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Services"
+      ],
+      "text": "Institutionalised fragmentation duplicates efforts for users"
+    },
+    {
+      "block_id": "b073",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Institutionalised fragmentation duplicates efforts for users"
+      ],
+      "text": "The UK has led efforts to remove complexity across public organisations. Within 3 years of GOV.UK being introduced (in 2012), it replaced 1,882 organisational websites. [footnote 18] The NHS is also in the process of combining 450 websites into 1. Southwark Council, with support from Guys’ and St Thomas’ NHS Foundation Trust and Lambeth Council, developed an app to provide a joined-up cost-effective approach to falls management to prevent injury for elderly residents, which led to a 25-30% reduction in falls and £300,000 per year savings in ambulance and care costs. [footnote 19]"
+    },
+    {
+      "block_id": "b074",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Institutionalised fragmentation duplicates efforts for users"
+      ],
+      "text": "Despite continued efforts towards simplification, though, the fragmented structures of public sector organisations still lead to duplication of services and systems. People and businesses are often required to navigate the gaps between multiple public services and organisations to administer basic life events such as moving house, having a baby, or reporting a death. Managing a long-term condition or disability for example requires interaction with more than 40 services across 9 different organisations. This means"
+    },
+    {
+      "block_id": "b075",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Institutionalised fragmentation duplicates efforts for users"
+      ],
+      "text": "that people waste time navigating services and risk missing the support they need because they may struggle to find the right service. It is often the most vulnerable individuals who experience the greatest friction."
+    },
+    {
+      "block_id": "b076",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Services"
+      ],
+      "text": "UK policy imposes constraints on achieving digital benefits"
+    },
+    {
+      "block_id": "b077",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "UK policy imposes constraints on achieving digital benefits"
+      ],
+      "text": "In many cases, outdated legal requirements, such as the need for physical signatures or in-person interactions, prevent digital solutions. For example, registering a death is a legal requirement and typically involves an in-person interaction and businesses applying for a new vehicle operating licence must place a physical advert in a local newspaper."
+    },
+    {
+      "block_id": "b078",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "UK policy imposes constraints on achieving digital benefits"
+      ],
+      "text": "Where used effectively, digital solutions can enhance the effectiveness of UK policy. For example, Slough Borough Council is using funding from Defra to plant a Digital Urban Forest, which involves installing environmental sensors among newly planted trees across 31 urban sites. The sensors will enhance environmental policy outcomes by measuring local environmental health, contributing to an open-source environmental research database, and providing educational opportunities for local schools. [footnote 20]"
+    },
+    {
+      "block_id": "b079",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "UK policy imposes constraints on achieving digital benefits"
+      ],
+      "text": "However, many UK policies fail to take advantage of digital opportunities to deliver policy more effectively. The longstanding policy that people must post a separate paper form to claim some elements of tax relief means that many people, either unaware or unable, do not claim the benefit they are entitled to. This is not just a technical issue but also a cultural one. Digital and Policy teams reported that there was a cultural gap between the functions with both sides not working effectively with the other."
+    },
+    {
+      "block_id": "b080",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Services"
+      ],
+      "text": "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+    },
+    {
+      "block_id": "b081",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Efficient, connected digital services can help transform the UK economy and support the government’s goal of driving economic growth. Analysis indicates that over £45 billion per year, representing 4-7% of public sector spend, in unrealised savings and productivity"
+    },
+    {
+      "block_id": "b082",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "benefits could be achieved through full potential digitisation of public sector services. The vast majority of these benefits come from reducing manual processes for public servants, with additional savings generated by shifting service transactions to more cost-effective digital channels, for example via greater digital inclusion, and minimising losses from fraud and error through automated compliance."
+    },
+    {
+      "block_id": "b083",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Beyond savings for the public sector, better digital services would enhance living standards. Currently, the average person in the UK public spends a week and a half each year on government bureaucracy. By streamlining services, the public sector can free up valuable time for individuals, enabling them to focus more on work, leisure and family."
+    },
+    {
+      "block_id": "b084",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Improved digital processes would also allow doctors to dedicate more time to patient care, support vulnerable populations in accessing essential resources, and enable police and local authorities to prioritise community issues more effectively."
+    },
+    {
+      "block_id": "b085",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Spotlight on local government"
+    },
+    {
+      "block_id": "b086",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Local authorities experience the challenges described in this report, but also have specific features which digital reform must address:"
+    },
+    {
+      "block_id": "b087",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Market concentration : common systems, such as those supporting child social care and electoral systems, are highly concentrated with a small number of suppliers, increasing both the importance and challenge of ensuring high performance and value for money from those suppliers."
+    },
+    {
+      "block_id": "b088",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Digital resourcing : local government has the lowest proportion of digital data professionals in the workforce across the public sector, at 2%, below the NHS and central government departments."
+    },
+    {
+      "block_id": "b089",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Supply chain dependency : due to the lower proportion of digital and data professionals in local government, there is a higher reliance on outsourcing, increasing dependency on a concentrated supply chain. This also results in challenges for councils to drive compliance assurance with data protection laws, the public sector equality duty, council’s preferred security controls and accessibility legislation."
+    },
+    {
+      "block_id": "b090",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Cloud adoption : a lack of internal teams and capacity to drive migration means cloud adoption is lower in local government than central government departments, increasing the overhead of managing infrastructure, and dependence on sub-scale data centre facilities. Funding structures are also a constraint on adoption."
+    },
+    {
+      "block_id": "b091",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Sector fragmentation : despite having similar needs, and the work of the Local Government Association ( LGA ) to connect and address these needs, the inherent structure of local government increases fragmentation of talent, buying and systems."
+    },
+    {
+      "block_id": "b092",
+      "structural_position": "body",
+      "heading_path": [
+        "Services",
+        "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+      ],
+      "text": "Citizen proximity and digital inclusion : because local government services feature so prominently in citizens’ lives, there is a particular need to ensure that services are inclusive: the LGA and authorities are working together to pioneer approaches to inclusion."
+    },
+    {
+      "block_id": "b093",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Technology"
+    },
+    {
+      "block_id": "b094",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+    },
+    {
+      "block_id": "b095",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+      ],
+      "text": "Technology forms the backbone of digital public services, ensuring national security, meeting public and business needs, and supporting essential operations. The public sector spent approximately £26 billion on technology in 2023, x roughly 5.9% of total RDEL (resource or operating funds). [footnote 21] [footnote 22] While funding is not the only factor affecting performance, it is around 30% lower than peer benchmarks. [footnote 23] Digital and data spending per full-time equivalent ( FTE ) is 78% lower than peer-set benchmarks, especially in local government, where funding shortfalls are most pronounced."
+    },
+    {
+      "block_id": "b096",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+      ],
+      "text": "Underinvestment in technology increases long-term costs and total costs of ownership, with maintenance of legacy systems costing often 3 to 4 times that of modern alternatives, as demonstrated by HMRC ’s contracts for maintenance of COBOL systems."
+    },
+    {
+      "block_id": "b097",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+      ],
+      "text": "It also limits opportunities for innovation. AI and emerging technologies will continue to be underutilised due to cautious cost/benefit-driven funding approaches applied for nascent technologies, missing automation, productivity and service delivery opportunities."
+    },
+    {
+      "block_id": "b098",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology",
+        "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+      ],
+      "text": "Figure 1: The UK public sector followed by (D&D) spend versus peer benchmarks (BM)24 (2023 D&D spend as % of RDEL ) [footnote 24]"
+    },
+    {
+      "block_id": "b099",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "Institutionalised fragmentation drives duplication"
+    },
+    {
+      "block_id": "b100",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Institutionalised fragmentation drives duplication"
+      ],
+      "text": "The government’s technology landscape is highly fragmented and duplicative, creating inefficiencies across and within organisations. Most public sector organisations have developed unique, non-reusable solutions. For instance, NHS England alone uses around 50 CRM platforms, and a 2021 review found 190 different authorisation services and 44 accounts used across government."
+    },
+    {
+      "block_id": "b101",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Institutionalised fragmentation drives duplication"
+      ],
+      "text": "Many organisations lack standardised integration frameworks, resulting in systems that cannot easily work with each other and require bespoke point-to-point integration. This issue is widespread in the NHS, where individual trusts manage separate technology estates, and in the police, where forces operate independently with hundreds of distinct software solutions."
+    },
+    {
+      "block_id": "b102",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Institutionalised fragmentation drives duplication"
+      ],
+      "text": "Fragmentation is also driven by an appetite for building new systems, rather than enhancing existing systems. Defra, for example, has 4 digital services for agricultural foods trade with nearly identical functions due to slightly differing policy requirements."
+    },
+    {
+      "block_id": "b103",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Institutionalised fragmentation drives duplication"
+      ],
+      "text": "The large number of systems and high levels of duplication create a broader attack surface, which increases vulnerability to cyber threats. Central government executives have noted that such fragmentation leads to ‘slow change’ and greater security risks."
+    },
+    {
+      "block_id": "b104",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "Legacy technology imposes unsustainable risk and cost"
+    },
+    {
+      "block_id": "b105",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "Public services and products must be fit for purpose and sufficiently reliable to meet the needs of users, yet much of the public sector’s current technology estate is based on high risk legacy technology. CDDO defines a system as legacy if it is based on an end-of-life product, out of support from the supplier, impossible to update, no longer cost-effective, or considered to be otherwise above the acceptable risk threshold. This is a narrower definition of legacy than used in most private sector organisations, who would consider the proportion of legacy technology used by government to be even higher."
+    },
+    {
+      "block_id": "b106",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "Based on survey responses, an average of around 28% (ranging from 10-60%) of central government organisations’ technology estates are classified as legacy, with around 10-70% across police forces and around 10-50% across NHS trusts. Interviews and survey responses indicate that legacy risk is not effectively managed across the public sector and impact service delivery in an unsustainable manner."
+    },
+    {
+      "block_id": "b107",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "The lack of consolidated data on the public sector’s digital and data assets and the scale of legacy presents a challenge to effectively identifying and mitigating risk. Departments such as the MOD , Home Office and the MOJ have classified their legacy assets, but most public sector organisations are in early stages of developing comprehensive registers and understanding the risk they carry. NHS England, for example, is pioneering a federated configuration management database (CMDB) to better document their digital assets."
+    },
+    {
+      "block_id": "b108",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "Where data exists, it is typically based on estimates rather than exhaustive reviews. Around 15% of survey respondents could not even estimate the size of their legacy estate."
+    },
+    {
+      "block_id": "b109",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "To assess the severity of potential impact from legacy systems within central government, the CDDO has defined ‘red-rated’ systems as having both high likelihood and high impact in terms of potential risks. In an annual assessment, legacy systems increased by 26% from 2023. Of these, 22% were considered red-rated, an increase of 16%. This is due to a combination of known security vulnerabilities, lack of support and inability to meet business requirements."
+    },
+    {
+      "block_id": "b110",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "While central visibility is incomplete, the CDDO legacy IT assessment identified several systems having a very high or high impact on national security, including threats to health, personal safety, or even loss of human life in the event of a failure. Such risks increase the likelihood of system issues according to technology leaders:"
+    },
+    {
+      "block_id": "b111",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "“Fundamentally the biggest hindrance I’m experiencing from legacy is stability. Resiliency of the system. This is why we’re reaching the press so often.” CDIO , central government department."
+    },
+    {
+      "block_id": "b112",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "“Many of them [core networks] are so chronically obsolescent that they cannot satisfy basic cyber [security] or functionality requirements.” CIO , central government department."
+    },
+    {
+      "block_id": "b113",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "Half of survey respondents indicated that when there is a budget for legacy system remediation, it frequently gets reallocated to other initiatives. For instance, DVLA had to reallocate funds to meet electric vehicle policy updates, delaying modernisation and innovation projects. This practice creates a compounding effect: as remediation efforts are deferred, more legacy systems accrue, making future remediation increasingly complex and expensive, thereby requiring even more funding."
+    },
+    {
+      "block_id": "b114",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Legacy technology imposes unsustainable risk and cost"
+      ],
+      "text": "Many organisations, such as DWP and NHS England, spend as much as 70-85% of their technology budgets on upkeep instead of modernisation or innovation, relative to 67-70% among heavily regulated private sector industries and closer to 60% among digital leaders. [footnote 25] HMRC , for example, relies heavily on costly third-party services to maintain outdated systems, while others, like Cabinet Office, struggled to cover critical upgrades due to scaled-back funding."
+    },
+    {
+      "block_id": "b115",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+    },
+    {
+      "block_id": "b116",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "There is no consistent measure of service reliability across the public sector, but in 2024 there have been several critical outages that impacted everyday processes, causing reduced quality of care in hospitals, delays at border control e-gates and disruption to emergency calls. One hundred and twenty-three outages impacted NHS England, often forcing staff to fall back onto manual, paper-based processes. During October 2024, NHS Northamptonshire and Leicestershire had one major network incident every week. An NHS technology executive said, ‘Response plans are so regularly tested because we’ve had so many incidents’."
+    },
+    {
+      "block_id": "b117",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "The magnitude and impact of incidents across the public sector are not centrally captured. However, several recent incidents impacting citizens have created headlines that underline the urgency to bolster reliability and incident management capabilities:"
+    },
+    {
+      "block_id": "b118",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "NHS hospital trusts (May 2024): NHS computer issues linked to patient harm, BBC [footnote 26]"
+    },
+    {
+      "block_id": "b119",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "HMRC (May 2024): Half a million left without Child Benefit payment, BBC [footnote 27]"
+    },
+    {
+      "block_id": "b120",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "Home Office (May 2024): E-gates back online after chaos at Heathrow and other UK airports, The Guardian [footnote 28]"
+    },
+    {
+      "block_id": "b121",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "Emergency Services (June 2023): Public Emergency Call Service disruption, Sunday 25 June 2023, GOV.UK [footnote 29]"
+    },
+    {
+      "block_id": "b122",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "HMRC (December 2022): HMRC missed 100,000 phone calls from taxpayers during IT outage, The Telegraph [footnote 30]"
+    },
+    {
+      "block_id": "b123",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+      ],
+      "text": "Without robust and regularly tested management response plans, systems that serve individuals and businesses are at risk. Yet many organisations fall short of effectively ensuring adequate business continuity."
+    },
+    {
+      "block_id": "b124",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+    },
+    {
+      "block_id": "b125",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+      ],
+      "text": "The National Cyber Security Centre ( NCSC ), a part of Government Communications Headquarters ( GCHQ ), has warned today’s cyber threat landscape is growing ever more complex, amplified by heightened geopolitical competition and intensified by the use of AI . [footnote 31] In 2024, the NCSC responded to 50% more nationally significant incidents compared to last year, with a 3x increase in incident severity. In the private sector, cyber remains a critical priority, with 50% of businesses reporting breaches over the past year and 75% prioritising cybersecurity at the senior management level, according to the 2024 UK Cyber security breaches survey."
+    },
+    {
+      "block_id": "b126",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+      ],
+      "text": "Over the years, the public sector has been the victim of several high-profile attacks. One notable example is the cyber-attack on the British Library in October 2023. The attack led to the encryption and destruction of much of the library’s server estate, resulting in the exfiltration and auction of around 600GB of user and staff data on the dark web. The library’s infrastructure rebuild and service restoration efforts have been extensive, with ongoing service disruptions."
+    },
+    {
+      "block_id": "b127",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+      ],
+      "text": "In addition, over the last 2 years, the NCSC has seen a growing number of instances where advanced persistent threat actors have targeted the commodity technologies relied upon by public systems. In most cases, proper cyber security and data protection measures would mitigate attacks. Additionally, results from the state of digital government technical leadership survey indicate that only 50% of respondents are confident about having a low risk of experiencing a cyber security breach or incident."
+    },
+    {
+      "block_id": "b128",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+      ],
+      "text": "While there are pockets of co-ordinated efforts, there is currently no cross-government or wider public sector focused capability for managing emerging technology, horizon scanning and response, making it more difficult to co-ordinate on cross-cutting issues. A pertinent example of this emerging technology is post-quantum cryptography which threatens the security of public information and poses a risk to national and economic security."
+    },
+    {
+      "block_id": "b129",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyber threats"
+      ],
+      "text": "GSG is currently working across the public sector to develop plans for the rapid acceleration of cyber transformation. Central intervention has proven to dramatically improve public sector cyber security across Canada, USA and Australia, and enabled a more agile and effective response. The NCSC supports the need for intervention to rapidly increase cyber resilience across the public sector. A strong interventionist model would accelerate the pace of cyber transformation."
+    },
+    {
+      "block_id": "b130",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "Cloud adoption has accelerated, but there are barriers to full potential"
+    },
+    {
+      "block_id": "b131",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cloud adoption has accelerated, but there are barriers to full potential"
+      ],
+      "text": "Cloud adoption has been accelerated through dedicated budgets (equating to £1.3 billion), a cloud-first policy, and NCSC cloud security guidance. When done right, the value created from the cloud can be dramatic including increased agility, scalability and faster innovation. A focus on cost and value optimisation has also been shown to yield a reduction in cloud total cost of ownership by 20-30% in private sector examples. [footnote 32]"
+    },
+    {
+      "block_id": "b132",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "Cloud adoption has accelerated, but there are barriers to full potential"
+      ],
+      "text": "46% of SDG survey responses reported that more than 60% of their estate is on the cloud, although most of these migrations have not included full refactoring. However, cloud adoption across the public sector is inconsistent. For example, around 63% of the Home Office estate is on public cloud, while a large proportion of local government workloads and data remains on premise and NHS Cambridge has around 95% of its estate on-premises. Public organisations typically source their own cloud provisions. There are opportunities to further reduce cloud costs through contract consolidation to benefit from economies of scale."
+    },
+    {
+      "block_id": "b133",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "SDG survey responses denoting share of services hosted on public-cloud"
+    },
+    {
+      "block_id": "b134",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology",
+        "SDG survey responses denoting share of services hosted on public-cloud"
+      ],
+      "text": "Figure 2: What share of systems in your estate are hosted on public cloud? (%)"
+    },
+    {
+      "block_id": "b135",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "SDG survey responses denoting share of services hosted on public-cloud",
+        "Figure 2: What share of systems in your estate are hosted on public cloud? (%)"
+      ],
+      "text": "All survey respondents reported using 1 of 2 leading cloud providers, often relying on default deployment settings including deployment regions, concentrating workload in specific locations. This creates increased concentration risk when viewed across the public sector. This concentration means that a regional outage could cascade across public sector services, amplifying disruption. The centre of government has begun to track this risk, but it will require strong co-ordination and collaboration with providers to address fully."
+    },
+    {
+      "block_id": "b136",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Technology"
+      ],
+      "text": "GMPP digital, data, and technology programmes continue to underperform"
+    },
+    {
+      "block_id": "b137",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "GMPP digital, data, and technology programmes continue to underperform"
+      ],
+      "text": "The Government’s Major Projects Portfolio ( GMPP ) contains 244 programmes with a baseline whole life cost of around £460 billion (including non-government costs). [footnote 33] Of the around 140 programmes scheduled for completion after Q2 2025, 32 are primarily focused on digital and data at a cost of around £60 billion. [footnote 34]"
+    },
+    {
+      "block_id": "b138",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "GMPP digital, data, and technology programmes continue to underperform"
+      ],
+      "text": "Digital and data projects are 60% more likely to be reporting ‘Red’ than the wider GMPP portfolio with only 9% reporting a ‘Green’ status. [footnote 35] Current Infrastructure and Projects Authority (IPA) governance and assurance processes lack real-time insights and have been unable to consistently resolve the issues required to return challenging projects back to health."
+    },
+    {
+      "block_id": "b139",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "GMPP digital, data, and technology programmes continue to underperform"
+      ],
+      "text": "Leaders’ experience of and preparation for delivering large scale digital projects varies. Many are from policy or non-technology operational backgrounds, and transformation roles are often ‘double-hatted’ alongside services delivery. Recruiting and retaining the right capabilities is a challenge partly driven by the lower pay relative to the private sector; one Senior Responsible Owner ( SRO ) stated, “I took a 2/3 pay cut [coming from the private sector] to do this job”. Existing training initiatives, like the Major Projects Leadership Academy, aim to support leaders but do not focus on specific digital delivery needs."
+    },
+    {
+      "block_id": "b140",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "GMPP digital, data, and technology programmes continue to underperform"
+      ],
+      "text": "A public sector-wide reliance on third parties extends to major programme delivery. Poorly defined responsibilities can lead to a loss of control over outcomes and delivery of technology which cannot move to ‘run’ without significant ongoing support."
+    },
+    {
+      "block_id": "b141",
+      "structural_position": "body",
+      "heading_path": [
+        "Technology",
+        "GMPP digital, data, and technology programmes continue to underperform"
+      ],
+      "text": "Although improvements have been made, digital and data programme delivery approaches endorsed by the IPA are more suited to large, non-tech infrastructure delivery and lack the adaptability that a more agile approach offers. Detailed specifications are required up front with limited scope to fund pilots and proof of concepts. This is a particular challenge where the build requirements are not fully known, as has been the case for the NHS federated data platform build."
+    },
+    {
+      "block_id": "b142",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Data and AI"
+    },
+    {
+      "block_id": "b143",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Data and AI"
+      ],
+      "text": "Fragmented data hampers ability to analyse and draw meaningful insights"
+    },
+    {
+      "block_id": "b144",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Only 27% of survey respondents believe their current data infrastructure enables a comprehensive view of operations or transactions. 70% say their data landscape is not well co-ordinated, interoperable, or enables a unified source of truth. In a separate recent digital maturity survey completed by 76 local authorities, using and managing data was scored as the lowest maturity area with the median response neither agreeing nor disagreeing that they had a mature approach to using data."
+    },
+    {
+      "block_id": "b145",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Fragmented data is an issue both within and across organisations. For instance, Cabinet Office’s ‘Better data for a better Cabinet Office’ strategy highlights the need for integration, yet legacy systems and skill gaps hinder effective data use and quality control. Defra faces similar problems from fragmented data having to manage overlapping digital services and data for imports, exports and fisheries, which have similar functions but are maintained separately due to differences in policy. These issues are recognised externally: Citizen’s Advice, for example, highlighted specific opportunities to better harness fragmented data held across charities and the public sector to better predict and prevent public detriment, such as using one-off discretionary housing payments as a predictor of homelessness."
+    },
+    {
+      "block_id": "b146",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Given the breadth of services that councils provide to every citizen in the UK, councils hold a wealth of data on each resident. However, it is challenging for councils to ensure that systems and data are interoperable due to barriers by legacy suppliers and/or the high costs of APIs which significantly hinder digital transformation. [footnote 36]"
+    },
+    {
+      "block_id": "b147",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Despite these limitations, the ingenuity of public servants has led to noteworthy results such as DfE using supplier-held data to overcome the friction of sharing between schools and enable real-time attendance visibility. Data harmonisation efforts have also delivered successes. The NHS Federated Data Platform, adopted by Northamptonshire University Hospitals, has improved theatre scheduling, and at Chelsea and Westminster Hospital, has helped to track cancer patient workflows. Home Office and DVLA developed a ‘Photo at the Roadside’ API service used by 41 police forces to confirm driver identity by retrieving the photo from drivers’ licences on a handheld device, meaning roadside checks are up to 66% faster and saving over 500,000 police hours. The MOJ has developed an open-source data matching product called Splink, which can link a million records a minute for justice use cases (e.g. identifying pathway of offenders), and has been adopted by public and private sector organisations around the world."
+    },
+    {
+      "block_id": "b148",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Like broader technology fragmentation, data fragmentation results from a combination of technical limitations, risk-averse cultures, unclear regulations, and different governance standards. Legacy systems can also pose a major challenge to real-time data sharing, such as COBOL systems in HMRC , which require additional software to share data via APIs."
+    },
+    {
+      "block_id": "b149",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "A strong sense of data ownership and reluctance to aggregate personal data further inhibit sharing. Departments such as Defra report resistance from ALBs that view their data as proprietary, creating silos even within the organisation. In extreme cases, data provided by one organisation will not even be ‘shared back with them’. These issues are often tied to concerns over data accuracy, limited capability to manage data appropriately, and fears of reputational damage if shared data results in errors. Organisations are also concerned that aggregating large, sensitive datasets, such as salary information from DWP , immigration status from Home Office, and address data from the Ministry of Housing, Communities and Local Government, could increase fraud risks and lead to disputes over responsibility for detection."
+    },
+    {
+      "block_id": "b150",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Fragmented data hampers ability to analyse and draw meaningful insights"
+      ],
+      "text": "Legislative frameworks such as the Digital Economy Act 2017 and the Data Protection Act, have tried to overcome barriers. However, data sharing agreements and access point APIs are often laboriously agreed, and there is also limited ability to enforce them. The ONS Integrated Data Service programme aims to improve accessibility of official data, and is accredited under the DEA 2017, but has yet to fully launch its service."
+    },
+    {
+      "block_id": "b151",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Data and AI"
+      ],
+      "text": "Data is underutilised for AI"
+    },
+    {
+      "block_id": "b152",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI"
+      ],
+      "text": "Targeted use of AI has the potential for large-scale public sector benefits, with over 140 use-cases already identified across central government. For example, tools to automate drafting of policy documentation can reduce administrative burden and target up to 40% time saving. DWP has already demonstrated that cost savings and an improved user experience can be achieved with AI integration into bereavement notifications and the direct payments after death process. Hillingdon Council became the first UK local authority to use voice automation and AI at scale, creating an AI -driven citizen contact system that reduced the cost per call by 5% and immediately provided the capacity of 25 to 30 full time employees, successfully delivering a cost saving of £5 for every pound spent and allowing citizens to phone the council 24 hours a day. [footnote 37] Despite these examples, public sector data remains underutilised, holding back AI , machine learning and advanced analytics potential."
+    },
+    {
+      "block_id": "b153",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI"
+      ],
+      "text": "Figure 3: CDDO AI common use cases"
+    },
+    {
+      "block_id": "b154",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "In addition to the challenges of fragmentation, data accessibility and quality were highlighted as significant obstacles in CDDO ’s ‘Analysis of AI adoption planning across Public Sector’ report from July 2024. Data quality issues can lead to poor quality or inaccurate AI -generated results and potential exposure of sensitive data to the wrong users."
+    },
+    {
+      "block_id": "b155",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Funding and the ability to prove benefits are also barriers. HM Treasury requires clear cost-benefit justifications for AI or machine learning ( ML ) adoption, however, only 8% of AI projects show measurable benefits and only 16% show forecast costs, making it difficult to assess these against a cost-benefits analysis."
+    },
+    {
+      "block_id": "b156",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Spotlight on health"
+    },
+    {
+      "block_id": "b157",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "The unique needs and opportunities of the NHS mean that it has features which need specific treatment, or which should be taken as examples of good practice for the rest of the sector:"
+    },
+    {
+      "block_id": "b158",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Pioneering AI : the NHS has a combination of data, expertise and needs that can make a direct difference to patients’ wellbeing and clinical outcomes, and is trialling approaches which the rest of the public sector can learn from."
+    },
+    {
+      "block_id": "b159",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Common platforms : despite earlier challenges, the NHS is making progress in building common platforms, such as the shared set of systems which comprise the NHS Spine, and the Federated Data Platform."
+    },
+    {
+      "block_id": "b160",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "App adoption : the use of the NHS app to provide COVID passports during the pandemic has driven high levels of take up, making it one of the most used apps in the country."
+    },
+    {
+      "block_id": "b161",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Talent : the NHS has a slightly lower proportion of digital and data professionals than benchmark comparators."
+    },
+    {
+      "block_id": "b162",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Risk : the diverse set of technology, of varying ages and level of support, across the various parts of the NHS mean that it is particularly exposed to failure and cyber attack and has experienced high levels of incidents."
+    },
+    {
+      "block_id": "b163",
+      "structural_position": "body",
+      "heading_path": [
+        "Data and AI",
+        "Data is underutilised for AI",
+        "Figure 3: CDDO AI common use cases"
+      ],
+      "text": "Sector fragmentation : as with local government, the structure of the NHS drives fragmentation, constraining buying power, shared capabilities and the ability to manage talent."
+    },
+    {
+      "block_id": "b164",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Central and shared capabilities"
+    },
+    {
+      "block_id": "b165",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Central and shared capabilities"
+      ],
+      "text": "Central and shared digital capabilities have not yet had sector wide impact"
+    },
+    {
+      "block_id": "b166",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "Various attempts have been made to drive digital transformation through central teams and shared capability. While these efforts have had impact, they have been focused within specific areas of the sector rather than on broader public service reform."
+    },
+    {
+      "block_id": "b167",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "Government Digital Service ( GDS ) is a centralised function responsible for creating cross-government digital services such as GOV.UK, a single online platform for public information and services. GDS has also developed GOV.UK One Login for simplified user authentication. One Login aims to consolidate 19 different account setups and 44 unique sign-in methods into a single, unified login system."
+    },
+    {
+      "block_id": "b168",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "It has reduced duplication and streamlined administrative processes, leading to cost savings and efficiency improvements, with an investment of approximately £305 million expected to yield around £1.75 billion in monetised benefits over 5 years. Government Standards and Guidelines have begun to be used by the wider public sector. In a recent digital maturity survey completed by 76 local authorities, 61% said their council referred to the government development lifecycle for the delivery of their digital services."
+    },
+    {
+      "block_id": "b169",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "Government Security Group ( GSG ) is the central co-ordinating body for protective security across central government and their ALBs . GSG works closely with the National Cyber Security Centre ( NCSC ), the National Protective Security Authority (NPSA) to develop and implement security policies, standards and guidance for all government organisations. It also offers shared security services across the public sector, helping to streamline practices and improve threat resilience."
+    },
+    {
+      "block_id": "b170",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "Unlike GDS and GSG , which were created explicitly to be a centralised capability, Integrated Corporate Services ( ICS ) was developed by Department for Business, Energy and Industrial Strategy ( BEIS ) successor departments (Department for Energy Security and Net Zero ( DESNZ ), Department for Science, Innovation and Technology ( DSIT ) and Department for Business and Trade ( DBT ) to provide commodity computing resources such as Office 365 and cloud hosting to itself. ICS ’ approach of using configurable commercial-off-the-shelf, cloud first applications to develop solutions successfully cut costs, driving down end-user costs by 10% from a £2,000 baseline, with the potential for further reductions from further scaling. ICS has expanded to support 13 central government organisations, with plans to expand further still. ICS shows the potential for departmental-led initiatives to be built and scaled to provide value across the public sector."
+    },
+    {
+      "block_id": "b171",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "The Central Digital and Data Office ( CDDO ) was created in 2021 out of parts of GDS to lead the Government Digital and Data function. Its remit includes defining and implementing a coherent digital strategy across government and assuring investment through spend controls. It takes responsibility for the professional leadership and development of capability across government to define skills, roles and career paths; technology and data leadership and technical engagement with the market. CDDO developed the 2022 to 2025 roadmap for digital and data, Transforming for a Digital Future, collectively with senior leaders across government. It included key commitments such as, to transform 50 of the Top 75 government services to a ‘Great’ standard and grow the size of the Government Digital and Data profession to 6% of total Civil Service headcount. The roadmap laid important foundations and progress has been made in a number of areas including identifying Essential Shared Data Assets and creating guidance on the use of Generative AI ."
+    },
+    {
+      "block_id": "b172",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "However, there are also a number of areas where CDDO have not been able to make enough sustained progress on some of the broader systemic change that is needed such as legacy IT and technology risk management."
+    },
+    {
+      "block_id": "b173",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "Similar examples of centralised and shared capability exist outside of central government. NHS England provides cyber security services across the NHS to maximise reusability and ensure compliance with higher security standards and independent security audits."
+    },
+    {
+      "block_id": "b174",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "The Police Digital Service ( PDS ) provides national services to police forces on behalf of National Police Chiefs’ Council’ ( NPCC ), including the delivery and management of UK policing cyber security and information risk management, Digital Data and Technology ( DDaT ) standards, technology blueprints and live operational applications and tools. Additionally, the NPCC facilitates best practices sharing between police services. [footnote 38] While adherence to tech standards across policing has improved, for example accompanying the adoption of Microsoft 365, coverage of many standards remains limited with participation at the discretion of individual police forces."
+    },
+    {
+      "block_id": "b175",
+      "structural_position": "body",
+      "heading_path": [
+        "Central and shared capabilities",
+        "Central and shared digital capabilities have not yet had sector wide impact"
+      ],
+      "text": "The need for a co-ordinated and sector-wide solution to the local government’s digital ambitions is also well recognised and has gained momentum towards implementation. In a recent paper, the Local Government Association ( LGA ) called for a ‘Local Government Centre for Digital Technology’ to develop shared solutions and standards across local councils to meet national priorities."
+    },
+    {
+      "block_id": "b176",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "People, leadership and skills"
+    },
+    {
+      "block_id": "b177",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills"
+      ],
+      "text": "Digital leadership is not a consistent priority"
+    },
+    {
+      "block_id": "b178",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority"
+      ],
+      "text": "Survey responses and interviews with senior leaders across the public sector have consistently highlighted that many non-digital public sector leaders with sizable delivery responsibilities have insufficient technical expertise or training, lack the digital orientation to implement tech-enabled programmes, or don’t fully understand mission-critical technology dependencies and high-priority opportunities such as AI . Skills programmes exist but are not consistently implemented; only around 20% of Civil Service SCS have verified themselves as ‘digitally upskilled’ relative to the digital and data essentials framework."
+    },
+    {
+      "block_id": "b179",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority"
+      ],
+      "text": "There is a culture gap between the policy profession and the digital and data profession: interviewees reported that each profession did not understand the priorities or work of the other, and that the formation of true cross-functional teams, founded on mutual respect, was rare."
+    },
+    {
+      "block_id": "b180",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority"
+      ],
+      "text": "Digital leaders are not well represented at executive level across the public sector. Executive CDIO roles are not the norm across public sector organisations with only 4 central government departments having a digital leader on their executive committee. [footnote 39] This contrasts with the private sector, where the typical FTSE 100 COO has either led digital transformations or has acted in technology-centric roles such as Chief Information Officer ( CIO ). In the private sector, CIO ’s, Chief Technology officer’s ( CTO ’s) and Chief Digital Information Officer’s ( CDIO ’s) commonly sit on the executive committee and report directly to the Chief Executive Officer ( CEO )."
+    },
+    {
+      "block_id": "b181",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority"
+      ],
+      "text": "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+    },
+    {
+      "block_id": "b182",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority",
+        "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+      ],
+      "text": "In the NHS, over 80% of trusts have a named CDIO , though only 50% of these CDIOs had a seat on the trust board."
+    },
+    {
+      "block_id": "b183",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority",
+        "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+      ],
+      "text": "Public sector leaders and organisations do not consistently integrate digital colleagues into their operating model alongside policy and operational teams. This prevents true collaboration and innovation."
+    },
+    {
+      "block_id": "b184",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority",
+        "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+      ],
+      "text": "“Digital and data teams are seen by policy teams as stakeholders to manage rather than part of the team needed to help look at options for how to achieve a shared goal.” Home Office survey response."
+    },
+    {
+      "block_id": "b185",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "Digital leadership is not a consistent priority",
+        "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+      ],
+      "text": "“If you look across the different professions – digital and data, policy, operational delivery, project delivery, they each have their own world view and standards as to how things should be done… Operational people don’t want to change, policy people don’t understand delivery and digital people don’t understand either of those 2 things – they all just disregard each other. It is structurally baked into the way the Civil Service is organised, both in terms of professions and organisational structures.” Senior leader, Defra."
+    },
+    {
+      "block_id": "b186",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills"
+      ],
+      "text": "There are not enough digital and data people in the right roles"
+    },
+    {
+      "block_id": "b187",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "Public sector technology is delivered by a digital workforce of around 80,000 permanent government employees, around 20,000 contractors, plus an additional tens of thousands of private sector resources contracted through managed services and IT consultancy agreements."
+    },
+    {
+      "block_id": "b188",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "Overall Civil Service (including agencies, ALBs and NDPBs ) internal headcount equates to a proportion of around 5% digital and data employees. This represents under-resourcing relative to benchmarks of 6% for other governments and 8-12% in regulated private sector industries. [footnote 40]"
+    },
+    {
+      "block_id": "b189",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "There is significant variation in the proportion of digital and data employees across organisations. In the Met Office and the ONS, proportions are as high as 15% or greater – above comparator private sector industries. In local government, digital and data roles are only 2% of headcount, against benchmarks of 4%; for the NHS, these roles account for 2.8% against benchmarks of 3%. [footnote 41]"
+    },
+    {
+      "block_id": "b190",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "There is an inefficient mix of ‘role types’ in the Civil Service. The digital and data workforce has an oversupply of project managers and other non-technical digital and data functions relative to the supply of technical roles (such as software developers). High-performing private sector organisations achieve a ratio of 4:1 technical to non-technical roles. In the Civil Service, the current ratio is closer to 2:1."
+    },
+    {
+      "block_id": "b191",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "Skills shortages also adds to the effective use of data and AI adoption. DWP ’s newly established AI directorate has successfully launched projects such as Whitemail Vulnerability Scanning, which processes physical mail to identify vulnerable citizens. DWP is also developing DWP Ask, a conversational question and response tool to help"
+    },
+    {
+      "block_id": "b192",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "There are not enough digital and data people in the right roles"
+      ],
+      "text": "DWP Work Coaches find information. However, strong reliance on external vendor support to achieve this reveals a lack of cohesive infrastructure to manage and integrate data internally. For example, Defra does not have a standing team for AI and data science capabilities so needs to outsource AI development and struggles to operationalise AI use cases."
+    },
+    {
+      "block_id": "b193",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills"
+      ],
+      "text": "The public sector is not seen by many digital and data professionals as an attractive place to work"
+    },
+    {
+      "block_id": "b194",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work"
+      ],
+      "text": "Despite offering varied roles of critical national importance, the public sector struggles to consistently recruit and develop top digital and data talent. The proportion of advertised roles filled via a recruitment campaign have been in decline since 2019, dropping from a high of around 80% in 2020 to an average of around 50% in 2024."
+    },
+    {
+      "block_id": "b195",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work"
+      ],
+      "text": "Figure 4: Civil Service digital and data recruitment success rates, HEO - SCS % (2019 to 2024) [footnote 42]"
+    },
+    {
+      "block_id": "b196",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Figure 4: Civil Service digital and data recruitment success rates, HEO - SCS % (2019 to 2024) [footnote 42]"
+      ],
+      "text": "Analysis from Glassdoor, a website that enables users to publicly rate their experience of working for organisations across the public and private sector, suggests a mixed picture for the Civil Service. Recruitment issues are primarily driven by uncompetitively low pay relative to the private sector. Pay satisfaction is significantly below private sector benchmarks across departments, job roles and seniority levels. While the public sector pension and work-life balance offerings remain a draw, they do not attract enough individuals to resolve the recruiting challenges. [footnote 43]"
+    },
+    {
+      "block_id": "b197",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work"
+      ],
+      "text": "Table 2: Glassdoor analysis (online experience rating platform) by role. Gap to private sector benchmark (2022 to 2024)"
+    },
+    {
+      "block_id": "b198",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Table 2: Glassdoor analysis (online experience rating platform) by role. Gap to private sector benchmark (2022 to 2024)"
+      ],
+      "text": "Private sector digital and data pay is universally higher than public sector across all roles (and the wider public sector is 5% below central government). [footnote 44] In the NHS, mapping digital and data roles to the Agenda for Change pay bands and career paths has introduced further challenge in both uncompetitive pay and progression based on a very different clinical model."
+    },
+    {
+      "block_id": "b199",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work"
+      ],
+      "text": "Figure 5: Digital and data pay by role type, public and private sector (£), averaged across UK regions"
+    },
+    {
+      "block_id": "b200",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work"
+      ],
+      "text": "Table 3: Civil Service pay difference versus the private sector"
+    },
+    {
+      "block_id": "b201",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Table 3: Civil Service pay difference versus the private sector"
+      ],
+      "text": "While digital and data talent is attracted to the potential flexibility and impact offered by public service, such as the opportunity to move between departments or the sense of mission from working for the public good, these benefits are not sufficient to retain top talent. Around 45% of Civil Service, 55% of agency and ALB , and 53% of local authority respondents thought that career progression pathways were poorly defined."
+    },
+    {
+      "block_id": "b202",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Table 3: Civil Service pay difference versus the private sector"
+      ],
+      "text": "Performance management frameworks are underused with very few individuals identified as underperformers (only 3% observed in one central department), and only around 4% of digital and data SCS on Performance Improvement Plans. As a result, poor performers remain within the workforce and true high performers are not differentiated. This is a likely contributor to low attrition rates, with an average of 6-15% across the Civil Service (with a proportion of these leavers moving to other public sector organisations)."
+    },
+    {
+      "block_id": "b203",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Table 3: Civil Service pay difference versus the private sector"
+      ],
+      "text": "Long tenure, low churn, low forced attrition and limited options to reward great performance such as larger bonuses or differentiated promotion opportunities, may be driving top performers to leave the public sector entirely."
+    },
+    {
+      "block_id": "b204",
+      "structural_position": "body",
+      "heading_path": [
+        "People, leadership and skills",
+        "The public sector is not seen by many digital and data professionals as an attractive place to work",
+        "Table 3: Civil Service pay difference versus the private sector"
+      ],
+      "text": "“We constantly lose highly talented people to the private sector as we can’t compete with salary and flexible working, which digital professionals expect in the modern world.” Senior leader, central government department."
+    },
+    {
+      "block_id": "b205",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Digital supply chain"
+    },
+    {
+      "block_id": "b206",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "Public sector digital and data spend in 2023 was estimated to be around £26 billion of which around £5 billion was employee costs and £21 billion was third party costs including contractors. [footnote 45] By organisation type: £11 billion was spent by central government, £8 billion by the NHS, £5 billion by local government, £1 billion by police and £1 billion by rail, devolved transport and fire services and charitable organisations. [footnote 46] [footnote 47]"
+    },
+    {
+      "block_id": "b207",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "Public sector usage and management of third parties has not adapted to reflect the shifts in the technology market"
+    },
+    {
+      "block_id": "b208",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "Public sector usage and management of third parties has not adapted to reflect the shifts in the technology market"
+      ],
+      "text": "In the last 15 to 20 years the technology market has shifted, impacting how sourcing and supplier management is carried out. The model of outsourcing technology development and owning hardware in-house has shifted towards building internal development teams and buying platform services. The upfront capital purchase model has shifted to a subscription-based model in line with the move away from on-premises and owned technology and towards services such as SaaS and cloud. System integrators have also shifted from being the dominant service providers to acting as resellers for major platforms. The technology supply chain has consolidated over time as platform providers take on the role of hardware provider, data centre provider, database vendor, etc."
+    },
+    {
+      "block_id": "b209",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "Public sector usage and management of third parties has not adapted to reflect the shifts in the technology market"
+      ],
+      "text": "These shifts have changed the way in which companies choose to leverage, negotiate with and manage third parties in the technology market. The government’s procurement and supplier management processes have not adapted to this market shift, impacting the performance and value for money achieved from the newly shaped supply chain. Government sourcing decisions should more actively incorporate these market drivers and conditions as well as requirements and preferences of the contracting organisation."
+    },
+    {
+      "block_id": "b210",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "The public sector does not have a co-ordinated digital sourcing strategy across organisations"
+    },
+    {
+      "block_id": "b211",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The public sector does not have a co-ordinated digital sourcing strategy across organisations"
+      ],
+      "text": "Some digital sourcing strategies exist at the organisational level, although only 4% of leaders ‘completely agree’ these strategies are clear. Across the public sector, organisational silos and challenges associated with providing shared services have caused digital and data spending to evolve organically. As a result, opportunities have been missed to benefit from the public sector’s scale. For example, 7 resellers were identified to have provided Google products (services, software and licenses) across 12 departments with 10% in missed volume discounts; the government was also exposed to VMware’s pricing increases following a Broadcom acquisition due to lack of a cross-government commercial agreement."
+    },
+    {
+      "block_id": "b212",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The public sector does not have a co-ordinated digital sourcing strategy across organisations"
+      ],
+      "text": "This challenge is further exacerbated across the NHS and local government: each of the NHS’s 209 secondary care entities negotiates and buys its own infrastructure (including cloud, networking, end user computing), and each of the 320 councils largely negotiates their own technology agreements outside of buying groups. Local councils also often exist in markets where they are locked into vendors, with limited options and low opportunity to diversify from large-scale suppliers. For example, the children’s social care market is highly concentrated: local governments procure from 3 main providers who have little incentive to improve their product, despite councils using each system for a median 10-year period."
+    },
+    {
+      "block_id": "b213",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The public sector does not have a co-ordinated digital sourcing strategy across organisations"
+      ],
+      "text": "Approaches to co-ordinate and drive scale benefits have been introduced across multiple parts of central government including the Crown Commercial Service ( CCS ), Government Commercial Function ( GCF ) and Central Digital and Digital Office ( CDDO ). GCF provides commercial expertise and oversees procurement policy across departments, supporting departments with complex digital and data procurements. CCS is the main centralised procurement body for the UK government, providing frameworks, commercial agreements, and procurement guidance, often tailored to digital and data needs. CDDO provides guidance, oversight and standards which shape how departments approach and manage digital and data procurement. Work by these teams has created common frameworks and constructs which consolidate the buying power of the public sector. CCS , GCF and CDDO recently secured a landmark five-year agreement with a major global provider with better commercial terms for a range of eligible public organisations. [footnote 48] Despite proven successes, no approach is sufficiently widely adopted, frameworks are not mandatory and scale benefits and duplicated buying are still a challenge. Today, less than 50% of public sector digital spend with third parties is covered by CCS frameworks. [footnote 49]"
+    },
+    {
+      "block_id": "b214",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "Commercial teams have insufficient digital expertise and digital teams have limited commercial skills"
+    },
+    {
+      "block_id": "b215",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "Commercial teams have insufficient digital expertise and digital teams have limited commercial skills"
+      ],
+      "text": "It is common practice in large private sector organisations to have category-specific buying operating models supported with specialist capabilities, yet the public sector largely relies on a generalist model. While pockets of digital and data procurement expertise exist such as specialist teams in CCS , GCF and CDDO , buying is typically performed by generalists with limited use of more strategic approaches such as category management. As one GCF leader noted: “We need 250 more [digital specialists]”."
+    },
+    {
+      "block_id": "b216",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "Commercial teams have insufficient digital expertise and digital teams have limited commercial skills"
+      ],
+      "text": "Only 28% of leaders believe there are sufficient internal capabilities to effectively monitor, track and drive supplier performance, with only 40% of leaders stating that third parties perform in line with expectations. Once contracts are signed, aggregate supplier performance is not consistently or rigorously managed across the public sector. This impacts service quality, timing and the final cost of service delivery – ‘actual’ digital spend with managed service providers exceeded contract value by over 50% in 2023. Scope changes, contract variations, and other non-commercial factors also contribute to these performance issues."
+    },
+    {
+      "block_id": "b217",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "The UK government relies on costly external providers to augment internal digital and data capability"
+    },
+    {
+      "block_id": "b218",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The UK government relies on costly external providers to augment internal digital and data capability"
+      ],
+      "text": "The public sector depends heavily on costly third parties to augment internal digital and data capability. Of the £26 billion public sector digital and data spend in 2023, less than 20% (around £5 billion) was on permanent public sector staff while 55% (£14.5 billion) was spent on contractors, managed services providers, and IT consultants (12%, 25% and 19% respectively). Less than a third of leaders believe this current balance of internal resources and external support is cost effective or efficient."
+    },
+    {
+      "block_id": "b219",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The UK government relies on costly external providers to augment internal digital and data capability"
+      ],
+      "text": "The reliance on third parties is driven by a combination of factors; lack of cohesive capability sourcing strategy, headcount constraints, technical skills gaps and uncompetitive reward that constrains the ability to bring in external talent as permanent staff. The issue is further exacerbated as gaining approval to secure third party spend as third parties can be wrapped into capital funding budgets which are typically ‘easier’ to secure versus budget to hire permanent staff."
+    },
+    {
+      "block_id": "b220",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The UK government relies on costly external providers to augment internal digital and data capability"
+      ],
+      "text": "“The mix is unbalanced due to restrictions on bringing in internal public sector resource. This leads to having to spend huge amounts on external resources where the funding constraints allow.” Senior leader, large central government department."
+    },
+    {
+      "block_id": "b221",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The UK government relies on costly external providers to augment internal digital and data capability"
+      ],
+      "text": "For contractors specifically, overall public sector digital spend is 10 to 25 percentage points more than public and private sector benchmarks. [footnote 50] [footnote 51] The average contractor costs 3x their public servant counterparts (£182,000 vs £61,000 per year), accounting for around 40% of the overall cost yet only around 18% of the total headcount of the 2 groups."
+    },
+    {
+      "block_id": "b222",
+      "structural_position": "body",
+      "heading_path": [
+        "Digital supply chain",
+        "The UK government relies on costly external providers to augment internal digital and data capability"
+      ],
+      "text": "Organisations within government have explored alternative capability and resourcing models. Starting in 2015 DVLA developed a primarily insourced model with focus on internal digital skills and talent development. The DVLA Centre of Digital Excellence now covers 15 programmes with academic qualifications, professional certifications through to apprenticeships. Thirteen percent of the digital and technology organisation are either on the talent pipeline, or graduates of it with all junior software engineers, cloud engineers, software development engineering in test and business analysts coming through the programmes."
+    },
+    {
+      "block_id": "b223",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain"
+      ],
+      "text": "Headcount and cost of contractors relative to permanent staff in public sector"
+    },
+    {
+      "block_id": "b224",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain",
+        "Headcount and cost of contractors relative to permanent staff in public sector"
+      ],
+      "text": "Figure 6: Headcount and cost of digital and data permanent staff and contractor resources in public sector (2023, thousand and £ billion)."
+    },
+    {
+      "block_id": "b225",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Digital supply chain",
+        "Headcount and cost of contractors relative to permanent staff in public sector"
+      ],
+      "text": "Figure 7: Average annual cost of public sector digital and data permanent staff and contractors (2023, £ thousand)."
+    },
+    {
+      "block_id": "b226",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Investment prioritisation and controls"
+    },
+    {
+      "block_id": "b227",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Investment prioritisation and controls"
+      ],
+      "text": "Funding of continuous improvement of the technology estate is under-prioritised versus new policy programmes"
+    },
+    {
+      "block_id": "b228",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding of continuous improvement of the technology estate is under-prioritised versus new policy programmes"
+      ],
+      "text": "Digital services require ongoing funding of persistent teams that build new functionality alongside driving continuous improvement to their technology estate. Unlike this modern product model, the current public sector funding model is geared towards financing new policy programmes and discrete projects. Even when sufficient ongoing funding is secured, ‘top-slicing’ of budgets in favour of policy-linked demands leads to underinvestment over time, contributing to increasing operational risks and higher levels of technical debt. As an example, the DVLA remediation for the red-rated Vehicle Systems Software tool was delayed as funding was re-allocated to an urgent legislative change. around 65% of digital and data leaders do not believe the funding model is adequately designed to allow their organisation to invest in and run existing digital services effectively. In a separate recent digital maturity survey completed by 76 local authorities, only 39% of councils reported a dedicated budget specifically for the introduction of new digital systems."
+    },
+    {
+      "block_id": "b229",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding of continuous improvement of the technology estate is under-prioritised versus new policy programmes"
+      ],
+      "text": "“Every year there is at least one, sometimes 2 and occasionally 3 reprioritisation exercises, and they always end up deprioritising the ‘fix the stack’ work rather than the work the ministers want, regardless of type or flavour of government.” Senior leader, NHS."
+    },
+    {
+      "block_id": "b230",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding of continuous improvement of the technology estate is under-prioritised versus new policy programmes"
+      ],
+      "text": "“We are struggling with execution as the funding model and current priorities do not fully align. We are not focusing enough resource on service improvement, legacy modernisation, and infrastructure upgrades.” Senior leader, public agency."
+    },
+    {
+      "block_id": "b231",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Investment prioritisation and controls"
+      ],
+      "text": "Funding has not adapted to new technology market norms"
+    },
+    {
+      "block_id": "b232",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms"
+      ],
+      "text": "Technology has shifted from a capital-intensive business, based on the acquisition and creation of hardware and software assets, to a revenue intensive business based on subscription services such as SaaS and cloud. This market wide shift has increased the need across the public sector for ongoing ‘run’ funding over upfront investments. [footnote 52]"
+    },
+    {
+      "block_id": "b233",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms"
+      ],
+      "text": "In contrast the government’s current funding model biases allocation to investment projects and capital grants (termed CDEL spending) over funding to day-to-day expenditure (termed RDEL ) – less than half (43-46%) of new departmental digital and data spending reviewed by CDDO (in the 2020 and 2021 Spending Reviews) was RDEL , significantly below Gartner’s 78% public sector benchmark. [footnote 53] [footnote 54] This limits organisations’ ability to reliably secure funding for ‘as a service’ products, commit to modernisation and remediation as well as driving inefficient buying behaviours such as end of year purchasing decisions."
+    },
+    {
+      "block_id": "b234",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms"
+      ],
+      "text": "According to the NAO’s February 2024 report, this results in a focus on short-term solutions, further increases risks associated with legacy systems and results in missed innovations and opportunities. [footnote 55] It also increases the government’s reliance on third parties such as resellers and delivery partners at the expense of building in-house capabilities, as fees can more easily be treated as CDEL spend."
+    },
+    {
+      "block_id": "b235",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms"
+      ],
+      "text": "Figure 8: Spending review allocation of CDEL and RDEL spend, versus Gartner benchmark (2020 and 2021 Spending Review)"
+    },
+    {
+      "block_id": "b236",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms",
+        "Figure 8: Spending review allocation of CDEL and RDEL spend, versus Gartner benchmark (2020 and 2021 Spending Review)"
+      ],
+      "text": "“Challenges exist around the evolution of IT to a more revenue-based funding requirement – which doesn’t match up to the existing capital model. Lack of revenue funding limits our ability to modernise.” Senior leader, county council."
+    },
+    {
+      "block_id": "b237",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Funding has not adapted to new technology market norms",
+        "Figure 8: Spending review allocation of CDEL and RDEL spend, versus Gartner benchmark (2020 and 2021 Spending Review)"
+      ],
+      "text": "“The funding approval model needs to become more agile and reflect a higher ongoing cost.” Senior leader, public agency."
+    },
+    {
+      "block_id": "b238",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Investment prioritisation and controls"
+      ],
+      "text": "Existing governance and controls processes are not suited to digital programmes"
+    },
+    {
+      "block_id": "b239",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "Spending reviews typically have a 1 to 3 year outlook and HM Treasury also typically considers a 5 year scorecard period. Recent changes have standardised spending reviews to occur every 2 years. As a result, funding decisions typically prioritise programmes with short-term, predictable returns, often at the expense of longer-term resilience and security. The current interpretation and application of HM Treasury guidance fails to adequately account for the risks of underfunded legacy systems and the potential long-term productivity gains from investments in data and emerging technologies such as AI ."
+    },
+    {
+      "block_id": "b240",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "Many organisations find the funding governance process overly complex, time-consuming, and ineffective for digital and data initiatives. The application of existing Green Book processes drives up the costs of developing business cases as well as the time taken to secure approval. This can make initial assumptions irrelevant by the time projects are delivered, given the rapid pace of technological change. The cost of complex processes is especially disproportionate for low risk, low value business cases: for example, a business case to renew Microsoft licences which cost £500,000 and processes requiring a £90 licence approval to be submitted to the digital and technology assurance board."
+    },
+    {
+      "block_id": "b241",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "Funding is typically allocated to fixed multi-year business cases instead of persistent outcome-based funding which allows for agile, test-and-learn approaches. Leaders are required to outline full costing and requirements for digital and data programmes to secure approval. This introduces challenges in accurately estimating and incorporating all life cycle costs early in the process given the need for upfront discovery, pilots and proof of concepts more typical of digital delivery. This is particularly true for more innovative projects, such as the introduction of AI , which have lower levels of certainty and limited prior examples."
+    },
+    {
+      "block_id": "b242",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "The lack of flexibility in the funding model can lead to challenges when programmes encounter unforeseen issues. For example, the Emergency Services Mobile Communication Programme lost their key supplier mid-way through the programme. As a result the funding was lost and a new business case was required, even though the case for the programme had already been made."
+    },
+    {
+      "block_id": "b243",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "“The approach to funding does not work for digital services. It makes decisions too strongly too early and does not promote the iterative funding required for modern services.” Senior leader, large central government department."
+    },
+    {
+      "block_id": "b244",
+      "structural_position": "body",
+      "heading_path": [
+        "Investment prioritisation and controls",
+        "Existing governance and controls processes are not suited to digital programmes"
+      ],
+      "text": "“We need the ability to be able to fail fast, how do we agree simple variations or changes? How do we have adaptability that doesn’t cause us going back to the start?” Senior leader, public agency."
+    },
+    {
+      "block_id": "b245",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Root causes"
+    },
+    {
+      "block_id": "b246",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "This review has identified 5 fundamental root causes of the current state of digital government:"
+    },
+    {
+      "block_id": "b247",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "Leadership"
+    },
+    {
+      "block_id": "b248",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes",
+        "Leadership"
+      ],
+      "text": "There is little reward for prioritising an agenda of service digitisation, reliability, or risk mitigation. Organisational leaders are not paid, promoted, or valued for doing so. Digital does not shape and drive the organisational agenda."
+    },
+    {
+      "block_id": "b249",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "Structure"
+    },
+    {
+      "block_id": "b250",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes",
+        "Structure"
+      ],
+      "text": "Fragmentation is a feature of the system. Public sector organisations are independent bodies with limited mechanisms to contract services from each other. Most choose to build and maintain their own technology estate, inhibiting standardisation, interoperability and reuse, and constraining the ability to benefit from scale. Architectural design, product management, operations, and development are inconsistent between organisations. The public is presented with fragmented services and expected to make sense of them."
+    },
+    {
+      "block_id": "b251",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "Measurement"
+    },
+    {
+      "block_id": "b252",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes",
+        "Measurement"
+      ],
+      "text": "The public sector does not have consistent metrics of digital performance. Aggregate data about service quality, user experience, cost and risk exposure is not available without dedicated, periodic effort such as the production of this report."
+    },
+    {
+      "block_id": "b253",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "Talent"
+    },
+    {
+      "block_id": "b254",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes",
+        "Talent"
+      ],
+      "text": "Compensation and career path progression are uncompetitive with the private sector, especially for senior leaders. A lack of integrated cross-government workforce strategy limits recognition of specialist skill needs and prevents realisation of efficiencies longer term. Headcount restrictions intended to constrain spend have shifted cost and talent to third-party contractors, managed services and IT consultants, also degrading institutional knowledge."
+    },
+    {
+      "block_id": "b255",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Root causes"
+      ],
+      "text": "Funding"
+    },
+    {
+      "block_id": "b256",
+      "structural_position": "body",
+      "heading_path": [
+        "Root causes",
+        "Funding"
+      ],
+      "text": "Spend is biased towards new programmes with insufficient prioritisation of the effective operation and maintenance of existing systems, especially legacy assets. New or urgent legislation often comes without additional funding, forcing re-prioritisation of previously allocated budgets. This presents an acute challenge for digital and data projects as funding has shifted from capital purchase towards subscription-based, increasing the reliance on committed ongoing funding."
+    },
+    {
+      "block_id": "b257",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Conclusion"
+    },
+    {
+      "block_id": "b258",
+      "structural_position": "body",
+      "heading_path": [
+        "Conclusion"
+      ],
+      "text": "Digital is one of the most powerful forces for public service reform, and when it is successful, it changes lives and the public experience of government."
+    },
+    {
+      "block_id": "b259",
+      "structural_position": "body",
+      "heading_path": [
+        "Conclusion"
+      ],
+      "text": "Examples abound across the sector: in central government, where GOV.UK replacing over 1,800 separate websites; in local government, with Hillingdon Council harnessed AI to provide residents with 24/7 contact while saving £5 for every £1 spent; and in health, where Cambridge NHS Trust introduced ‘virtual wards’ to treat patients in their homes, and save over 1,000 bed days of hospital capacity each month."
+    },
+    {
+      "block_id": "b260",
+      "structural_position": "body",
+      "heading_path": [
+        "Conclusion"
+      ],
+      "text": "Those surveyed for this report shared the sense of mission they felt from working on critical issues that make a difference. The commitment and tenacity of the public sector digital workforce, with the support of the contractors, consultants, and managed services providers that carry a lot of the load, is tangible."
+    },
+    {
+      "block_id": "b261",
+      "structural_position": "body",
+      "heading_path": [
+        "Conclusion"
+      ],
+      "text": "However, our approaches to leadership, structure, measurement, talent and funding do not yet do justice to this potential: it is time to transform and reform the way we do digital."
+    },
+    {
+      "block_id": "b262",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Annex 1"
+    },
+    {
+      "block_id": "b263",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "Annex 1"
+      ],
+      "text": "Public sector organisations which engaged with our call for input"
+    },
+    {
+      "block_id": "b264",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "BCG (2024), Digital Government Citizen Survey ↩"
+    },
+    {
+      "block_id": "b265",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "House of Lords Library (2024), Public service productivity in focus . ↩"
+    },
+    {
+      "block_id": "b266",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Public sector digital and data spend as % RDEL is 5.9% vs. avg. 8% technology spend as a % OPEX for peer set based on composite Gartner benchmark, weighted by spend (3rd party tech spend based on Tussell data for 1k+ orgs and Gartner spend buckets ranging from £250 million to £10 billion+) and org type (Central Gov – national/international govt benchmark, Local gov and education - state gov. benchmark, NHS – private and public healthcare providers benchmark); Public sector digital and data spend as % TOTEX similarly 28% lower than composite Gartner benchmark. ↩"
+    },
+    {
+      "block_id": "b267",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Deloitte (2024), ‘Beyond products: Paving the way to Everything-as-a-Service McKinsey (2017), ‘Subscription myth busters: What it takes to shift to a recurring-revenue model for hardware and software’ ↩"
+    },
+    {
+      "block_id": "b268",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Spending Review 2021 ↩"
+    },
+    {
+      "block_id": "b269",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Gartner (2023), IT key metrics data, National & International Government ↩"
+    },
+    {
+      "block_id": "b270",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Hays (2024), UK Salary & Recruiting Trends 2024 ↩"
+    },
+    {
+      "block_id": "b271",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "OECD (2023) Digital Government Index ↩"
+    },
+    {
+      "block_id": "b272",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "UN E-Government Development Index, 2016 (accessed November 2024 ↩"
+    },
+    {
+      "block_id": "b273",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Compound annual growth rate for 2019-23 based on Tussell and CDDO workforce spend data; nominal figure not adjusted for inflation. ↩"
+    },
+    {
+      "block_id": "b274",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Excludes the NHS, police and local government ↩"
+    },
+    {
+      "block_id": "b275",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Assessment referred to is the IPA’s confidence assessment in the GMPP Annual Report from March 2023; major tech programmes referred to are GMPP programmes deemed to have at least a significant digital and/or technology component ↩"
+    },
+    {
+      "block_id": "b276",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GOV.UK Performance data, March 2021 (archived, accessed November 2024) (1.03 billion transactions converted to daily figure) ↩"
+    },
+    {
+      "block_id": "b277",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "NHS in numbers, 2023 (accessed November 2024) ↩"
+    },
+    {
+      "block_id": "b278",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "UK Finance, Payments Market Report 2022 ↩"
+    },
+    {
+      "block_id": "b279",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Central government: 53% of around 780 services hosted on GOV.UK services page, have a digital pathway, excluding pages classified as ‘read-only’ by LLM analysis; NHS: 45% of secondary care providers have a digital patient portal ↩"
+    },
+    {
+      "block_id": "b280",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "BCG Digital Government Citizen Survey, 2014 to 2024 ↩"
+    },
+    {
+      "block_id": "b281",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GOV.UK: a journey in scaling agile. Government Digital Service blog. (via Platformland book by Richard Pope) (accessed November 2024) ↩"
+    },
+    {
+      "block_id": "b282",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Local.GOV.UK, Preventing falls in the community with the Safe Steps mobile app (accessed November 2024) ↩"
+    },
+    {
+      "block_id": "b283",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Slough’s Digital Urban Forest, Slough Borough Council (accessed November 2024) ↩"
+    },
+    {
+      "block_id": "b284",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Representative benchmark constructed from Gartner IT key metrics data for national/international government, local government and healthcare providers ↩"
+    },
+    {
+      "block_id": "b285",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "HMT supplementary estimates 2023/24 (accessed November 2024) ↩"
+    },
+    {
+      "block_id": "b286",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Public sector digital and data spend as % RDEL is 5.9% vs. average 8% technology spend as a % OPEX for peer set based on composite Gartner benchmark, weighted by spend ((third party tech spend based on Tussell data for 1,000+ orgs and Gartner spend buckets ranging from £250 million to £10 billion+) and org type (central government – national/international government benchmark, local government and education – state government benchmark, NHS – private and public healthcare providers benchmark); public sector digital and data spend as % TOTEX similarly 28% lower than composite Gartner benchmark. ↩"
+    },
+    {
+      "block_id": "b287",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "State and local government refers to local authorities, police, education and other spend outside of central government and NHS ↩"
+    },
+    {
+      "block_id": "b288",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Refers to spend categorised as ‘run’ or ‘tech debt’](vs. change, grow, or innovate) ↩"
+    },
+    {
+      "block_id": "b289",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "NHS computer issues linked to patient harm ↩"
+    },
+    {
+      "block_id": "b290",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Half a million left without Child Benefit payment ↩"
+    },
+    {
+      "block_id": "b291",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "E-gates back online after chaos at Heathrow and other UK airports ↩"
+    },
+    {
+      "block_id": "b292",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Public Emergency Call Service disruption, Sunday 25 June 2023: post-incident review ↩"
+    },
+    {
+      "block_id": "b293",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "HMRC missed 100,000 phone calls from taxpayers during IT outage ↩"
+    },
+    {
+      "block_id": "b294",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "National Cyber Security Centre – Heightened cyber threat ↩"
+    },
+    {
+      "block_id": "b295",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "2023 Bain research (‘Harnessing the Value of Cloud’) ↩"
+    },
+    {
+      "block_id": "b296",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GMPP Government Major Projects Portfolio Annual Report Data March 2023 ↩"
+    },
+    {
+      "block_id": "b297",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GMPP Government Major Projects Portfolio Annual Report Data March 2023; programmes primarily focused on digital and data defined based on mapping exercise (includes programmes with at least a significant digital / technology component) ↩"
+    },
+    {
+      "block_id": "b298",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GMPP Government Major Projects Portfolio Annual Report Data March 2023; level of delivery risk based on the IPA’s confidence assessment (‘Green’ – successful delivery highly likely, ‘Red’ – successful delivery unlikely) ↩"
+    },
+    {
+      "block_id": "b299",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "UK Authority (2019) APIs for the public good ↩"
+    },
+    {
+      "block_id": "b300",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "PwC and Hillingdon leading the way on AI for residents, The MJ (accessed November 2024 ↩"
+    },
+    {
+      "block_id": "b301",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Policing Productivity Review, October 2023 ↩"
+    },
+    {
+      "block_id": "b302",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "GOV.UK departmental governance webpages, accessed November 2024 ↩"
+    },
+    {
+      "block_id": "b303",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Utilities, Telecommunications, and Financial Services, respectively ↩"
+    },
+    {
+      "block_id": "b304",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Gartner, IT key metrics data report, 2023; Excludes MSPs, contractors, consultants and any other non-permanent staff headcount. DFE core department includes Education and Skills Funding Agency, Standards and Testing Agency, Teaching Regulation Agency; FCDO Core Department includes RSO; HMRC includes VOA; DBT includes ex-DIT and ex- BEIS headcount; IPA, ICS , SLC, IPO, UKRI, DE&S, Ofqual, ONS overall headcount estimated from online research – ONS headcount from 2022. Homes England data excluded; employees only.Ofqual, ONS overall headcount estimated from online research – ONS headcount from 2022. Homes England data excluded; employees only ↩"
+    },
+    {
+      "block_id": "b305",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "HEO : Higher Executive Officer; SEO : Senior Executive Officer; G7/G6: Grade 7/Grade 6; SCS : Senior Civil Servant ↩"
+    },
+    {
+      "block_id": "b306",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Glassdoor analysis, October 2023 ↩"
+    },
+    {
+      "block_id": "b307",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Hays UK Salary and Recruiting Trends 2024; Data averaged across UK regions. ↩"
+    },
+    {
+      "block_id": "b308",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Tussell third party invoicing data for 2023 calendar year ↩"
+    },
+    {
+      "block_id": "b309",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "NHS spend elevated in 2023 due to investment for EPR (electronic patient record) systems ↩"
+    },
+    {
+      "block_id": "b310",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Tussell third party invoicing data for 2023 calendar year ↩"
+    },
+    {
+      "block_id": "b311",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "CCS , October 2023 ↩"
+    },
+    {
+      "block_id": "b312",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Tussell third party contracts data, cut by supplier ↩"
+    },
+    {
+      "block_id": "b313",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Contractor spend was analysed as a percentage of total contractor and permanent staff spend combined and compared to benchmarks on this basis; contractor share of spend is around 10pp above public sector and up to around 25pp above regulated private sector peers ↩"
+    },
+    {
+      "block_id": "b314",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Gartner IT key metrics data, National and International Government, December 2023 ↩"
+    },
+    {
+      "block_id": "b315",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Deloitte ‘Beyond products: Paving the way to Everything-as-a-Service’; McKinsey ↩"
+    },
+    {
+      "block_id": "b316",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Available spending review bids data covers up to 40% of total spend ↩"
+    },
+    {
+      "block_id": "b317",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "Gartner IT key metrics data, National & International Government, December 2023 ↩"
+    },
+    {
+      "block_id": "b318",
+      "structural_position": "body",
+      "heading_path": [
+        "Annex 1",
+        "Public sector organisations which engaged with our call for input"
+      ],
+      "text": "NAO ‘Digital transformation in government: A guide for senior leaders and audit and risk committees’, February 2024 ↩"
+    }
+  ]
+}

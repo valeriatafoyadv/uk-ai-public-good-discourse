@@ -1,0 +1,12 @@
+{
+  "doc_id": "2025-09-16_PRCO_OpenAI_StargateUK",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://openai.com/index/introducing-stargate-uk/",
+  "source": "direct",
+  "sha256": "7ac2a739ca52b56e39d064caede8bfe52b9c5abb90f2c6209ab7e2defa1add04",
+  "bytes": 357742,
+  "n_blocks": 10,
+  "error": null
+}

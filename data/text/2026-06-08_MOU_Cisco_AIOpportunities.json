@@ -1,0 +1,20 @@
+{
+  "source_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-cisco-on-ai-opportunities",
+  "fetched_at": "2026-09-09T20:08:11.653080+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Memorandum of Understanding between the UK and Cisco on AI opportunities."
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This Memorandum of Understanding ( MoU ) sets an agreement between the UK government and Cisco which commits to expand AI training programmes, including in Barnsley which is home to the UK’s first Tech Town, helping more people build the skills they need for future jobs."
+    }
+  ],
+  "doc_id": "2026-06-08_MOU_Cisco_AIOpportunities"
+}

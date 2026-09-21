@@ -1,0 +1,346 @@
+{
+  "2024-01-18_STRAT_CDDO_GenerativeAIFramework": {
+    "url": "https://assets.publishing.service.gov.uk/media/65c3b5d628a4a00012d2ba5c/6.8558_CO_Generative_AI_Framework_Report_v7_WEB.pdf",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260817183426/https://assets.publishing.service.gov.uk/media/65c3b5d628a4a00012d2ba5c/6.8558_CO_Generative_AI_Framework_Report_v7_WEB.pdf",
+      "timestamp": "20260817183426"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2024-02-06_REG_DSIT_ProInnovationAIRegulation": {
+    "url": "https://assets.publishing.service.gov.uk/media/65c1e399c43191000d1a45f4/a-pro-innovation-approach-to-ai-regulation-amended-governement-response-web-ready.pdf",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260803132957/https://assets.publishing.service.gov.uk/media/65c1e399c43191000d1a45f4/a-pro-innovation-approach-to-ai-regulation-amended-governement-response-web-ready.pdf",
+      "timestamp": "20260803132957"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse": {
+    "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response/ai-opportunities-action-plan-government-response",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260820001407/https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response/ai-opportunities-action-plan-government-response",
+      "timestamp": "20260820001407"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn": {
+    "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260807125533/https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
+      "timestamp": "20260807125533"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI": {
+    "url": "https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260826133237/https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai",
+      "timestamp": "20260826133237"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement": {
+    "url": "https://questions-statements.parliament.uk/written-statements/detail/2025-01-21/hcws375",
+    "existing_snapshot": null,
+    "fresh_snapshot": null,
+    "status": "failed",
+    "error": "No snapshot available"
+  },
+  "2025-01-21_STRAT_GDS_StateOfDigitalGovReview": {
+    "url": "https://www.gov.uk/government/publications/state-of-digital-government-review",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260823171000/https://www.gov.uk/government/publications/state-of-digital-government-review",
+      "timestamp": "20260823171000"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-27_BLOG_GDS_SameNameNewAmbitions": {
+    "url": "https://gds.blog.gov.uk/2025/01/27/same-name-new-ambitions/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260525130939/https://gds.blog.gov.uk/2025/01/27/same-name-new-ambitions/",
+      "timestamp": "20260525130939"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment": {
+    "url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260807163805/https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html",
+      "timestamp": "20260807163805"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-02-10_BLOG_GDS_LaunchingAIPlaybook": {
+    "url": "https://gds.blog.gov.uk/2025/02/10/launching-the-artificial-intelligence-playbook-for-the-uk-government/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260322152358/https://gds.blog.gov.uk/2025/02/10/launching-the-artificial-intelligence-playbook-for-the-uk-government/",
+      "timestamp": "20260322152358"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov": {
+    "url": "https://assets.publishing.service.gov.uk/media/678f6665f4ff8740d978864c/a-blueprint-for-modern-digital-government-web-optimised.pdf",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260407115302/https://assets.publishing.service.gov.uk/media/678f6665f4ff8740d978864c/a-blueprint-for-modern-digital-government-web-optimised.pdf",
+      "timestamp": "20260407115302"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-20_BLOG_GDS_OurRoadmapLaunch": {
+    "url": "https://gds.blog.gov.uk/2026/01/20/our-roadmap-for-modern-digital-government/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260420013346/https://gds.blog.gov.uk/2026/01/20/our-roadmap-for-modern-digital-government/",
+      "timestamp": "20260420013346"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov": {
+    "url": "https://roadmap-for-modern-digital-government.campaign.gov.uk/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260819134643/https://roadmap-for-modern-digital-government.campaign.gov.uk/",
+      "timestamp": "20260819134643"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement": {
+    "url": "https://commonsbusiness.parliament.uk/Document/101491/Pdf",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260120222027/https://commonsbusiness.parliament.uk/Document/101491/Pdf",
+      "timestamp": "20260120222027"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-27_PRGOV_DSIT_TopBritishAIExpertise": {
+    "url": "https://www.gov.uk/government/news/top-british-ai-expertise-to-help-spark-renewal-of-public-services-and-bolster-national-security",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260529114032/https://www.gov.uk/government/news/top-british-ai-expertise-to-help-spark-renewal-of-public-services-and-bolster-national-security",
+      "timestamp": "20260529114032"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-08-18_BLOG_GDS_AIExemplarsProgramme": {
+    "url": "https://gds.blog.gov.uk/2025/08/18/the-prime-ministers-ai-exemplars-programme-a-portfolio-approach-to-public-sector-innovation/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260611144057/https://gds.blog.gov.uk/2025/08/18/the-prime-ministers-ai-exemplars-programme-a-portfolio-approach-to-public-sector-innovation/",
+      "timestamp": "20260611144057"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-02-14_MOU_Anthropic_AIOpportunities": {
+    "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-anthropic-on-ai-opportunities/memorandum-of-understanding-between-uk-and-anthropic-on-ai-opportunities",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821182832/https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-anthropic-on-ai-opportunities/memorandum-of-understanding-between-uk-and-anthropic-on-ai-opportunities",
+      "timestamp": "20260821182832"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-02-14_PRCO_Anthropic_SignsMOUUKGov": {
+    "url": "https://www.anthropic.com/news/mou-uk-government",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260815200705/https://www.anthropic.com/news/mou-uk-government",
+      "timestamp": "20260815200705"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-01-27_PRCO_Anthropic_GOVUKPartnership": {
+    "url": "https://www.anthropic.com/news/gov-UK-partnership",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260815200705/https://www.anthropic.com/news/gov-UK-partnership",
+      "timestamp": "20260815200705"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-06-16_MOU_Cohere_AIOpportunities": {
+    "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-cohere-on-ai-opportunities/memorandum-of-understanding-between-uk-and-cohere-on-ai-opportunities",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821182834/https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-cohere-on-ai-opportunities/memorandum-of-understanding-between-uk-and-cohere-on-ai-opportunities",
+      "timestamp": "20260821182834"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-06-15_PRCO_Cohere_CanadaUKPartnerships": {
+    "url": "https://cohere.com/blog/canada-uk-government-partnerships",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260513191105/https://cohere.com/blog/canada-uk-government-partnerships",
+      "timestamp": "20260513191105"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-07-21_MOU_OpenAI_AIOpportunities": {
+    "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260629093556/https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+      "timestamp": "20260629093556"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice": {
+    "url": "https://www.gov.uk/government/news/openai-to-expand-uk-office-and-work-with-government-departments-to-turbocharge-the-uks-ai-infrastructure-and-transform-public-services",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260720020547/https://www.gov.uk/government/news/openai-to-expand-uk-office-and-work-with-government-departments-to-turbocharge-the-uks-ai-infrastructure-and-transform-public-services",
+      "timestamp": "20260720020547"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-07-21_PRCO_OpenAI_StrategicPartnership": {
+    "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260608185614/https://openai.com/global-affairs/openai-and-uk-government-partnership/",
+      "timestamp": "20260608185614"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI": {
+    "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260804052311/https://openai.com/index/the-next-chapter-for-uk-sovereign-ai/",
+      "timestamp": "20260804052311"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-09-16_PRCO_OpenAI_StargateUK": {
+    "url": "https://openai.com/index/introducing-stargate-uk/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260815084942/https://openai.com/index/introducing-stargate-uk/",
+      "timestamp": "20260815084942"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity": {
+    "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260816025534/https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security/memorandum-of-understanding-between-the-uk-and-google-deepmind-on-ai-opportunities-and-security",
+      "timestamp": "20260816025534"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind": {
+    "url": "https://www.gov.uk/government/news/ai-to-accelerate-national-renewal-and-growth-as-google-deepmind-backs-uk-tech-and-science-sectors",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821182707/https://www.gov.uk/government/news/ai-to-accelerate-national-renewal-and-growth-as-google-deepmind-backs-uk-tech-and-science-sectors",
+      "timestamp": "20260821182707"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership": {
+    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821182957/https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "timestamp": "20260821182957"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-12-10_PRCO_DeepMind_StrengtheningPartnership": {
+    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260713040727/https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+      "timestamp": "20260713040727"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-06-08_MOU_ElevenLabs_AIOpportunities": {
+    "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-elevenlabs-on-ai-opportunities/memorandum-of-understanding-between-uk-and-elevenlabs-on-ai-opportunities",
+    "existing_snapshot": null,
+    "fresh_snapshot": null,
+    "status": "failed",
+    "error": "No snapshot available"
+  },
+  "2026-02-18_PRCO_ElevenLabs_UKAISIPartnership": {
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-uk-aisi",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821183006/https://elevenlabs.io/blog/elevenlabs-partners-with-uk-aisi",
+      "timestamp": "20260821183006"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion": {
+    "url": "https://elevenlabs.io/blog/uk-mou-and-expansion",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260829024011/https://elevenlabs.io/blog/uk-mou-and-expansion",
+      "timestamp": "20260829024011"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-02-14_PRGOV_DSIT_TacklingAISecurityRisks": {
+    "url": "https://www.gov.uk/government/news/tackling-ai-security-risks-to-unleash-growth-and-deliver-plan-for-change",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260821182752/https://www.gov.uk/government/news/tackling-ai-security-risks-to-unleash-growth-and-deliver-plan-for-change",
+      "timestamp": "20260821182752"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  },
+  "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan": {
+    "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan",
+    "existing_snapshot": {
+      "url": "https://web.archive.org/web/20260819220405/https://www.gov.uk/government/publications/ai-opportunities-action-plan",
+      "timestamp": "20260819220405"
+    },
+    "fresh_snapshot": null,
+    "status": "partial",
+    "error": "Only existing snapshot available"
+  }
+}

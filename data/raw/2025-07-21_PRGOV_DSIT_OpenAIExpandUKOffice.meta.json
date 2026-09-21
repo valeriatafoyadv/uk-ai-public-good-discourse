@@ -1,0 +1,11 @@
+{
+  "doc_id": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://www.gov.uk/government/news/openai-to-expand-uk-office-and-work-with-government-departments-to-turbocharge-the-uks-ai-infrastructure-and-transform-public-services",
+  "sha256": "5912377fff816e6208d32da7c8804a221199bed7d39928c7f8abd7383aaec360",
+  "bytes": 86078,
+  "n_blocks": 26,
+  "error": null
+}

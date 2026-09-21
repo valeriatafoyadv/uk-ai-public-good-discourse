@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Decision</title>
+<style>
+:root{
+  --canvas:#ffffff; --band:#f7f7f7; --ink:#0a0b0d; --body:#5b616e; --muted:#7c828a;
+  --hairline:#dee1e6; --card-fill:#eef0f3; --accent:#0052ff; --accent-active:#003ecc;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--canvas);color:var(--ink);
+  font:16px/1.7 -apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.topbar{background:var(--band);border-bottom:1px solid var(--hairline);padding:12px 24px}
+.topbar a{color:var(--accent);text-decoration:none;font-size:13px;font-weight:500}
+.topbar a:hover{color:var(--accent-active)}
+.wrap{max-width:840px;margin:0 auto;padding:40px 24px 100px}
+h1{font-size:28px;font-weight:600;margin:0 0 8px;line-height:1.3}
+h2{font-size:21px;font-weight:600;margin:36px 0 12px;padding-top:8px;border-top:1px solid var(--hairline)}
+h1+h2, h1+p+h2{border-top:none;padding-top:0}
+h3{font-size:17px;font-weight:600;margin:24px 0 8px}
+h4{font-size:14px;font-weight:600;margin:18px 0 6px;color:var(--body)}
+p,li{color:var(--ink)}
+p{margin:0 0 14px}
+ul,ol{margin:0 0 14px;padding-left:24px}
+li{margin-bottom:4px}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+code{background:var(--card-fill);padding:2px 6px;border-radius:4px;font-size:0.9em;
+  font-family:ui-monospace,Menlo,Consolas,monospace}
+pre{background:var(--card-fill);padding:14px 16px;border-radius:8px;overflow-x:auto;
+  font-size:13px;line-height:1.5;margin:0 0 16px}
+pre code{background:none;padding:0}
+blockquote{border-left:3px solid var(--accent);margin:0 0 16px;padding:2px 0 2px 16px;
+  color:var(--body)}
+hr{border:none;border-top:1px solid var(--hairline);margin:28px 0}
+table{border-collapse:collapse;width:100%;margin:0 0 20px;font-size:14px}
+.table-wrap{overflow-x:auto;margin:0 0 20px}
+.table-wrap table{margin:0}
+th,td{border:1px solid var(--hairline);padding:8px 12px;text-align:left;vertical-align:top}
+th{background:var(--band);font-weight:600;font-size:13px}
+tr:nth-child(even) td{background:var(--band)}
+.note{background:var(--card-fill);border-radius:8px;padding:10px 14px;font-size:13px;
+  color:var(--body);margin-bottom:28px}
+</style>
+</head>
+<body>
+<div class="topbar"><a href="../../index.html">&larr; Project hub</a></div>
+<div class="wrap">
+<div class="note">Rendered from <code>coding/model_eval/decision.md</code> for readability &mdash; this page is
+generated, not authored; edit the source file.</div>
+<h1 id="phase-3-model-evaluation-ollama-cloud">Phase 3 -- Model evaluation (Ollama Cloud)</h1>
+<p>Run date: 2026-08-29</p>
+<h2 id="candidates-tested">Candidates tested</h2>
+<p>The 4 model names suggested in the original plan (<code>deepseek-v3.1:671b-cloud</code>, <code>kimi-k2:1t-cloud</code>, <code>qwen3-coder:480b-cloud</code>, <code>glm-4.6:cloud</code>) no longer exist in the Ollama Cloud catalogue current as of the run date (2026-08-29) -- <code>ollama pull</code> returned <code>pull model manifest: file does not exist</code> for all 4. The current catalogue was resolved against <code>ollama.com/search?c=cloud</code> and each placeholder was substituted with the current generation of the same provider/family:</p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Original placeholder</th>
+<th>Current substitute tested</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>glm-4.6:cloud</code></td>
+<td><code>glm-5.3:cloud</code></td>
+</tr>
+<tr>
+<td><code>kimi-k2:1t-cloud</code></td>
+<td><code>kimi-k3:cloud</code></td>
+</tr>
+<tr>
+<td><code>deepseek-v3.1:671b-cloud</code></td>
+<td><code>deepseek-v4-flash:cloud</code></td>
+</tr>
+<tr>
+<td><code>qwen3-coder:480b-cloud</code></td>
+<td>not available (<code>qwen3.5:*-cloud</code> pull failed; omitted)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><code>gpt-oss:120b-cloud</code> (already-tested baseline) is retained as a candidate.
+All 4 evaluated candidates were verified with a short <code>/api/generate</code> call before the full run.</p>
+<p><strong>Parsing note.</strong> Several models (notably <code>kimi-k3:cloud</code> and <code>glm-5.3:cloud</code>) wrap their JSON output in <code>```json ... ```</code> markdown fences even though the call requests <code>format: "json"</code>. The metrics below use a parser that strips such fences (and falls back to extracting the outermost <code>{...}</code> span) before validating JSON -- this materially changes the ranking versus a naive <code>json.loads</code>, since it recovers responses that were otherwise well-formed. <code>scripts/05_code.py</code> uses the same tolerant parser for Round 1 coding.</p>
+<h2 id="metrics-per-model-6-units-x-11-questions-66-callsmodel">Metrics per model (6 units x 11 questions = 66 calls/model)</h2>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>% valid JSON</th>
+<th>% verbatim fidelity (quotes OK / total quotes)</th>
+<th>applies=true</th>
+<th>applies=false</th>
+<th>errors</th>
+<th>mean time (s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>gpt-oss:120b-cloud</td>
+<td>98.5%</td>
+<td>82.8% (130/157)</td>
+<td>54</td>
+<td>11</td>
+<td>1</td>
+<td>8.5</td>
+</tr>
+<tr>
+<td>glm-5.3:cloud</td>
+<td>86.4%</td>
+<td>91.3% (355/389)</td>
+<td>51</td>
+<td>6</td>
+<td>9</td>
+<td>55.4</td>
+</tr>
+<tr>
+<td>kimi-k3:cloud</td>
+<td>100.0%</td>
+<td>97.6% (371/380)</td>
+<td>58</td>
+<td>8</td>
+<td>0</td>
+<td>35.8</td>
+</tr>
+<tr>
+<td>deepseek-v4-flash:cloud</td>
+<td>100.0%</td>
+<td>87.2% (156/179)</td>
+<td>44</td>
+<td>22</td>
+<td>0</td>
+<td>8.6</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="reasonable-appliesfalse-on-short-passages-700-characters">Reasonable applies=false on short passages (&lt;700 characters)</h2>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>applies=false / calls on short passages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>gpt-oss:120b-cloud</td>
+<td>2/11</td>
+</tr>
+<tr>
+<td>glm-5.3:cloud</td>
+<td>1/11</td>
+</tr>
+<tr>
+<td>kimi-k3:cloud</td>
+<td>1/11</td>
+</tr>
+<tr>
+<td>deepseek-v4-flash:cloud</td>
+<td>4/11</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="decision">Decision</h2>
+<p><strong>Winning model: <code>kimi-k3:cloud</code></strong> (verbatim fidelity 97.6%, valid JSON 100.0%). Rule applied: verbatim fidelity wins (predefined decision criterion); ties are broken by % of valid JSON. The margin over the runner-up is decisive (kimi-k3:cloud at 97.6% vs. the next best at 91.3%), so the JSON-validity tiebreak is not actually needed here. Provider: Ollama Cloud. Decision date: 2026-08-29. This text can be cited almost verbatim in the methods chapter.</p>
+<p><strong>Speed caveat (operational, not part of the decision rule).</strong> <code>kimi-k3:cloud</code> is markedly slower than the alternatives (mean 35.8s/call vs. 8.5-8.6s/call for <code>gpt-oss:120b-cloud</code> and <code>deepseek-v4-flash:cloud</code>), consistent with it being a reasoning/thinking model. This does not affect the model choice (the decision rule is fidelity-first) but materially affects Round 1 runtime and is noted here for planning purposes.</p>
+<p>Scope note: agreement with the author on the sample (Phase 3, item 4 of the PLAN) is still pending -- this report only covers the automatic metrics (valid JSON, verbatim fidelity, reasonable applies=false). Human adjudication happens in the 15-20% validation of Phase 4.</p>
+<h2 id="operational-addendum-2026-08-30">Operational addendum (2026-08-30)</h2>
+<p>Round 1 execution was completed with <strong>two models for cost reasons, with full
+per-record traceability</strong>: <code>kimi-k3:cloud</code> (the Phase 3 winner) coded the first
+182 unit x question pairs (99.8% verbatim fidelity on its records) until the
+free-tier session quota and a USD 5 extra-usage credit were exhausted — its
+reasoning ("thinking") output made per-call cost several times the original
+estimate. The remaining pairs were coded with <code>deepseek-v4-flash:cloud</code>
+(runner-up on JSON validity at 100%, verbatim fidelity 87.2% in Phase 3;
+~4x cheaper and faster), chosen to stay within the account's weekly usage cap.
+Every Round 1 record carries its <code>model</code> field, failed verbatim quotes are
+flagged (<code>quote_verified=false</code>) rather than silently kept, and the author's
+15-20% validation sample stratifies across both models. The winning-model
+decision above stands as the fidelity-first result; this addendum records the
+operational deviation and its safeguards.</p>
+</div>
+</body>
+</html>

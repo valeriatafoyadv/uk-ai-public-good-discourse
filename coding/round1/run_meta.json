@@ -1,0 +1,232 @@
+{
+  "runs": [
+    {
+      "run_id": "6c67d943-17cb-4e09-b91e-150fe1c149de",
+      "timestamp": "2026-08-29T16:56:06.701921+00:00",
+      "model": "kimi-k3:cloud",
+      "prompt_version": 1,
+      "doc_filter": null,
+      "questions": [
+        "BENEFICIARY",
+        "MECHANISM",
+        "SAFEGUARD",
+        "RESPONSIBILITY",
+        "PROJECTED_FUTURE",
+        "ACTANTS",
+        "NATURALISED_ORDER",
+        "AGENCY",
+        "MODALITY",
+        "METAPHOR",
+        "DEFINITIONAL"
+      ],
+      "n_units": 53,
+      "n_unit_question_calls": 583,
+      "n_records": 750,
+      "n_doc_profiles": 35,
+      "n_records_with_error": 552,
+      "pct_calls_succeeded": 26.4,
+      "n_docs_with_at_least_one_success": 2,
+      "n_docs_total": 35,
+      "docs_with_at_least_one_success": [
+        "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+        "2024-02-06_REG_DSIT_ProInnovationAIRegulation"
+      ],
+      "top_errors": [
+        [
+          "429 Client Error: Too Many Requests for url: http://localhost:11434/api/generate",
+          552
+        ]
+      ],
+      "pct_quote_verified_of_successful_calls": 100.0,
+      "status": "INCOMPLETE -- run interrupted mid-way by an Ollama Cloud account-level 'session usage limit' (HTTP 429, confirmed via direct API test: \"you (account) have reached your session usage limit\"). This is a rolling 5-hour quota shared across all cloud models on the free tier, not a bug in this script. Doc profiles (35/35) completed before the quota was hit and are complete/reliable. Unit-level coding only reached 2 of 35 documents before the quota exhausted; the remaining calls in this run recorded the 429 error verbatim (see 'error' field) rather than being silently dropped. Re-run scripts/05_code.py (no changes needed) once the quota resets to complete the corpus -- it is safe to re-run in full, or per-document via --doc for just the missing docs."
+    },
+    {
+      "run_id": "9f729a4f-babd-452b-9f77-0c958b6083c8",
+      "timestamp": "2026-08-29T20:31:19.173523+00:00",
+      "model": "kimi-k3:cloud",
+      "prompt_version": 1,
+      "doc_filter": null,
+      "questions": [
+        "BENEFICIARY",
+        "MECHANISM",
+        "SAFEGUARD",
+        "RESPONSIBILITY",
+        "PROJECTED_FUTURE",
+        "ACTANTS",
+        "NATURALISED_ORDER",
+        "AGENCY",
+        "MODALITY",
+        "METAPHOR",
+        "DEFINITIONAL"
+      ],
+      "n_units": 53,
+      "n_unit_question_calls": 552,
+      "n_records": 1030,
+      "n_records_with_error": 502,
+      "pct_calls_succeeded": 51.262135922330096,
+      "n_docs_with_at_least_one_success": 4,
+      "n_docs_total": 35,
+      "top_errors": [
+        [
+          "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)",
+          3
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 42f65265-27ad-49a3-bc3a-ca3374dc90f9)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: f0b19a39-4197-4a81-9f55-fc52042eab1c)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: f2c46b32-59d0-4bc8-9dbf-387a13f179f6)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 19afa942-5a00-4922-8885-8b7b6d6c554a)\"}",
+          1
+        ]
+      ],
+      "n_doc_profiles": 0,
+      "pct_quote_verified_of_successful_calls": 100.0
+    },
+    {
+      "run_id": "f5200b28-2eba-4543-8260-ed96d950b40a",
+      "timestamp": "2026-08-30T01:27:39.882330+00:00",
+      "model": "kimi-k3:cloud",
+      "prompt_version": 1,
+      "doc_filter": null,
+      "questions": [
+        "BENEFICIARY",
+        "MECHANISM",
+        "SAFEGUARD",
+        "RESPONSIBILITY",
+        "PROJECTED_FUTURE",
+        "ACTANTS",
+        "NATURALISED_ORDER",
+        "AGENCY",
+        "MODALITY",
+        "METAPHOR",
+        "DEFINITIONAL"
+      ],
+      "n_units": 53,
+      "n_unit_question_calls": 502,
+      "n_records": 1267,
+      "n_records_with_error": 472,
+      "pct_calls_succeeded": 62.7466456195738,
+      "n_docs_with_at_least_one_success": 6,
+      "n_docs_total": 35,
+      "top_errors": [
+        [
+          "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)",
+          4
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 3e9d4a29-178d-43cc-a863-ede4926d1f78)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 9b1c1d76-e40b-4a45-bf08-db48b7dc03aa)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: d0c8260d-7c15-4165-be9c-c956f16cb4ef)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 4466210d-8e6c-494a-8014-2f564dd386f2)\"}",
+          1
+        ]
+      ],
+      "n_doc_profiles": 0,
+      "pct_quote_verified_of_successful_calls": 99.74424552429667
+    },
+    {
+      "run_id": "62c393ac-e05a-48c0-a8fb-f1457f445e2a",
+      "timestamp": "2026-08-30T06:47:55.458453+00:00",
+      "model": "kimi-k3:cloud",
+      "prompt_version": 1,
+      "doc_filter": null,
+      "questions": [
+        "BENEFICIARY",
+        "MECHANISM",
+        "SAFEGUARD",
+        "RESPONSIBILITY",
+        "PROJECTED_FUTURE",
+        "ACTANTS",
+        "NATURALISED_ORDER",
+        "AGENCY",
+        "MODALITY",
+        "METAPHOR",
+        "DEFINITIONAL"
+      ],
+      "n_units": 53,
+      "n_unit_question_calls": 472,
+      "n_records": 1363,
+      "n_records_with_error": 446,
+      "pct_calls_succeeded": 67.27806309611152,
+      "n_docs_with_at_least_one_success": 7,
+      "n_docs_total": 35,
+      "top_errors": [
+        [
+          "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)",
+          6
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 7f6925d9-5d11-427d-a22e-d429ac28a20c)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 569a94ec-1905-4768-821f-aa79c1fa08c4)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: 0c0844f3-a2af-470b-a2b6-94cf81f7ab30)\"}",
+          1
+        ],
+        [
+          "429 {\"StatusCode\":429,\"Status\":\"429 Too Many Requests\",\"error\":\"you (account) have reached your session usage limit, upgrade for higher limits: https://ollama.com/upgrade or add extra usage: https://ollama.com/settings (ref: e4614b37-c67c-4e85-95e1-20e4e1054ae1)\"}",
+          1
+        ]
+      ],
+      "n_doc_profiles": 0,
+      "pct_quote_verified_of_successful_calls": 99.77753058954394
+    },
+    {
+      "run_id": "19bb4d20-aea4-4b9f-911c-af8b41e8a793",
+      "timestamp": "2026-08-30T10:48:33.724774+00:00",
+      "model": "deepseek-v4-flash:cloud",
+      "prompt_version": 1,
+      "doc_filter": null,
+      "questions": [
+        "BENEFICIARY",
+        "MECHANISM",
+        "SAFEGUARD",
+        "RESPONSIBILITY",
+        "PROJECTED_FUTURE",
+        "ACTANTS",
+        "NATURALISED_ORDER",
+        "AGENCY",
+        "MODALITY",
+        "METAPHOR",
+        "DEFINITIONAL"
+      ],
+      "n_units": 53,
+      "n_unit_question_calls": 401,
+      "n_records": 2547,
+      "n_records_with_error": 2,
+      "pct_calls_succeeded": 99.92147624656458,
+      "n_docs_with_at_least_one_success": 35,
+      "n_docs_total": 35,
+      "top_errors": [
+        [
+          "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)",
+          2
+        ]
+      ],
+      "n_doc_profiles": 0,
+      "pct_quote_verified_of_successful_calls": 98.78610297195479
+    }
+  ]
+}

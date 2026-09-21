@@ -1,0 +1,636 @@
+{
+  "source_url": "https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills",
+  "fetched_at": "2026-09-09T20:08:09.490357+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "More than £200 million in government support to help companies in Britain adopt AI – paving the way for the UK to become fastest AI adopting country in the G7"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Businesses such as Cisco and IBM aim to facilitate AI training, support job creation and provide resources to assist SMEs to explore the technology as part of a nationwide push to boost uptake"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Nobel Prize-winning economist Simon Johnson to lead institute tracking how AI is changing jobs and growth, with businesses sharing data and insights to help shape future policy"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Thousands of workers and businesses across the UK are set to benefit from a major new push to put AI to work - backing companies to adopt the technology while equipping people with the skills to use it."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "At the first-ever AI Adoption Summit (Monday 8 June), government is bringing together major tech companies, trade unions and industry leaders to drive the adoption of AI in ways that boost growth while creating new opportunities for workers and supporting them with new skills. Alongside this, more than £200 million of government investment - backed by partnerships with industry and trade unions - will help turn that approach into action, supporting skills, opening up routes into AI careers for young people, and helping businesses put AI into practice."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Many businesses and individuals want to use AI but don’t yet have the tools, support or confidence to do so – holding back productivity and growth. Today the government is unveiling a first-of-its-kind partnership on AI adoption - working with businesses, trade unions and workers to spread adoption across our economy, give workers they skills they need to thrive in the AI-era, while ensuring workers can have a say over how AI is implemented in their workforce."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "To help turn that ambition into action, a new package of support – backed up £200 million – will make it easier for businesses to test, adopt and scale AI. Measures announced today include:"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Expanding our ‘Bridge AI’ scheme with £100m to match British companies with British AI, along with support on skills, AI assurance and practical help so business know how to use AI to secure the strongest growth potential, boosting AI adoption in their businesses."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "A further £53 million will be ringfenced for new initiatives to boost AI adoption and innovation, including the expansion of our Tech Town programme, which Barnsley has pioneered."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This will also include a £4 million expansion to the Spärck AI Scholarships programme, to double down on our incredible talent pipeline. The expansion will sponsor up to 50 industry placements for top university scholars to get vital, hands-on experience in key UK companies. Those already signed up to provide placements include the likes of BT and Universal Music Group."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Investing £5m in each of our AI Growth Zones to support local businesses to adopt AI and upskill the local workforce"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Industry-led AI Adoption Plans written by expert AI Champions to help sectors like advanced manufacturing and financial services put AI into practice - testing what works and sharing lessons so others can follow."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "New AI Advisory Growth Labs will be set up for businesses, regulators and experts to work together to trial AI in working environments - starting with legal services - and giving firms clear, practical information on how to responsibly adopt AI while meeting regulations."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Nobel Prize-winning economist Simon Johnson will chair the AI Economics Institute , tracking how AI is changing jobs and growth."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The government has signed a joint statement with Google, Anthropic, Microsoft and OpenAI committing to close collaboration with the UK government and frontier AI labs in support of evidence-based policymaking and responsible AI development."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "More than 30 major companies, like BT, Rolls Royce, Accenture and EDF, have signed up to share data and insights on how they’re using AI in the workplace – such as how they are supporting staff and adapting the way they work. This will help shape future policy and share expertise with small businesses looking to adopt the technology."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "A new prize to recognise and promote UK organisations that help workers adapt to AI or create new job opportunities by responsibly using AI – which will also be led by Simon Johnson."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This comes as government and industry’s AI Skills Boost programme hits over 1.7 million AI skills courses completed and nine companies including Cisco, IBM and Deloitte plan to support the expansion of training to employers, contributing to job creation and helping smaller businesses adopt the technology. Trade organisations are also launching their own efforts to share what works on AI adoption, and highlight what needs fixing."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Together, these commitments form a coordinated national push to accelerate uptake across the key sectors of the economy earmarked for growth under the Industrial Strategy – giving businesses the tools and confidence to adopt AI, and ensuring people have the skills to benefit."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Technology Secretary Liz Kendall said:"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "quotation",
+      "heading_path": [],
+      "text": "AI is the defining technology of our lifetime, and it has the power to transform lives for the better – but only if everyone gets a stake in it. That is why we are bringing together businesses, trade unions and workers in a shared mission to make sure no one is left behind. By giving workers the skills they need, opening up opportunities for young people, and backing businesses of every size to adopt this technology, we can ensure AI delivers for everyone in every part of Britain."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Chancellor of the Exchequer Rachel Reeves said:"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "quotation",
+      "heading_path": [],
+      "text": "Britain’s future will be shaped by the choices we make now. Our economic plan is the right one, and AI and innovation is one of my three big choices to grow our economy. Today we are going further and faster to drive AI adoption, give workers and businesses the tools and skills they need, and harness AI to deliver secure, resilient growth across the country."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "With the public and private sector working in lockstep it will help ensure people and companies have what they need to benefit from AI. By combining investment in skills and practical support for AI adoption, the UK is creating the conditions to drive growth, better jobs and opportunity across the country."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Notes to editors"
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Pioneering firms and major organisations are already leading the way on AI adoption here in the UK, including:"
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Accenture has reached more than one million people across the UK through its Regenerative AI initiative, helping individuals - particularly those from historically underserved backgrounds - access the tools they need to get online, and build their digital and AI skills"
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Multiverse opening a new tech hub in Edinburgh, and creating 200 new jobs across the UK, as they further step up their work supporting employers to adopt AI by boosting their workers’ AI skills"
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Reflection, the US-based open source AI lab founded by former Google DeepMind researchers Misha Laskin and Ioannis Antonoglou, is expanding its UK footprint with plans to hire more than 100 highly-skilled employees within the next 12 months, growing to over 1,000 roles within three years. Reflection’s decision to scale significantly in the UK reflects the country’s world-class AI research talent pool and position as a leading global destination for frontier technology investment and development."
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Perplexity is launching The Billion Pound Build , a UK edition of its Computer-native startup competition. Perplexity will award up to £1 million in Perplexity Computer credits across up to three UK winning teams, competing to build a company with a credible path to £1 billion valuation."
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Synthesia has signed a Memorandum of Understanding with DSIT , committing to support DSIT’s ambitions on upskilling the UK workforce across industry, the public sector and education in the practical use of AI."
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "ElevenLabs has signed a Memorandum of Understanding with DSIT , building on the existing research partnership with AISI, and committing to cooperate across public services, talent and upskilling opportunities."
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "SAS publishing its 2026 AI Cities index, showing how UK cities are adopting AI and where more can still be done – with Manchester topping the tables, followed by Bristol and Glasgow"
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "The CBI, together with Oliver Wyman, a Marsh Business, is leading the Accelerating AI Adoption Taskforce. It brings together senior business leaders, AI experts, academics and government to develop practical recommendations for accelerating AI adoption at scale."
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "UK trade associations convened by techUK including ABPI, ADS, Creative UK, Energy UK, ICAEW, Make UK, and TheCityUK are forming a new coalition to share best practice, highlight barriers to uptake, and drive responsible AI adoption across the economy."
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Boston Consulting Group publishing a new report showing that, done right, AI adoption could add up to £1 trillion to the UK economy over the next ten years."
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "German AI unicorn n8n will expand its investment into the UK by delivering up to 200 high-skilled jobs over the next three years, a strong endorsement of the UK’s AI talent ecosystem."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Cisco has signed a Memorandum of Understanding with DSIT , to explore ways to further support the AI Skills Boost, Barnsley Tech Town, and TechFirst programmes."
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "IBM expanding its SkillsBuild programme with new, free AI learning courses, supporting the government’s mission give 10 million UK workers key AI skills by 2030."
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "eBay is putting AI adoption at the heart of local communities this year, expanding its virtual and in-person training for business sellers to help them start, grow and innovate online. It will also pilot place-based AI training and peer-led learning to support Barnsley Tech Town."
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Deloitte and Nvidia are launching ‘Adopt 100’, a new programme designed to help businesses unlock the full potential of AI by matching Deloitte’s clients to curated AI solutions."
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "The AI Champion’s AI Adoption Plans , and the government’s response to them, can be viewed on GOV.UK."
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "The Financial Services AI Adoption Plan will be published in due course."
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "The businesses newly signed up to support the the Spärck AI Scholarships programme are BT, HSBC, LSEG, National Grid, Octopus Energy, WPP, and Universal Music Group. They join existing Anchor partners AISI, Beamery, CausaLens, Darktrace, Faculty, Flok, i.AI, PolyAI, and Quantexa"
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Together with BCS, the Chartered Institute for IT, we are also launching the AI Assurance Stakeholder Consortium . AI assurance - essentially, how we measure, evaluate and communicate the trustworthiness of AI systems - is a strong and growing market for the UK, with the potential to reach £18.8 billion Gross Value Added by 2035. The Consortium will develop guidance and best practice to support the sector’s development and help deliver AI people can trust."
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Organisations can apply to the Pro-Worker AI Exposition Prize ."
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Here is a list of organisations that signed the AI Adoption Insights agreement :"
+    },
+    {
+      "block_id": "b049",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Accenture"
+    },
+    {
+      "block_id": "b050",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Admiral"
+    },
+    {
+      "block_id": "b051",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Akamai"
+    },
+    {
+      "block_id": "b052",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Airbus Defence and Space UK"
+    },
+    {
+      "block_id": "b053",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Amazon Web Services"
+    },
+    {
+      "block_id": "b054",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Baringa"
+    },
+    {
+      "block_id": "b055",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "British Chambers of Commerce"
+    },
+    {
+      "block_id": "b056",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "BT"
+    },
+    {
+      "block_id": "b057",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Cisco"
+    },
+    {
+      "block_id": "b058",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Disguise"
+    },
+    {
+      "block_id": "b059",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "EDF"
+    },
+    {
+      "block_id": "b060",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "eBay"
+    },
+    {
+      "block_id": "b061",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Great British Railways"
+    },
+    {
+      "block_id": "b062",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "HSBC"
+    },
+    {
+      "block_id": "b063",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "LinkedIn"
+    },
+    {
+      "block_id": "b064",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Linklaters"
+    },
+    {
+      "block_id": "b065",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Matillion"
+    },
+    {
+      "block_id": "b066",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Microsoft"
+    },
+    {
+      "block_id": "b067",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Multiverse"
+    },
+    {
+      "block_id": "b068",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "National Grid"
+    },
+    {
+      "block_id": "b069",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "NatWest"
+    },
+    {
+      "block_id": "b070",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Octopus Energy"
+    },
+    {
+      "block_id": "b071",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Oracle"
+    },
+    {
+      "block_id": "b072",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Revolut"
+    },
+    {
+      "block_id": "b073",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Rolls Royce"
+    },
+    {
+      "block_id": "b074",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Sage"
+    },
+    {
+      "block_id": "b075",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Salesforce"
+    },
+    {
+      "block_id": "b076",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "SAS"
+    },
+    {
+      "block_id": "b077",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Siemens"
+    },
+    {
+      "block_id": "b078",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Sky"
+    },
+    {
+      "block_id": "b079",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Starling Bank"
+    },
+    {
+      "block_id": "b080",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Stripe"
+    },
+    {
+      "block_id": "b081",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "TechUK"
+    },
+    {
+      "block_id": "b082",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Virgin Media O2"
+    },
+    {
+      "block_id": "b083",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Vodafone"
+    },
+    {
+      "block_id": "b084",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "WPP"
+    },
+    {
+      "block_id": "b085",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Xero"
+    }
+  ],
+  "doc_id": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships"
+}

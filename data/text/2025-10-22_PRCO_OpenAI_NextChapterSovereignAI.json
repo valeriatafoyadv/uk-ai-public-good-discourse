@@ -1,0 +1,116 @@
+{
+  "doc_id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+  "source_url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai/",
+  "fetched_at": "2026-08-29T15:24:13.323471+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "The next chapter for UK sovereign AI"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Earlier this year, we signed an MOU with the UK Government to help more British people, businesses and institutions benefit from the potential of AI technology, and to deliver on the goals of the UK AI Action Plan. Together with the Government, we want to drive AI-led growth, accelerate adoption across the private and public sector, and expand the UK’s sovereign AI capabilities so that AI is widely available and served in the UK, for the UK."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Today, building on this momentum, we’re announcing a new agreement with the UK Ministry of Justice for civil servants to use and benefit from ChatGPT, and the option of UK data residency for customers using our API Platform, ChatGPT Enterprise and ChatGPT Edu."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Many of our leading British customers will gather at the OpenAI Frontiers event in London today, where they will be joined by the Lord Chancellor and Secretary of State for Justice and Deputy Prime Minister David Lammy to discuss the UK's AI opportunities. The Deputy Prime Minister will also share details of how the Ministry of Justice is setting a new standard for public sector AI adoption."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "UK Ministry of Justice"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "UK Ministry of Justice"
+      ],
+      "text": "The new agreement with the Ministry of Justice will bring ChatGPT to civil servants and help them save time, work more efficiently, and deliver better public services. The agreement supports the department’s AI Action Plan for Justice ⁠ and will provide 2,500 employees with access to ChatGPT Enterprise. It follows a successful pilot that showed time-saving benefits across a range of routine tasks including writing support, compliance and legal work, data and research processes, and document analysis."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "UK Ministry of Justice"
+      ],
+      "text": "Elsewhere in the UK Government, OpenAI technology already powers several tools, including ‘Humphrey’—Whitehall’s AI assistant designed to ease the administrative burden on civil servants—and ‘Consult’, which supports the policymaking process by automatically sorting public consultation responses, a task that typically takes officials weeks but can now be completed in minutes, while leaving important decisions to experts."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "quotation",
+      "heading_path": [
+        "UK Ministry of Justice"
+      ],
+      "text": "Deputy Prime Minister and Lord Chancellor David Lammy said: “Our partnership with OpenAI places Britain firmly in the driving seat of the global tech revolution—leading the world in innovation and using technology to deliver fairness and opportunity for every corner of the United Kingdom.”"
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "quotation",
+      "heading_path": [
+        "UK Ministry of Justice"
+      ],
+      "text": "Sam Altman, CEO of OpenAI, said: “The number of people using our products in the UK has increased fourfold in the past year. It’s exciting to see them using AI to save time, increase productivity, and get more done. Civil servants are using ChatGPT to improve public services and established firms are reimagining operations. We’re proud to continue supporting the UK and the Government's AI plan.”"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introducing UK data residency"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Introducing UK data residency"
+      ],
+      "text": "Our MOU agreement with the Government included a focus on expanding the UK’s sovereign AI capability. We’ve already announced Stargate UK—an AI infrastructure partnership with NVIDIA and Nscale—to deliver OpenAI’s world-leading AI models on local computing power, particularly for specialist use cases where jurisdiction matters."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Introducing UK data residency"
+      ],
+      "text": "Separate from Stargate UK, we’re now also introducing UK data residency on Friday 24th October—giving British customers and developers the option to store their data in the UK to help meet local data protection preferences or requirements. The Ministry of Justice will be the first to benefit from this offer as part of the above agreement."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Introducing UK data residency"
+      ],
+      "text": "To find out more about data residency visit our help page here ⁠ ."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Introducing UK data residency"
+      ],
+      "text": "OpenAI’s technology is already essential for millions across the country. The UK is a top-five market globally for OpenAI paid subscribers and API developers, and every day people, developers, institutions, start-ups and leading British businesses—from NatWest and Virgin Atlantic to home-grown unicorn Synthesia and Oxford University—are using our tools to unlock new economic opportunities."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Introducing UK data residency"
+      ],
+      "text": "With UK data residency, new public sector partnerships, and our ongoing work through the MOU, we’re helping lay the foundation for trusted and secure AI adoption in the UK. We look forward to working with the Government to help more British people, businesses, and institutions benefit from AI."
+    }
+  ]
+}

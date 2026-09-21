@@ -1,0 +1,234 @@
+{
+  "source_url": "https://technology.blog.gov.uk/2026/07/02/connecting-government-and-academia-responsible-ai-through-cloud-technology-event/",
+  "fetched_at": "2026-09-10T15:58:01.230585+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Connecting government and academia: Responsible AI Through Cloud Technology event"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In June 2026, the Advancing Responsible AI Through Cloud Technology event in Manchester brought together colleagues from across central government, local authorities, academia, and government communities, such as Cloud Technology, FinOps and AI."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Why we brought everyone together"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we brought everyone together"
+      ],
+      "text": "Across government, conversations about AI are increasingly tied to cloud infrastructure, cost and sustainability. Many of these conversations occur within communities of practice. These include the:"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we brought everyone together"
+      ],
+      "text": "Cloud Technology community , which shares insights on how different teams use cloud technologies"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we brought everyone together"
+      ],
+      "text": "FinOps community , which aims to accelerate FinOps maturity and focuses on cost, value, and accountability"
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we brought everyone together"
+      ],
+      "text": "AI community , which brings together practitioners across government to sharing knowledge, approaches and challenges in adopting AI responsibly and effectively"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Why we brought everyone together"
+      ],
+      "text": "In practice, these areas are closely linked but they don’t always come together in the same conversations. This event created space to bring those perspectives together alongside local authorities, community networks and academic partners to reflect how this work is happening in practice."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Building collaboration across sectors"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Building collaboration across sectors"
+      ],
+      "text": "Co-organised by the Government Digital Service, part of DSIT, Manchester Metropolitan University and its policy think tank , Metropolis, this in-person event reflects two government ambitions. These are to “work closely with Britain’s world-leading academics” from the AI Opportunities Action Plan, and to “build research communities made up of truly interdisciplinary teams” from the Department of Science, Innovation and Technology (DSIT’s) AI for Science Strategy."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Building collaboration across sectors"
+      ],
+      "text": "Chaired by Prof. Keeley Crockett Manchester Metropolitan University and Dr Tommaso Spinelli (GDS), the event benefited from strong senior leadership engagement, including Phil Swan, the Director for Government Digital Enablement at GDS, Prof. Nick Brook, Pro-Vice-Chancellor for Research at Manchester Metropolitan University. Senior leaders offered both academic and government perspectives on the future of AI in the cloud and its strategic challenges from these senior leaders."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Building collaboration across sectors"
+      ],
+      "text": "We worked in collaboration with Manchester Metropolitan University to incorporate an academic perspective, connecting applied research with public sector delivery."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Building collaboration across sectors"
+      ],
+      "text": "The event was held in Manchester, which reflected the city’s growing role as a hub for digital and AI innovation with the recent approval for the Manchester Digital Campus."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Building collaboration across sectors"
+      ],
+      "text": "This was a benchmark occasion because it was the first time we’ve run an in-person event bringing these different communities together around a specific topic."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What we heard throughout the day"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "Across the day, a consistent message emerged: delivering responsible AI in government depends on closer collaboration, alongside stronger partnerships with academia and local government. Speakers consistently emphasised the need to balance innovation with accountability, so that AI systems are secure, sustainable and grounded in real-world public sector needs."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "Professor Keeley Crockett opened with a focus on responsible AI and public engagement, highlighting the importance of involving citizens and wider groups in shaping how AI is used. From a government perspective, these themes are already becoming part of day-to-day decision-making, particularly around sustainability, accountability and supplier reliance."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "The technical and research sessions then explored how cloud platforms underpin emerging technologies and shape the way AI systems are delivered, scaled and governed. Dr Tommaso Spinelli , MetroPolis Chancellor’s Visiting Fellow, set out the role of cloud as more than a hosting environment, showing how infrastructure choices influence delivery models, assurance, sustainability and long-term operational risk."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "The technical, research and applied delivery sessions explored the links between AI, cloud, security, resilience and applied research. They highlighted that responsible AI is about model development and policy frameworks, as well as the practical foundations that allow systems to operate safely and effectively in public sector environments."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "Other sessions added practical perspectives on sustainability and the operationalisation of agentic AI at cloud scale, particularly in highly regulated environments. These discussions showed how decisions about AI-as-a-service, supplier reliance, data ownership and infrastructure design can have long-term implications for cost, accountability and public trust."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "What we heard throughout the day"
+      ],
+      "text": "Panel discussions brought these strands together by focusing on accountability in multicloud and hybrid environments. Contributors explored how supplier transparency, organisational risk and data ownership influence decision-making, and why teams need clearer shared understanding between technical, commercial, governance and policy roles."
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "The value of being physically in the room"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "The value of being physically in the room"
+      ],
+      "text": "Meeting in person helped teams work through shared technical and governance problems on responsible AI delivery issues that are harder to resolve across separate online sessions."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "The value of being physically in the room"
+      ],
+      "text": "Attendees used the break to compare approaches, ask follow‑up questions, and make connections across organisations, which happens more naturally in-person than in virtual spaces."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "The value of being physically in the room"
+      ],
+      "text": "Seeing this collaboration reinforced the value of running physical events alongside our regular online sessions."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "What this means for our communities"
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "What this means for our communities"
+      ],
+      "text": "A clear overlap in the challenges people are working through emerged during the event."
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "What this means for our communities"
+      ],
+      "text": "We also noted a clear appetite for more joined-up conversations, particularly on topics like responsible AI, where technical, financial, and governance considerations are closely connected."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "What this means for our communities"
+      ],
+      "text": "Going forward, we’ll be building on this success by continuing to run sessions, sharing across sector and communities, as well as exploring where we can align future community activity."
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "body",
+      "heading_path": [
+        "What this means for our communities"
+      ],
+      "text": "Responsible AI will not be delivered by working alone. We can strengthen collaboration by bringing different disciplines into conversations earlier, sharing lessons across organisational boundaries, and continuing to build links across government, academia and local councils. If you’re interested in joining any of the communities mentioned in this blog, or exploring other cross-government communities of practice, you can find more information on the GOV.UK Service Manual."
+    }
+  ],
+  "doc_id": "2026-07-02_BLOG_TechInGov_ResponsibleAICloudEvent_"
+}

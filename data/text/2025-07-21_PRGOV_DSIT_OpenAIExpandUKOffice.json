@@ -1,0 +1,174 @@
+{
+  "doc_id": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+  "source_url": "https://www.gov.uk/government/news/openai-to-expand-uk-office-and-work-with-government-departments-to-turbocharge-the-uks-ai-infrastructure-and-transform-public-services",
+  "fetched_at": "2026-08-29T15:24:05.288865+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "OpenAI to expand UK office and work with government departments to turbocharge the UK’s AI infrastructure and transform public services"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "One of the world’s leading AI labs inks a new government partnership, revealing plans to explore investing in UK AI infrastructure and regional growth zones to revitalise communities with jobs and growth."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Initiative will also see OpenAI share more technical information with UK AI Security Institute to deepen government knowledge of AI capabilities and security risks, as well as supporting the government’s mission to use AI to transform taxpayer-funded services."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "OpenAI also confirms its intention to increase its footprint in the UK, building up its research and engineering teams to deliver on the partnership arrangement."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "OpenAI and the UK government have today signed a new strategic partnership setting out plans to expand AI security research collaborations, explore investing in UK AI infrastructure like data centres, and find new ways for taxpayer funded services like security and education to make best use of the latest tech."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "It comes as OpenAI deepens its commitment to the UK, with plans to increase the size of its London office to follow. The move will build out what started as the company’s first international location just 2 years ago, where research and engineering teams contribute to the development of frontier AI models, and support is provided to UK business, developers and start-ups."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The partnership will explore where it can deploy AI in areas such as justice, defence and security, and education technology in line with UK standards and guidelines to demonstrate the opportunity to make taxpayer funded services more efficient and effective."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Signed today by Technology Secretary Peter Kyle and OpenAI CEO Sam Altman, the ‘Memorandum of Understanding’ sets out intent to build on the UK’s strengths in science, innovation and talent to “maintain a world-leading UK AI ecosystem rooted in democratic values”."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Under the partnership, OpenAI will also explore potential routes to deliver the infrastructure priorities laid out in the AI Opportunities Action Plan , recognising the importance of UK sovereign capability in achieving the economic benefits of AI . The move could mean that world-changing AI tech is developed in the UK, driving discoveries that will deliver growth."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "It expands to share that OpenAI could look to invest in and support AI Growth Zones, first announced in the AI Opportunities Action Plan which has since been backed by £2 billion in the Spending Review ."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "With over 200 bids from across the country, AI Growth Zones are set to become hotbeds for AI infrastructure attracting billions of pounds in investment each. Today’s news follows the UK government confirming that Scotland and Wales will both host AI Growth Zones in its Compute Strategy ."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The initiative follows the UK investing up to £500 million in sovereign AI that will be spent backing national AI champions and partnering with world leading companies like OpenAI. This partnership is an important element of our mission to ensure the UK continues to participate actively in the development of frontier AI , and that UK citizens continue to benefit from the economic growth provided by cutting-edge models."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Technology Secretary Peter Kyle said:"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "quotation",
+      "heading_path": [],
+      "text": "AI will be fundamental in driving the change we need to see across the country – whether that’s in fixing the NHS, breaking down barriers to opportunity or driving economic growth. That’s why we need to make sure Britain is front and centre when it comes to developing and deploying AI , so we can make sure it works for us. This can’t be achieved without companies like OpenAI, who are driving this revolution forward internationally. This partnership will see more of their work taking place in the UK, creating high-paid tech jobs, driving investment in infrastructure, and crucially giving our country agency over how this world-changing technology moves forward."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "OpenAI CEO, Sam Altman, said:"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "quotation",
+      "heading_path": [],
+      "text": "AI is a core technology for nation building that will transform economies and deliver growth. Britain has a strong legacy of scientific leadership and its government was one of the first to recognise the potential of AI through its AI Opportunities Action Plan. Now, it’s time to deliver on the plan’s goals by turning ambition to action and delivering prosperity for all."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The AI lab could also work with government to identify how advanced AI models could help to improve the public services that millions of people use every day, and driving economic growth across the country."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "OpenAI’s large language model, ChatGPT, already underpins multiple tools in ‘Humphrey’, Whitehall’s AI assistant that aims to speed up the civil service by taking away admin burdens."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "For example, GPT 4o is used in ‘Consult’ , the bespoke tool that speeds up the policy making process by automatically sorting public responses to consultations – doing a task that takes officials weeks in minutes, while leaving important decisions to experts."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In addition to supporting infrastructure plans laid out in the AI Opportunities Action Plan, OpenAI may also explore developing state-of-the-art, AI -enabled R&D infrastructure in the UK, focused on shared areas of strategic interest with the UK government."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Notes to editors"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "The memorandum is voluntary, not legally binding, and without prejudice to any binding agreements. It does not prejudice against future procurement decisions"
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Read the MoU between the UK and OpenAI on AI opportunities"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "DSIT media enquiries"
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Email press@dsit.gov.uk"
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Notes to editors"
+      ],
+      "text": "Monday to Friday, 8:30am to 6pm 020 7215 3000"
+    }
+  ]
+}

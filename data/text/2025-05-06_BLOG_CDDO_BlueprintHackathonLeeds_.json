@@ -1,0 +1,104 @@
+{
+  "source_url": "https://cddo.blog.gov.uk/2025/05/06/blueprint-for-modern-digital-government-comes-alive-at-gds-local-government-innovation-hackathon-in-leeds/",
+  "fetched_at": "2026-09-10T15:58:08.427166+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Blueprint for Modern Digital Government Comes Alive at GDS Local Government Innovation Hackathon in Leeds"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The energy was electric last week in Leeds as we welcomed over 150 bright sparks to hack the planning system – digital dynamos, planning pioneers, and policy pros – hailing from 35 local authorities, central government, and industry! GDS and i.AI hosted this dynamic two-day Local Government Hackathon in partnership with colleagues from MHCLG Digital Planning and Open Digital Planning."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The mission? To tackle real-world planning challenges head-on, armed with cutting-edge digital tools and the power of AI: channelling the dynamic, problem-solving ethos set out in the Blueprint for a Modern Digital Government ."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "One of our core ambitions is to catalyse change and join-up across the wider public sector - and this event showed exactly how that can happen in practice."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Fifteen cross-disciplinary teams tackled planning system challenges, leveraging real data and open APIs to rapidly prototype innovative digital solutions. The winning team’s creation, Clio, transforms raw data from planning decision notices into usable insight about a site’s planning history."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "As their prize, the Clio team will present their work to the Minister for AI and Digital Government, Feryal Clark MP, and will also take part in a follow-up workshop to further develop their prototype with i.AI engineers."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The hackathon was energised by contributions from digital leaders across government. Theo Blackwell, on secondment to GDS from his role as Chief Digital Officer at the Greater London Authority, opened the event and highlighted the importance of local government collaboration in driving digital transformation."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Emily Middleton, Director General for Digital Centre Design in GDS, welcomed attendees and shared the vision for the new GDS and its role in enabling modern, user-centred public services."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Feryal Clark MP, Minister for AI and Digital Government, joined via video message, encouraging participants to be bold: “If you have an idea that will make a difference, don’t wait for permission. Test it. Take it forward.”"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Events like this powerfully demonstrate what’s possible when we unite together technological expertise, service and delivery know-how and policy in one room, working together with our local partners to innovate. This hackathon is just one example of how the government is putting the Blueprint for a Modern Digital Government into action - working with local authorities to design smarter, simpler, more joined-up public services."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "We’re proud to have hosted such exceptional practitioners at this hackathon and look forward to continuing to collaborate with local government innovators across the country to drive transformation for our citizens and those who serve them."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "The judges’ choices of prototypes"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "The judges’ choices of prototypes"
+      ],
+      "text": "Winner: Clio took the top spot, a solution deriving the insights into a site’s planning history: the innovation on display at Leeds was truly impressive across the board."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "The judges’ choices of prototypes"
+      ],
+      "text": "Runner-up: Zoe presented a compelling prototype AI solution to automate the extraction of relevant policies for planning applications."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "The judges’ choices of prototypes"
+      ],
+      "text": "Third place: Planalyse offered a smart, AI-powered idea to streamline the validation of floor plans, using computer vision to catch crucial missing details."
+    }
+  ],
+  "doc_id": "2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_"
+}

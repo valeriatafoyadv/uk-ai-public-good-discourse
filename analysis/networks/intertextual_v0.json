@@ -1,0 +1,1471 @@
+{
+ "nodes": [
+  {
+   "id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "label": "GenerativeAIFramework",
+   "date": "2024-01-18",
+   "genre": "STRAT",
+   "speaker": "CDDO",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 5
+  },
+  {
+   "id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "label": "ProInnovationAIRegulation",
+   "date": "2024-02-06",
+   "genre": "REG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 20
+  },
+  {
+   "id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+   "label": "AIActionPlanGovResponse",
+   "date": "2025-01-13",
+   "genre": "STRAT",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "variant",
+   "in_degree": 1
+  },
+  {
+   "id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+   "label": "AIActionPlanOneYearOn",
+   "date": "2026-01-29",
+   "genre": "STRAT",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI",
+   "label": "BlueprintTurbochargeAI",
+   "date": "2025-01-12",
+   "genre": "PRGOV",
+   "speaker": "PMO",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+   "label": "BlueprintMinisterialStatement",
+   "date": "2025-01-21",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "label": "StateOfDigitalGovReview",
+   "date": "2025-01-21",
+   "genre": "STRAT",
+   "speaker": "DSIT_and_GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 16
+  },
+  {
+   "id": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+   "label": "SameNameNewAmbitions",
+   "date": "2025-01-27",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "label": "AIOpportunitiesActionPlan",
+   "date": "2025-01-13",
+   "genre": "STRAT",
+   "speaker": "External_adviser",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 61
+  },
+  {
+   "id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "label": "AIPlaybookUKGovernment",
+   "date": "2025-02-10",
+   "genre": "STRAT",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 25
+  },
+  {
+   "id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+   "label": "LaunchingAIPlaybook",
+   "date": "2025-02-10",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "label": "BlueprintModernDigitalGov",
+   "date": "2025-01-21",
+   "genre": "STRAT",
+   "speaker": "DSIT_and_GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 24
+  },
+  {
+   "id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "label": "OurRoadmapLaunch",
+   "date": "2026-01-20",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+   "label": "RoadmapModernDigitalGov",
+   "date": "2026-01-20",
+   "genre": "STRAT",
+   "speaker": "DSIT_and_GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 5
+  },
+  {
+   "id": "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement",
+   "label": "RoadmapMinisterialStatement",
+   "date": "2026-01-19",
+   "genre": "WMS",
+   "speaker": "DSIT_and_GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-01-27_PRGOV_DSIT_TopBritishAIExpertise",
+   "label": "TopBritishAIExpertise",
+   "date": "2026-01-27",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+   "label": "AIExemplarsProgramme",
+   "date": "2025-08-18",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 3
+  },
+  {
+   "id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "label": "AIOpportunities",
+   "date": "2025-02-14",
+   "genre": "MOU",
+   "speaker": "DSIT_and_Anthropic",
+   "family": "Anthropic",
+   "term_status": "absent",
+   "in_degree": 3
+  },
+  {
+   "id": "2025-02-14_PRCO_Anthropic_SignsMOUUKGov",
+   "label": "SignsMOUUKGov",
+   "date": "2025-02-14",
+   "genre": "PRCO",
+   "speaker": "Anthropic",
+   "family": "Anthropic",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+   "label": "GOVUKPartnership",
+   "date": "2026-01-27",
+   "genre": "PRCO",
+   "speaker": "Anthropic",
+   "family": "Anthropic",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-06-16_MOU_Cohere_AIOpportunities",
+   "label": "AIOpportunities",
+   "date": "2025-06-16",
+   "genre": "MOU",
+   "speaker": "DSIT_and_Cohere",
+   "family": "Cohere",
+   "term_status": "absent",
+   "in_degree": 1
+  },
+  {
+   "id": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+   "label": "CanadaUKPartnerships",
+   "date": "2025-06-15",
+   "genre": "PRCO",
+   "speaker": "Cohere",
+   "family": "Cohere",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "label": "AIOpportunities",
+   "date": "2025-07-21",
+   "genre": "MOU",
+   "speaker": "DSIT_and_OpenAI",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 5
+  },
+  {
+   "id": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+   "label": "OpenAIExpandUKOffice",
+   "date": "2025-07-21",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+   "label": "StrategicPartnership",
+   "date": "2025-07-21",
+   "genre": "PRCO",
+   "speaker": "OpenAI",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+   "label": "NextChapterSovereignAI",
+   "date": "2025-10-22",
+   "genre": "PRCO",
+   "speaker": "OpenAI",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "label": "StargateUK",
+   "date": "2025-09-16",
+   "genre": "PRCO",
+   "speaker": "OpenAI",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 4
+  },
+  {
+   "id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "label": "AIOpportunitiesSecurity",
+   "date": "2025-12-11",
+   "genre": "MOU",
+   "speaker": "DSIT_and_DeepMind",
+   "family": "DeepMind",
+   "term_status": "absent",
+   "in_degree": 2
+  },
+  {
+   "id": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+   "label": "NationalRenewalDeepMind",
+   "date": "2025-12-11",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "DeepMind",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+   "label": "DeepeningAISIPartnership",
+   "date": "2025-12-11",
+   "genre": "PRCO",
+   "speaker": "DeepMind",
+   "family": "DeepMind",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+   "label": "StrengtheningPartnership",
+   "date": "2025-12-10",
+   "genre": "PRCO",
+   "speaker": "DeepMind",
+   "family": "DeepMind",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "label": "AIOpportunities",
+   "date": "2026-06-08",
+   "genre": "MOU",
+   "speaker": "DSIT_and_ElevenLabs",
+   "family": "ElevenLabs",
+   "term_status": "absent",
+   "in_degree": 3
+  },
+  {
+   "id": "2026-02-18_PRCO_ElevenLabs_UKAISIPartnership",
+   "label": "UKAISIPartnership",
+   "date": "2026-02-18",
+   "genre": "PRCO",
+   "speaker": "ElevenLabs",
+   "family": "ElevenLabs",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+   "label": "UKMOUExpansion",
+   "date": "2026-06-08",
+   "genre": "PRCO",
+   "speaker": "ElevenLabs",
+   "family": "ElevenLabs",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-02-14_PRGOV_DSIT_TacklingAISecurityRisks",
+   "label": "TacklingAISecurityRisks",
+   "date": "2025-02-14",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-01-29_WMS_DSIT_AIActionPlanOneYearOnMinisterialStatement",
+   "label": "AIActionPlanOneYearOnMinisterialStatement",
+   "date": "2026-01-29",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-06-08_MOU_Cisco_AIOpportunities",
+   "label": "AIOpportunities",
+   "date": "2026-06-08",
+   "genre": "MOU",
+   "speaker": "DSIT_and_Cisco",
+   "family": "Cisco",
+   "term_status": "absent",
+   "in_degree": 2
+  },
+  {
+   "id": "2026-06-08_PRCO_Cisco_JoinsForcesUKGov",
+   "label": "JoinsForcesUKGov",
+   "date": "2026-06-08",
+   "genre": "PRCO",
+   "speaker": "Cisco",
+   "family": "Cisco",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-06-08_MOU_Synthesia_AISkillsOpportunities",
+   "label": "AISkillsOpportunities",
+   "date": "2026-06-08",
+   "genre": "MOU",
+   "speaker": "DSIT_and_Synthesia",
+   "family": "Synthesia",
+   "term_status": "absent",
+   "in_degree": 1
+  },
+  {
+   "id": "2025-06-09_MOU_NVIDIA_AISkills",
+   "label": "AISkills",
+   "date": "2025-06-09",
+   "genre": "MOU",
+   "speaker": "DSIT_and_NVIDIA",
+   "family": "NVIDIA",
+   "term_status": "absent",
+   "in_degree": 2
+  },
+  {
+   "id": "2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity",
+   "label": "AIAdvancedConnectivity",
+   "date": "2025-06-09",
+   "genre": "MOU",
+   "speaker": "DSIT_and_NVIDIA",
+   "family": "NVIDIA",
+   "term_status": "absent",
+   "in_degree": 2
+  },
+  {
+   "id": "2025-06_PRCO_NVIDIA_UKPartnership_",
+   "label": "UKPartnership_",
+   "date": "2025-06-01",
+   "genre": "PRCO",
+   "speaker": "NVIDIA",
+   "family": "NVIDIA",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-10-23_PRGOV_MOJ_OpenAIDataHosting",
+   "label": "OpenAIDataHosting",
+   "date": "2025-10-23",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "OpenAI",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-12-18_STRAT_GDS_DataAIEthicsFramework",
+   "label": "DataAIEthicsFramework",
+   "date": "2025-12-18",
+   "genre": "STRAT",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-01-13_WMS_DSIT_AIActionPlanMinisterialStatement",
+   "label": "AIActionPlanMinisterialStatement",
+   "date": "2025-01-13",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "label": "AIAdoptionSummitPartnerships",
+   "date": "2026-06-08",
+   "genre": "PRGOV",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-06-02_WMS_DSIT_CrossGovernmentAIExperiment",
+   "label": "CrossGovernmentAIExperiment",
+   "date": "2025-06-02",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2024-07-26_WMS_DSIT_AIActionPlanCommissioning",
+   "label": "AIActionPlanCommissioning",
+   "date": "2024-07-26",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2024-02-06_WMS_DSIT_AIRegulationGovResponse",
+   "label": "AIRegulationGovResponse",
+   "date": "2024-02-06",
+   "genre": "WMS",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-02-07_BLOG_GDS_ShapingDigitalCentre_",
+   "label": "ShapingDigitalCentre_",
+   "date": "2025-02-07",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-11-07_BLOG_TechInGov_SourcingStack_",
+   "label": "SourcingStack_",
+   "date": "2025-11-07",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-04-15_BLOG_GDS_GDSLocalFoundations_",
+   "label": "GDSLocalFoundations_",
+   "date": "2026-04-15",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-01-21_BLOG_GDS_DigitalWalletReality_",
+   "label": "DigitalWalletReality_",
+   "date": "2026-01-21",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-10-03_BLOG_CDDO_AISummitResearch_",
+   "label": "AISummitResearch_",
+   "date": "2025-10-03",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-03-27_BLOG_CDDO_UserResearchAI_",
+   "label": "UserResearchAI_",
+   "date": "2025-03-27",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-03-10_BLOG_CDDO_ResponsibleAIFrameworks_",
+   "label": "ResponsibleAIFrameworks_",
+   "date": "2025-03-10",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "variant",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-07-02_BLOG_TechInGov_ResponsibleAICloudEvent_",
+   "label": "ResponsibleAICloudEvent_",
+   "date": "2026-07-02",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-07-16_BLOG_CDDO_ResponsibleAIAdvisoryPanel_",
+   "label": "ResponsibleAIAdvisoryPanel_",
+   "date": "2025-07-16",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "present",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-09-22_BLOG_CDDO_TestAssureAI_",
+   "label": "TestAssureAI_",
+   "date": "2025-09-22",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-05-27_BLOG_DataInGov_ResponsibleAIHR_",
+   "label": "ResponsibleAIHR_",
+   "date": "2025-05-27",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-12-18_BLOG_DataInGov_DataAIEthicsFramework_",
+   "label": "DataAIEthicsFramework_",
+   "date": "2025-12-18",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-02-18_BLOG_TechInGov_CloudFirst12_",
+   "label": "CloudFirst12_",
+   "date": "2025-02-18",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-11-24_BLOG_GDS_GDSLocalGoesLive_",
+   "label": "GDSLocalGoesLive_",
+   "date": "2025-11-24",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2026-05-15_BLOG_InsideGOVUK_DevelopingChat_",
+   "label": "DevelopingChat_",
+   "date": "2026-05-15",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_",
+   "label": "BlueprintHackathonLeeds_",
+   "date": "2025-05-06",
+   "genre": "BLOG",
+   "speaker": "DSIT",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  },
+  {
+   "id": "2025-03-07_BLOG_GDS_VisualisingModernDigitalGov_",
+   "label": "VisualisingModernDigitalGov_",
+   "date": "2025-03-07",
+   "genre": "BLOG",
+   "speaker": "GDS",
+   "family": "None",
+   "term_status": "absent",
+   "in_degree": 0
+  }
+ ],
+ "edges": [
+  {
+   "source": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 3,
+   "evidence": "vity, growth and innovation across the private and public sectors. the 2023 white paper a pro-innovation approach to ai regulation sets out the government’s proposals for implement"
+  },
+  {
+   "source": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 6,
+   "evidence": "st suitable and sustainable option for your organisation’s needs. you should also use the ai regulation white paper’s fairness principle, which states that ai systems should not un"
+  },
+  {
+   "source": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 2,
+   "evidence": "ai opportunities action plan: government response ai opportunities action plan: government"
+  },
+  {
+   "source": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 3,
+   "evidence": "ities action plan: one year on foreword by the prime minister a year ago, we launched the ai opportunities action plan to set a clear direction for how britain would harness artifi"
+  },
+  {
+   "source": "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI",
+   "target": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+   "type": "reference",
+   "count": 1,
+   "evidence": "reate over 1,500 operational roles at its data centres read: ai opportunities action plan government response to the ai opportunities action plan dsit media enquiries email press@d"
+  },
+  {
+   "source": "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 13,
+   "evidence": "eing to take forward all 50 recommendations set out by matt clifford in his game-changing ai opportunities action plan . ai is already being used across the uk. it is being used in"
+  },
+  {
+   "source": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 3,
+   "evidence": "the state of digital government and blueprint for modern digital government statement made by statement i am pleased to presen"
+  },
+  {
+   "source": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 2,
+   "evidence": "nt for modern digital government statement made by statement i am pleased to present the \"state of digital government review\" and “blueprint for modern digital government” to parli"
+  },
+  {
+   "source": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 1,
+   "evidence": "the state of digital government and blueprint for modern digital government statement made by"
+  },
+  {
+   "source": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 2,
+   "evidence": "the government digital service . we have published its high level plans for the future: a blueprint for modern digital government . the 'digital centre' is now the government digit"
+  },
+  {
+   "source": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 1,
+   "evidence": "es it as \"a wholesale reshaping for the public sector.\" the blueprint was informed by the state of digital government review , which highlighted some lasting, deep rooted systemic"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 5,
+   "evidence": "1, the national ai strategy set out a 10-year vision for ai, while the 2023 white paper a pro-innovation approach to ai regulation set out the government’s proposals for implementi"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 1,
+   "evidence": "s of autonomy and adaptiveness after deployment. the uk government’s paper establishing a pro-innovation approach to regulating ai suggests that these systems are ‘adaptable’ becau"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 3,
+   "evidence": "logies safely, effectively, and responsibly. in january 2025 the government published the ai opportunities action plan laying out a bold roadmap for maximising ai’s potential to dr"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 2,
+   "evidence": "urses on risks and ethics on civil service learning . transparency and explainability the ai regulation white paper establishes that ai systems should be appropriately transparent"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "type": "reference",
+   "count": 3,
+   "evidence": "vious edition: we have reviewed and updated the 10 principles and the guidance within the generative ai framework to cater for a wider range of ai technologies beyond generative ai"
+  },
+  {
+   "source": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 1,
+   "evidence": "reduce costs and enhance public service delivery across government, as highlighted in the state of digital government review 2025 . however, we must remain mindful of both the tech"
+  },
+  {
+   "source": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 1,
+   "evidence": "launching the artificial intelligence playbook for the uk government today, technology secretary peter k"
+  },
+  {
+   "source": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 6,
+   "evidence": "nd the potential ethical, legal, privacy, sustainability and security risks it poses. the ai playbook can be freely accessed by everyone on gov.uk and it is designed to support gov"
+  },
+  {
+   "source": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 4,
+   "evidence": "e the right skills and are enabled to work together across organisational boundaries. the state of digital government review published alongside this paper has identified deep syst"
+  },
+  {
+   "source": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 2,
+   "evidence": "entified in the state of digital government report. as outlined in the recently published ai opportunities action plan, ai has enormous potential to improve lives, drive growth and"
+  },
+  {
+   "source": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 3,
+   "evidence": "endorsement required to innovate and solve problems for the widest possible benefit. the state of digital government the secretary of state commissioned a comprehensive review of"
+  },
+  {
+   "source": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "tish government. it also details the foundational steps we have taken since launching the blueprint for modern digital government one year ago. in that blueprint, we made a clear d"
+  },
+  {
+   "source": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "target": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+   "type": "reference",
+   "count": 2,
+   "evidence": "our roadmap for modern digital government our roadmap for modern digital government sets out h"
+  },
+  {
+   "source": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 1,
+   "evidence": "5 billion savings and productivity improvements opportunity estimated one year ago in the state of digital government review . we’re working with departments to launch new funding"
+  },
+  {
+   "source": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "target": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ited to see continue into this new year. some of the projects within the prime minister’s ai exemplars programme show just this. the nhs is already using ai to predict demand in 50"
+  },
+  {
+   "source": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 1,
+   "evidence": "we’ll keep building out the ai knowledge hub , a living repository that now includes the ai playbook for the uk government and is designed to support public sector teams in explor"
+  },
+  {
+   "source": "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement",
+   "target": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "a roadmap for modern digital government 2025-2030 broader awareness. furthermore, we are cre"
+  },
+  {
+   "source": "2026-01-27_PRGOV_DSIT_TopBritishAIExpertise",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 2,
+   "evidence": "s digital transformation agenda. launched in january 2025, the roadmap capitalises on the ai opportunities action plan as it prepares to celebrate its first birthday, bringing the"
+  },
+  {
+   "source": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "pproach to innovation we're following the \"scan > pilot > scale\" approach outlined in the ai opportunities action plan . this plan recommended the digital centre of government shou"
+  },
+  {
+   "source": "2025-02-14_PRCO_Anthropic_SignsMOUUKGov",
+   "target": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "anthropic signs mou with uk government to explore how ai can transform uk public services artificial intel"
+  },
+  {
+   "source": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ransformative ai. “we’re excited to partner with the uk government to help deliver on the ai opportunities action plan,” commented pip white, head of uk, ireland and northern europ"
+  },
+  {
+   "source": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+   "target": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ss training, understand the support and resources available, and more. this builds on the memorandum of understanding anthropic signed in february 2025 with the uk government to ex"
+  },
+  {
+   "source": "2025-06-16_MOU_Cohere_AIOpportunities",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "will collaborate to cultivate homegrown and attract overseas ai talent as outlined in the ai opportunities action plan , ensuring the uk builds and retains the expertise needed to"
+  },
+  {
+   "source": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+   "target": "2025-06-16_MOU_Cohere_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "d industries and governments around the world. strengthening the uk's ai capabilities the memorandum of understanding (mou) with the uk’s department for science, innovation and tec"
+  },
+  {
+   "source": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 2,
+   "evidence": "eading uk ai ecosystem rooted in democratic values. following the ambition set out in the ai opportunities action plan, this partnership will support the uk’s goal to build soverei"
+  },
+  {
+   "source": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 4,
+   "evidence": "ll also explore potential routes to deliver the infrastructure priorities laid out in the ai opportunities action plan , recognising the importance of uk sovereign capability in ac"
+  },
+  {
+   "source": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ffective. signed today by technology secretary peter kyle and openai ceo sam altman, the ‘memorandum of understanding’ sets out intent to build on the uk’s strengths in science, in"
+  },
+  {
+   "source": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 3,
+   "evidence": "elerate the adoption of artificial intelligence and help deliver on the goals of the uk’s ai opportunities action plan and its ambition to deploy ai for shared prosperity. openai c"
+  },
+  {
+   "source": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "the uk secretary of state for science, innovation and technology, peter kyle mp, signed a memorandum of understanding ⁠ (mou) focused on unlocking the economic and societal benefit"
+  },
+  {
+   "source": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+   "target": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "type": "reference",
+   "count": 2,
+   "evidence": "t included a focus on expanding the uk’s sovereign ai capability. we’ve already announced stargate uk—an ai infrastructure partnership with nvidia and nscale—to deliver openai’s wo"
+  },
+  {
+   "source": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "the next chapter for uk sovereign ai earlier this year, we signed an mou with the uk government to help more british people, businesses and institutions benefi"
+  },
+  {
+   "source": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "’s future economy, boost its global competitiveness and deliver on the country’s national ai opportunities action plan. the initiative marks a major step forward in the us-uk techn"
+  },
+  {
+   "source": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "upport governments that want to build out their sovereign ai capabilities. it follows the mou we signed with the uk government in july 2025 to explore the uk’s infrastructure prior"
+  },
+  {
+   "source": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "technology ( dsit ) and google deepmind to collaborate on initiatives to deliver the uk’s ai opportunities action plan and advance uk preparedness for transformative ai . google de"
+  },
+  {
+   "source": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "improvements for citizens. british-founded google deepmind will support the government’s ai opportunities action plan to ensure ai directly benefits working people across the coun"
+  },
+  {
+   "source": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+   "target": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "type": "reference",
+   "count": 1,
+   "evidence": "announcing an expanded partnership with the uk ai security institute (aisi) through a new memorandum of understanding focused on foundational security and safety research, to help"
+  },
+  {
+   "source": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 4,
+   "evidence": "ling, and the creative economy, in line with the ambitions set out in the uk government’s ai opportunities action plan. the transformative potential of ai ai has the potential to b"
+  },
+  {
+   "source": "2026-02-18_PRCO_ElevenLabs_UKAISIPartnership",
+   "target": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "oducts and work closely with governments to establish ai safety standards. under this new memorandum of understanding, we are giving the uk government access to our frontier voice"
+  },
+  {
+   "source": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+   "target": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "vernment to bring voice ai to public services, as it expands london hq today, we signed a memorandum of understanding with the uk's department for science, innovation and technolog"
+  },
+  {
+   "source": "2026-01-29_WMS_DSIT_AIActionPlanOneYearOnMinisterialStatement",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 4,
+   "evidence": "lanarkshire ai growth zone designation and delivery update on the ai opportunities action plan statement made on 29 january 2026 statement uin hcws1289 stat"
+  },
+  {
+   "source": "2026-06-08_PRCO_Cisco_JoinsForcesUKGov",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "build digital skills nationwide. the collaboration directly supports the uk government’s ai opportunities action plan. it brings together cisco’s technology expertise, skills prog"
+  },
+  {
+   "source": "2026-06-08_PRCO_Cisco_JoinsForcesUKGov",
+   "target": "2026-06-08_MOU_Cisco_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "e in communities, developing digital skills, and activating its people and partners. this memorandum of understanding (mou), which outlines a framework through to 2030, aims to bui"
+  },
+  {
+   "source": "2025-06-09_MOU_NVIDIA_AISkills",
+   "target": "2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity",
+   "type": "reference",
+   "count": 1,
+   "evidence": "memorandum of understanding between uk and nvidia on ai skills memorandum of understanding"
+  },
+  {
+   "source": "2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity",
+   "target": "2025-06-09_MOU_NVIDIA_AISkills",
+   "type": "reference",
+   "count": 1,
+   "evidence": "memorandum of understanding between uk and nvidia on ai and advanced connectivity technolo"
+  },
+  {
+   "source": "2025-10-23_PRGOV_MOJ_OpenAIDataHosting",
+   "target": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ng our streets safe. the tool is one of the projects forming part of the prime minister’s ai exemplars programme which are prime examples of how the government wants to use ai acro"
+  },
+  {
+   "source": "2025-10-23_PRGOV_MOJ_OpenAIDataHosting",
+   "target": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "type": "reference",
+   "count": 2,
+   "evidence": "this year openai and nvidia, as well as british firm nscale announced plans to establish stargate uk to deliver new ai infrastructure in the uk, developing a platform designed to"
+  },
+  {
+   "source": "2025-12-18_STRAT_GDS_DataAIEthicsFramework",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 7,
+   "evidence": "d connects to them. it complements existing tools, standards and guidance, including the: ai playbook for the uk government model for responsible innovation algorithmic transparenc"
+  },
+  {
+   "source": "2025-01-13_WMS_DSIT_AIActionPlanMinisterialStatement",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 3,
+   "evidence": "publication of the ai opportunities action plan and the government response statement made on 13 january 2025"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2025-06-09_MOU_NVIDIA_AISkills",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2026-06-08_MOU_Cisco_AIOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships",
+   "target": "2026-06-08_MOU_Synthesia_AISkillsOpportunities",
+   "type": "reference",
+   "count": 1,
+   "evidence": "g to build a company with a credible path to £1 billion valuation. synthesia has signed a memorandum of understanding with dsit , committing to support dsit’s ambitions on upskilli"
+  },
+  {
+   "source": "2025-06-02_WMS_DSIT_CrossGovernmentAIExperiment",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "o meet the challenges of the 21st century aligning with our broader vision set out in the blueprint for modern digital government to harness the power of ai for public good. in lin"
+  },
+  {
+   "source": "2024-07-26_WMS_DSIT_AIActionPlanCommissioning",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 3,
+   "evidence": "ai opportunities action plan statement made on 26 july 2024 statement uin hcws24 statement"
+  },
+  {
+   "source": "2024-02-06_WMS_DSIT_AIRegulationGovResponse",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 1,
+   "evidence": "esponse to the consultation on the artificial intelligence (ai) regulation white paper: a pro-innovation approach to ai regulation . the world is on the cusp of an extraordinary ne"
+  },
+  {
+   "source": "2024-02-06_WMS_DSIT_AIRegulationGovResponse",
+   "target": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+   "type": "reference",
+   "count": 2,
+   "evidence": "publication of ai regulation white paper consultation response statement made on 6 february 2024 statemen"
+  },
+  {
+   "source": "2025-02-07_BLOG_GDS_ShapingDigitalCentre_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "rtunity for ai, which has progressed a long way since 2022. that vision is set out in the blueprint for modern digital government published last month. what will be critical to its"
+  },
+  {
+   "source": "2025-11-07_BLOG_TechInGov_SourcingStack_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 3,
+   "evidence": "l government technology in january 2025, the government digital service (gds) published a blueprint for modern digital government . this was a bold vision for what the future might"
+  },
+  {
+   "source": "2026-04-15_BLOG_GDS_GDSLocalFoundations_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "aboration local government is an essential part of delivering the ambitious vision of the blueprint for modern digital government , and creating a joined-up government that works a"
+  },
+  {
+   "source": "2026-01-21_BLOG_GDS_DigitalWalletReality_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ng the government’s first digital wallet a reality a year ago, gds launched the ambitious blueprint for modern digital government . it established a bold plan for the whole of digi"
+  },
+  {
+   "source": "2026-01-21_BLOG_GDS_DigitalWalletReality_",
+   "target": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ole of digital government – and just last week gds published an update on its progress: a roadmap for modern digital government . the blueprint named the wallet as one of its 5 “ki"
+  },
+  {
+   "source": "2025-10-03_BLOG_CDDO_AISummitResearch_",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 2,
+   "evidence": "s across 340 public sector organisations in the past year. the summit was inspired by the ai opportunities action plan to showcase how collaboration between government and academia"
+  },
+  {
+   "source": "2025-10-03_BLOG_CDDO_AISummitResearch_",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 1,
+   "evidence": "at the forefront of safe and ethical ai. this approach is already delivering results. the ai playbook for the uk government , developed by gds in collaboration with universities, i"
+  },
+  {
+   "source": "2025-03-27_BLOG_CDDO_UserResearchAI_",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "gds’s user research on ai in government earlier this year, the ai opportunities action plan was published, outlining that effective ai adoption across th"
+  },
+  {
+   "source": "2025-03-27_BLOG_CDDO_UserResearchAI_",
+   "target": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "type": "reference",
+   "count": 1,
+   "evidence": "es, fears and activities. we used what we’ve learnt from this user research to inform the generative ai framework , the new ai playbook for the uk government , new learning resourc"
+  },
+  {
+   "source": "2025-03-27_BLOG_CDDO_UserResearchAI_",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 2,
+   "evidence": "what we’ve learnt from this user research to inform the generative ai framework , the new ai playbook for the uk government , new learning resources on ai , as well as to understan"
+  },
+  {
+   "source": "2025-03-10_BLOG_CDDO_ResponsibleAIFrameworks_",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "sponsible data and ai use across the public sector the uk government’s recently announced ai opportunities action plan underlines the importance of safe and responsible ai adoption"
+  },
+  {
+   "source": "2026-07-02_BLOG_TechInGov_ResponsibleAICloudEvent_",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "nt ambitions. these are to “work closely with britain’s world-leading academics” from the ai opportunities action plan, and to “build research communities made up of truly interdis"
+  },
+  {
+   "source": "2025-07-16_BLOG_CDDO_ResponsibleAIAdvisoryPanel_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "erence to people's lives. following the government's ai opportunities action plan and the blueprint for modern digital government , we're now at a pivotal moment to harness ai's po"
+  },
+  {
+   "source": "2025-07-16_BLOG_CDDO_ResponsibleAIAdvisoryPanel_",
+   "target": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ery, ai is already making a real difference to people's lives. following the government's ai opportunities action plan and the blueprint for modern digital government , we're now a"
+  },
+  {
+   "source": "2025-09-22_BLOG_CDDO_TestAssureAI_",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 2,
+   "evidence": "e examples of how ai is being trialled and adopted across government in the uk government ai playbook . however, they are not traditional software and we can’t test them in the sam"
+  },
+  {
+   "source": "2025-05-27_BLOG_DataInGov_ResponsibleAIHR_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ervants with enhanced tools to support their work, in line with the six-point plan of the blueprint for modern digital government . in 2024, we were approached by gds’ capability t"
+  },
+  {
+   "source": "2025-05-27_BLOG_DataInGov_ResponsibleAIHR_",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 3,
+   "evidence": "handling sensitive data, particularly in human resource (hr), and has contributed to the ai playbook for the uk government to share guidance on the responsible use of ai. in decem"
+  },
+  {
+   "source": "2025-12-18_BLOG_DataInGov_DataAIEthicsFramework_",
+   "target": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "type": "reference",
+   "count": 2,
+   "evidence": "ools and guidance, such as the algorithmic transparency recording standard (atrs) and the ai playbook for the uk government . why we updated the framework the data ethics framework"
+  },
+  {
+   "source": "2025-02-18_BLOG_TechInGov_CloudFirst12_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "policy is 12! two landmark publications: the state of digital government review , and the blueprint for modern digital government are clear - cloud technology is helping to reshape"
+  },
+  {
+   "source": "2025-02-18_BLOG_TechInGov_CloudFirst12_",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 2,
+   "evidence": "government’s cloud first policy is 12! two landmark publications: the state of digital government review , and the blueprint for modern digital government are c"
+  },
+  {
+   "source": "2025-11-24_BLOG_GDS_GDSLocalGoesLive_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 2,
+   "evidence": "on working with and alongside local government to deliver the ambitions we set out in the blueprint for a modern digital government . historically, there has been limited engagemen"
+  },
+  {
+   "source": "2025-11-24_BLOG_GDS_GDSLocalGoesLive_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "ng, including it market reform, and building technology that aligns with the goals of the blueprint for modern digital government. unlocking local data potential: in collaboration"
+  },
+  {
+   "source": "2025-11-24_BLOG_GDS_GDSLocalGoesLive_",
+   "target": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+   "type": "reference",
+   "count": 1,
+   "evidence": "to other regions and, with the right support, could transform communities everywhere. the state of digital government review found £45 billion per year of unrealised productivity b"
+  },
+  {
+   "source": "2026-05-15_BLOG_InsideGOVUK_DevelopingChat_",
+   "target": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "textualised answers. the work is one of the prime minister's ai exemplars and part of the roadmap for modern digital government . in this post, we explore the technical details beh"
+  },
+  {
+   "source": "2026-05-15_BLOG_InsideGOVUK_DevelopingChat_",
+   "target": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+   "type": "reference",
+   "count": 1,
+   "evidence": "tive ai to deliver clear, contextualised answers. the work is one of the prime minister's ai exemplars and part of the roadmap for modern digital government . in this post, we expl"
+  },
+  {
+   "source": "2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 2,
+   "evidence": "tools and the power of ai: channelling the dynamic, problem-solving ethos set out in the blueprint for a modern digital government . one of our core ambitions is to catalyse chang"
+  },
+  {
+   "source": "2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 1,
+   "evidence": "blueprint for modern digital government comes alive at gds local government innovation hac"
+  },
+  {
+   "source": "2025-03-07_BLOG_GDS_VisualisingModernDigitalGov_",
+   "target": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+   "type": "reference",
+   "count": 2,
+   "evidence": "visualising modern digital government the recently published blueprint for a modern digital government was the result of many weeks of researching, ske"
+  },
+  {
+   "source": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+   "target": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+   "type": "supersession",
+   "count": 1,
+   "evidence": "The AI Playbook supersedes the Generative AI Framework (gov.uk, 2025-02-10)."
+  },
+  {
+   "source": "2025-02-14_PRCO_Anthropic_SignsMOUUKGov",
+   "target": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "type": "echo",
+   "count": 5,
+   "evidence": "5 shared n-grams; longest (13 words): \"securing the supply chain for advanced ai and the uk s future infrastructure\""
+  },
+  {
+   "source": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+   "target": "2025-02-14_MOU_Anthropic_AIOpportunities",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (7 words): \"department for science innovation and technology dsit\""
+  },
+  {
+   "source": "2025-06_PRCO_NVIDIA_UKPartnership_",
+   "target": "2025-06-09_MOU_NVIDIA_AISkills",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (7 words): \"across industry research and the public sector\""
+  },
+  {
+   "source": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+   "target": "2025-06-16_MOU_Cohere_AIOpportunities",
+   "type": "echo",
+   "count": 4,
+   "evidence": "4 shared n-grams; longest (11 words): \"secure ai solutions in areas of strategic importance to the uk\""
+  },
+  {
+   "source": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+   "target": "2025-07-21_MOU_OpenAI_AIOpportunities",
+   "type": "echo",
+   "count": 4,
+   "evidence": "4 shared n-grams; longest (33 words): \"how advanced ai models can be deployed throughout government and the private sector to help civil servants work more efficiently and to support small businesses and citizens to nav\""
+  },
+  {
+   "source": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+   "target": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+   "type": "echo",
+   "count": 10,
+   "evidence": "10 shared n-grams; longest (118 words): \"technology secretary peter kyle said ai will be fundamental in driving the change we need to see across the country whether that s in fixing the nhs breaking down barriers to oppor\""
+  },
+  {
+   "source": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+   "target": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (8 words): \"in minutes while leaving important decisions to experts\""
+  },
+  {
+   "source": "2025-09-16_PRCO_OpenAI_StargateUK",
+   "target": "2025-10-23_PRGOV_MOJ_OpenAIDataHosting",
+   "type": "echo",
+   "count": 3,
+   "evidence": "3 shared n-grams; longest (17 words): \"cobalt park which will form part of the newly designated ai growth zone in the north east\""
+  },
+  {
+   "source": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+   "target": "2025-10-23_PRGOV_MOJ_OpenAIDataHosting",
+   "type": "echo",
+   "count": 5,
+   "evidence": "5 shared n-grams; longest (60 words): \"said the number of people using our products in the uk has increased fourfold in the past year it s exciting to see them using ai to save time increase productivity and get more do\""
+  },
+  {
+   "source": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+   "target": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "type": "echo",
+   "count": 3,
+   "evidence": "3 shared n-grams; longest (7 words): \"ai enhanced approaches to national cyber resilience\""
+  },
+  {
+   "source": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+   "target": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (8 words): \"with the uk ai security institute aisi through\""
+  },
+  {
+   "source": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+   "target": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+   "type": "echo",
+   "count": 6,
+   "evidence": "6 shared n-grams; longest (13 words): \"will be built from the ground up to be fully integrated with gemini\""
+  },
+  {
+   "source": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+   "target": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (6 words): \"is developed safely and benefits everyone\""
+  },
+  {
+   "source": "2026-06-08_PRCO_Cisco_JoinsForcesUKGov",
+   "target": "2026-06-08_MOU_Cisco_AIOpportunities",
+   "type": "echo",
+   "count": 1,
+   "evidence": "1 shared n-grams; longest (6 words): \"the uk s first tech town\""
+  },
+  {
+   "source": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+   "target": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+   "type": "echo",
+   "count": 5,
+   "evidence": "5 shared n-grams; longest (18 words): \"to make the uk one of the best places in the world to build deploy and use ai\""
+  }
+ ]
+}

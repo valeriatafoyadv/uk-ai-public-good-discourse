@@ -1,0 +1,2692 @@
+[
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 1,
+  "heading": "Acknowledgements"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 2,
+  "heading": "Foreword"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 3,
+  "heading": "Principles"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 4,
+  "heading": "Principle 1: You know what generative AI is and what its limitations are"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 5,
+  "heading": "Principle 2: You use generative AI lawfully, ethically and responsibly"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 6,
+  "heading": "Principle 3: You know how to keep generative AI tools secure"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 7,
+  "heading": "Principle 4: You have meaningful human control at the right stage"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 8,
+  "heading": "Principle 5: You understand how to manage the full generative AI lifecycle"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 9,
+  "heading": "Principle 6: You use the right tool for the job"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 10,
+  "heading": "Principle 7: You are open and collaborative"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 11,
+  "heading": "Principle 8: You work with commercial colleagues from the start"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 12,
+  "heading": "Principle 9: You have the skills and expertise that you need to build and use generative AI"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 13,
+  "heading": "Principle 10: You use these principles alongside your organisation’s policies and have the right assurance in place"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 14,
+  "heading": "Understanding generative AI"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 15,
+  "heading": "What is generative AI?"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 16,
+  "heading": "Applications of generative AI in government"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 17,
+  "heading": "Limitations of generative AI and LLMs"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 18,
+  "heading": "Building generative AI solutions"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 19,
+  "heading": "Defining the goal"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 20,
+  "heading": "Identifying use cases"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 21,
+  "heading": "Use cases to avoid"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 22,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 23,
+  "heading": "Building the team"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 24,
+  "heading": "Acquiring skills"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 25,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 26,
+  "heading": "Creating the generative AI support structure"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 27,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 28,
+  "heading": "Buying generative AI"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 29,
+  "heading": "Existing guidance"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 30,
+  "heading": "Routes to market"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 31,
+  "heading": "Specifying your requirements"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 32,
+  "heading": "Running your procurement"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 33,
+  "heading": "Procurement in an emerging market"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 34,
+  "heading": "Aligning procurement and ethics"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 35,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 37,
+  "heading": "Core concepts"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 38,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 39,
+  "heading": "Patterns"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 40,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 41,
+  "heading": "Picking your tools"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 42,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 43,
+  "heading": "Getting reliable results"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 44,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 45,
+  "heading": "Testing generative AI solutions"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 46,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 47,
+  "heading": "Data management"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 48,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 49,
+  "heading": "Using generative AI safely and responsibly"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 50,
+  "heading": "Legal considerations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 51,
+  "heading": "Example legal issues"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 52,
+  "heading": "Ethics"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 53,
+  "heading": "Transparency and explainability"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 54,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 55,
+  "heading": "Accountability and responsibility"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 56,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 57,
+  "heading": "Fairness, bias and discrimination"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 58,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 59,
+  "heading": "Information quality and misinformation"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 60,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 61,
+  "heading": "Maintaining appropriate human involvement in automated processes"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 62,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 63,
+  "heading": "Sustainability and environmental considerations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 64,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 65,
+  "heading": "Data protection and privacy"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 66,
+  "heading": "Accountability"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 67,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 68,
+  "heading": "Lawfulness and purpose limitation"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 69,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 70,
+  "heading": "Transparency and individual rights"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 71,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 72,
+  "heading": "Fairness"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 73,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 74,
+  "heading": "Data minimisation"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 75,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 76,
+  "heading": "Storage limitation"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 77,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 78,
+  "heading": "Human oversight"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 79,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 80,
+  "heading": "Accuracy"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 81,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 82,
+  "heading": "Security"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 83,
+  "heading": "How to deploy generative AI securely"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 84,
+  "heading": "Security risks"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 85,
+  "heading": "Practical security recommendations"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 86,
+  "heading": "Governance"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 87,
+  "heading": "AI governance board or AI representation on an existing board"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 88,
+  "heading": "Ethics committee"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 89,
+  "heading": "Creating an AI/ML systems inventory"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 90,
+  "heading": "Programme governance in teams and what should be considered"
+ },
+ {
+  "doc_id": "2024-01-18_STRAT_CDDO_GenerativeAIFramework",
+  "section_idx": 91,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 1,
+  "heading": "Box 1: Different types of AI systems"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 2,
+  "heading": "Societal harms"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 3,
+  "heading": "Autonomy risks"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 4,
+  "heading": "Box 2: What do we mean by highly capable general-purpose AI systems?"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 5,
+  "heading": "Case study 1: Liability as a barrier to AI adoption in the UK"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 6,
+  "heading": "Box 3: Emerging Processes for Frontier AI Safety"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 7,
+  "heading": "Box 4: The AI Safety Institute (AISI)"
+ },
+ {
+  "doc_id": "2024-02-06_REG_DSIT_ProInnovationAIRegulation",
+  "section_idx": 8,
+  "heading": "Box 5: Key questions for policy development on the future regulation of highly capable general-purpose systems"
+ },
+ {
+  "doc_id": "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI",
+  "section_idx": 1,
+  "heading": "Notes to editors"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 1,
+  "heading": "Foreword by the Prime Minister"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 2,
+  "heading": "Government response to the AI Opportunities Action Plan"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 4,
+  "heading": "Building sufficient, secure, and sustainable AI infrastructure"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 5,
+  "heading": "AI Growth Zones"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 6,
+  "heading": "AI Energy Council"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 7,
+  "heading": "National Data Library"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 8,
+  "heading": "AI skills and talent"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 9,
+  "heading": "Regulation"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 10,
+  "heading": "Change lives by embracing AI"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 11,
+  "heading": "Secure our future with homegrown AI"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 12,
+  "heading": "Next steps"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 13,
+  "heading": "Building sufficient, secure, and sustainable infrastructure"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 14,
+  "heading": "Unlocking data assets in the public and private sector"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 15,
+  "heading": "Training, attracting and retaining the next generation of AI scientists and founders"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 16,
+  "heading": "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 17,
+  "heading": "Adopt a “Scan > Pilot > Scale” approach in government"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 18,
+  "heading": "Enable public and private sectors to reinforce each other"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIActionPlanGovResponse",
+  "section_idx": 19,
+  "heading": "Address private-sector-user adoption barriers"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 1,
+  "heading": "Secretary of State foreword"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 3,
+  "heading": "The case for change"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 4,
+  "heading": "The vision for modern digital government"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 5,
+  "heading": "A six-point plan for public sector digital reform"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 6,
+  "heading": "Join up public sector services"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 7,
+  "heading": "Harness the power of AI for the public good"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 8,
+  "heading": "Strengthen and extend our digital and data public infrastructure"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 9,
+  "heading": "Elevate leadership, invest in talent"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 10,
+  "heading": "Fund for outcomes, procure for growth and innovation"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 11,
+  "heading": "Commit to transparency, drive accountability"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 12,
+  "heading": "Driving this change"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 13,
+  "heading": "Next steps"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 15,
+  "heading": "Context"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 16,
+  "heading": "The State of Digital Government"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 17,
+  "heading": "Section 2 The vision for modern digital government"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 19,
+  "heading": "Easier lives"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 20,
+  "heading": "Faster growth"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 21,
+  "heading": "Firmer foundations"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 22,
+  "heading": "Smarter organisations"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 23,
+  "heading": "Higher productivity and efficiency"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 24,
+  "heading": "Section 3 Making it happen: a six-point plan for government digital reform"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 25,
+  "heading": "Progress since 2022"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 26,
+  "heading": "What is different this time?"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 27,
+  "heading": "1. Join up public sector services"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 28,
+  "heading": "2. Harness the power of AI for the public good"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 29,
+  "heading": "3. Strengthen and extend our digital and data public infrastructure"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 30,
+  "heading": "4. Elevate leadership, invest in talent"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 31,
+  "heading": "5. Fund for outcomes, procure for growth and innovation"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 32,
+  "heading": "6. Commit to transparency, drive accountability"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 33,
+  "heading": "Section 4 Driving this change"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 34,
+  "heading": "The digital centre’s scope and remit"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 35,
+  "heading": "Changes in focus"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 36,
+  "heading": "What this will feel like for the public sector"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 37,
+  "heading": "What this will feel like for suppliers and the UK tech sector"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 38,
+  "heading": "What this will feel like for civil society and local communities"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 39,
+  "heading": "Section 5 Next steps"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 40,
+  "heading": "Kickstarters to kick things off"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 41,
+  "heading": "Addressing the big challenges"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 42,
+  "heading": "Annex: The new Government Digital Service"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_BlueprintModernDigitalGov",
+  "section_idx": 43,
+  "heading": "At a glance guide to the remit of the digital centre"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 1,
+  "heading": "Executive summary"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 2,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 3,
+  "heading": "Context"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 4,
+  "heading": "Key facts"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 7,
+  "heading": "The UK is under-digitised: only half of UK public services have a digital channel"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 8,
+  "heading": "Digital services are not keeping pace with expectations of the UK public and businesses"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 9,
+  "heading": "Institutionalised fragmentation duplicates efforts for users"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 10,
+  "heading": "UK policy imposes constraints on achieving digital benefits"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 11,
+  "heading": "Missed opportunities for digitised services have a cost for people, businesses, and the UK economy"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 13,
+  "heading": "The public sector spent £26 billion on technology in 2023, below peer benchmarks"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 14,
+  "heading": "Figure 1: The UK public sector followed by (D&D) spend versus peer benchmarks (BM)24 (2023 D&D spend as % of RDEL ) [foo"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 15,
+  "heading": "Institutionalised fragmentation drives duplication"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 16,
+  "heading": "Legacy technology imposes unsustainable risk and cost"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 17,
+  "heading": "Service failures are disrupting people’s lives, and the public sector is not sufficiently prepared to manage disruptions"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 18,
+  "heading": "Cyber risk to the government is critically high, yet public organisations are underprepared for current and evolving cyb"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 19,
+  "heading": "Cloud adoption has accelerated, but there are barriers to full potential"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 20,
+  "heading": "SDG survey responses denoting share of services hosted on public-cloud"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 21,
+  "heading": "Figure 2: What share of systems in your estate are hosted on public cloud? (%)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 22,
+  "heading": "GMPP digital, data, and technology programmes continue to underperform"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 24,
+  "heading": "Fragmented data hampers ability to analyse and draw meaningful insights"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 25,
+  "heading": "Data is underutilised for AI"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 26,
+  "heading": "Figure 3: CDDO AI common use cases"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 28,
+  "heading": "Central and shared digital capabilities have not yet had sector wide impact"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 30,
+  "heading": "Digital leadership is not a consistent priority"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 31,
+  "heading": "Table 1: Presence of named CDIOs, CIOs , CTOs or service transformation leads on organisation’s Exco (non-exhaustive)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 32,
+  "heading": "There are not enough digital and data people in the right roles"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 33,
+  "heading": "The public sector is not seen by many digital and data professionals as an attractive place to work"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 34,
+  "heading": "Figure 4: Civil Service digital and data recruitment success rates, HEO - SCS % (2019 to 2024) [footnote 42]"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 35,
+  "heading": "Table 2: Glassdoor analysis (online experience rating platform) by role. Gap to private sector benchmark (2022 to 2024)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 36,
+  "heading": "Figure 5: Digital and data pay by role type, public and private sector (£), averaged across UK regions"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 37,
+  "heading": "Table 3: Civil Service pay difference versus the private sector"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 38,
+  "heading": "Digital supply chain"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 39,
+  "heading": "Public sector usage and management of third parties has not adapted to reflect the shifts in the technology market"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 40,
+  "heading": "The public sector does not have a co-ordinated digital sourcing strategy across organisations"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 41,
+  "heading": "Commercial teams have insufficient digital expertise and digital teams have limited commercial skills"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 42,
+  "heading": "The UK government relies on costly external providers to augment internal digital and data capability"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 43,
+  "heading": "Headcount and cost of contractors relative to permanent staff in public sector"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 44,
+  "heading": "Figure 6: Headcount and cost of digital and data permanent staff and contractor resources in public sector (2023, thousa"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 45,
+  "heading": "Figure 7: Average annual cost of public sector digital and data permanent staff and contractors (2023, £ thousand)."
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 47,
+  "heading": "Funding of continuous improvement of the technology estate is under-prioritised versus new policy programmes"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 48,
+  "heading": "Funding has not adapted to new technology market norms"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 49,
+  "heading": "Figure 8: Spending review allocation of CDEL and RDEL spend, versus Gartner benchmark (2020 and 2021 Spending Review)"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 50,
+  "heading": "Existing governance and controls processes are not suited to digital programmes"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 51,
+  "heading": "Root causes"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 52,
+  "heading": "Leadership"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 53,
+  "heading": "Structure"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 54,
+  "heading": "Measurement"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 55,
+  "heading": "Talent"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 56,
+  "heading": "Funding"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 57,
+  "heading": "Conclusion"
+ },
+ {
+  "doc_id": "2025-01-21_STRAT_GDS_StateOfDigitalGovReview",
+  "section_idx": 59,
+  "heading": "Public sector organisations which engaged with our call for input"
+ },
+ {
+  "doc_id": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-21_WMS_DSIT_BlueprintMinisterialStatement",
+  "section_idx": 2,
+  "heading": "Statement"
+ },
+ {
+  "doc_id": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+  "section_idx": 1,
+  "heading": "The 'digital centre' is now the Government Digital Service (GDS)"
+ },
+ {
+  "doc_id": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+  "section_idx": 2,
+  "heading": "Wholesale reshaping of the public sector"
+ },
+ {
+  "doc_id": "2025-01-27_BLOG_GDS_SameNameNewAmbitions",
+  "section_idx": 3,
+  "heading": "Starting points"
+ },
+ {
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "section_idx": 1,
+  "heading": "Who the playbook and learning resources are for"
+ },
+ {
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "section_idx": 2,
+  "heading": "What the playbook includes"
+ },
+ {
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "section_idx": 3,
+  "heading": "How we developed the playbook"
+ },
+ {
+  "doc_id": "2025-02-10_BLOG_GDS_LaunchingAIPlaybook",
+  "section_idx": 4,
+  "heading": "What’s next"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 1,
+  "heading": "Acknowledgements"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 2,
+  "heading": "Central government departments"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 3,
+  "heading": "Arm’s length bodies, devolved administrations and public sector bodies"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 4,
+  "heading": "Industry"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 5,
+  "heading": "Academic institutes"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 6,
+  "heading": "User research"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 7,
+  "heading": "Update log"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 8,
+  "heading": "Foreword"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 9,
+  "heading": "Preface"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 10,
+  "heading": "Principles"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 11,
+  "heading": "Principle 1: You know what AI is and what its limitations are"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 12,
+  "heading": "Principle 2: You use AI lawfully, ethically and responsibly"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 13,
+  "heading": "Principle 3: You know how to use AI securely"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 14,
+  "heading": "Principle 4: You have meaningful human control at the right stages"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 15,
+  "heading": "Principle 5: You understand how to manage the full AI life cycle"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 16,
+  "heading": "Principle 6: You use the right tool for the job"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 17,
+  "heading": "Principle 7: You are open and collaborative"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 18,
+  "heading": "Principle 8: You work with commercial colleagues from the start"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 19,
+  "heading": "Principle 9: You have the skills and expertise needed to implement and use AI solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 20,
+  "heading": "Principle 10: You use these principles alongside your organisation’s policies and have the right assurance in place"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 21,
+  "heading": "Understanding AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 22,
+  "heading": "What is AI?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 23,
+  "heading": "Fields of AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 24,
+  "heading": "Neural networks"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 25,
+  "heading": "How do NNs work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 26,
+  "heading": "Applications of NNs"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 27,
+  "heading": "Machine learning"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 28,
+  "heading": "How does ML work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 29,
+  "heading": "Applications of ML"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 30,
+  "heading": "Deep learning"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 31,
+  "heading": "How does DL work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 32,
+  "heading": "Applications of DL"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 33,
+  "heading": "Speech recognition"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 34,
+  "heading": "How does SR work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 35,
+  "heading": "Applications of SR"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 36,
+  "heading": "Computer vision"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 37,
+  "heading": "How does CV work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 38,
+  "heading": "Applications of CV"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 39,
+  "heading": "Natural language processing"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 40,
+  "heading": "How does NLP work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 41,
+  "heading": "Applications of NLP"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 42,
+  "heading": "Generative AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 43,
+  "heading": "How does generative AI work?"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 44,
+  "heading": "Applications of generative AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 45,
+  "heading": "Agentic AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 46,
+  "heading": "Ethics and societal impact"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 47,
+  "heading": "Applications of AI in government"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 48,
+  "heading": "Limitations of AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 49,
+  "heading": "Building AI solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 50,
+  "heading": "Building the team"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 51,
+  "heading": "Acquiring skills and talent"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 52,
+  "heading": "Learning resources"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 53,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 54,
+  "heading": "Working collaboratively"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 55,
+  "heading": "Defining the goal"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 56,
+  "heading": "User research for AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 57,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 58,
+  "heading": "Identifying use cases for AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 59,
+  "heading": "Use cases to avoid"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 60,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 61,
+  "heading": "Creating the AI support structure"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 62,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 63,
+  "heading": "Buying AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 64,
+  "heading": "AI business cases"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 65,
+  "heading": "Existing guidance"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 66,
+  "heading": "Routes to market"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 67,
+  "heading": "Specifying your requirements"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 68,
+  "heading": "Running your procurement in an emerging market"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 69,
+  "heading": "Commercial agreements"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 70,
+  "heading": "Regulation and policy"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 71,
+  "heading": "Aligning procurement and ethics"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 72,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 73,
+  "heading": "Using AI safely and responsibly"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 74,
+  "heading": "Ethics"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 75,
+  "heading": "Safety, security and robustness"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 76,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 77,
+  "heading": "Transparency and explainability"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 78,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 79,
+  "heading": "Fairness, bias and discrimination"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 80,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 81,
+  "heading": "Accountability and responsibility"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 82,
+  "heading": "Answerability"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 83,
+  "heading": "Auditability"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 84,
+  "heading": "Liability"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 85,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 86,
+  "heading": "Contestability and redress"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 87,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 88,
+  "heading": "Societal wellbeing and public good"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 89,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 90,
+  "heading": "Legal considerations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 91,
+  "heading": "Example legal issues"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 92,
+  "heading": "Data protection"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 93,
+  "heading": "Contractual issues"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 94,
+  "heading": "Intellectual property, including copyright"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 95,
+  "heading": "Equality issues"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 96,
+  "heading": "Public law principles"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 97,
+  "heading": "Human rights"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 98,
+  "heading": "Legislation"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 99,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 100,
+  "heading": "Data protection and privacy"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 101,
+  "heading": "Accountability"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 102,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 103,
+  "heading": "Lawfulness and purpose limitation"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 104,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 105,
+  "heading": "Transparency and individual rights"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 106,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 107,
+  "heading": "Fairness"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 108,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 109,
+  "heading": "Data minimisation"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 110,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 111,
+  "heading": "Storage limitation"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 112,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 113,
+  "heading": "Human oversight"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 114,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 115,
+  "heading": "Accuracy"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 116,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 117,
+  "heading": "Security"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 118,
+  "heading": "How to deploy AI securely"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 119,
+  "heading": "Public AI applications and web services"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 120,
+  "heading": "Embedded AI applications"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 121,
+  "heading": "Public AI APIs"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 122,
+  "heading": "Privately hosted AI models"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 123,
+  "heading": "Managed machine learning model hosting platform"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 124,
+  "heading": "Running AI models locally"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 125,
+  "heading": "Training AI models"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 126,
+  "heading": "Working with your organisational data"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 127,
+  "heading": "Open-source vs closed-source models"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 128,
+  "heading": "Security risks"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 129,
+  "heading": "Using AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 130,
+  "heading": "Adversaries using AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 131,
+  "heading": "Security opportunities"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 132,
+  "heading": "Scenarios"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 133,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 134,
+  "heading": "Governance"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 135,
+  "heading": "AI governance board or AI representation on an existing board"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 136,
+  "heading": "Ethics committee"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 137,
+  "heading": "Creating an AI systems inventory"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 138,
+  "heading": "Governance structures for teams"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 139,
+  "heading": "Managing risk"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 140,
+  "heading": "Mitigating risks"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 141,
+  "heading": "AI quality assurance"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 142,
+  "heading": "Validation of AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 143,
+  "heading": "Operational monitoring"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 144,
+  "heading": "Practical recommendations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 145,
+  "heading": "Appendix: example AI use cases in the public sector"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 146,
+  "heading": "GOV.UK Chat: experimenting with generative AI"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 147,
+  "heading": "Our tool and the problem it solves"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 148,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 149,
+  "heading": "Measuring success"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 150,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 151,
+  "heading": "Technologies"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 152,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 153,
+  "heading": "Example ethical, legal and security considerations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 154,
+  "heading": "GOV.UK Chat: doing user research for AI products"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 155,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 156,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 157,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 158,
+  "heading": "CCS commercial agreement recommendation system"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 159,
+  "heading": "Our tool and the problem it solves"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 160,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 161,
+  "heading": "Measuring success"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 162,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 163,
+  "heading": "Technologies"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 164,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 165,
+  "heading": "Example ethical, legal and security considerations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 166,
+  "heading": "Digital Sensitivity Review at FCDO Services"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 167,
+  "heading": "Our toolset and the problem it solves"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 168,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 169,
+  "heading": "Measuring success"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 170,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 171,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 172,
+  "heading": "Example ethical, legal and security considerations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 173,
+  "heading": "NHS user research finder"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 174,
+  "heading": "Our tool and the problem it solves"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 175,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 176,
+  "heading": "Measuring success"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 177,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 178,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 179,
+  "heading": "Example ethical, legal and security considerations"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 180,
+  "heading": "NHS.UK reviews: an automated reviews moderator"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 181,
+  "heading": "Our tool and the problem it solves"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 182,
+  "heading": "Project development"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 183,
+  "heading": "Measuring success"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 184,
+  "heading": "Value delivered"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 185,
+  "heading": "Technologies"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 186,
+  "heading": "Challenges and solutions"
+ },
+ {
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "section_idx": 187,
+  "heading": "Example ethical, legal and security considerations"
+ },
+ {
+  "doc_id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+  "section_idx": 1,
+  "heading": "Section (I): the transformative potential of AI"
+ },
+ {
+  "doc_id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+  "section_idx": 2,
+  "heading": "Section (II) on our ambitions for ongoing collaboration"
+ },
+ {
+  "doc_id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+  "section_idx": 3,
+  "heading": "Section (III) on further collaborations and future work"
+ },
+ {
+  "doc_id": "2025-02-14_MOU_Anthropic_AIOpportunities",
+  "section_idx": 4,
+  "heading": "Signatories"
+ },
+ {
+  "doc_id": "2025-02-14_PRCO_Anthropic_SignsMOUUKGov",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-02-14_PRGOV_DSIT_TacklingAISecurityRisks",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+  "section_idx": 1,
+  "heading": "Strengthening the UK's AI capabilities"
+ },
+ {
+  "doc_id": "2025-06-15_PRCO_Cohere_CanadaUKPartnerships",
+  "section_idx": 2,
+  "heading": "Furthering Secure AI Collaboration in Canada"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 1,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 2,
+  "heading": "Public Sector Adoption"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 3,
+  "heading": "Talent Ecosystem"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 4,
+  "heading": "AI Security"
+ },
+ {
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "section_idx": 5,
+  "heading": "Defence"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 1,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 2,
+  "heading": "Section 1: the transformative potential of AI"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 3,
+  "heading": "Section 2: public and private sector adoption"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 4,
+  "heading": "Section 3: infrastructure"
+ },
+ {
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "section_idx": 5,
+  "heading": "Section 4: technical information exchange"
+ },
+ {
+  "doc_id": "2025-07-21_PRCO_OpenAI_StrategicPartnership",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice",
+  "section_idx": 1,
+  "heading": "Notes to editors"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 1,
+  "heading": "Embracing a test and learn culture"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 2,
+  "heading": "Scan > Pilot > Scale: A structured approach to innovation"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 3,
+  "heading": "The role of GDS: catalyst and enabler"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 4,
+  "heading": "What GDS brings to the portfolio"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 5,
+  "heading": "Three delivery models:"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 6,
+  "heading": "Learning as we go"
+ },
+ {
+  "doc_id": "2025-08-18_BLOG_GDS_AIExemplarsProgramme",
+  "section_idx": 7,
+  "heading": "Leading by exemplar"
+ },
+ {
+  "doc_id": "2025-09-16_PRCO_OpenAI_StargateUK",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+  "section_idx": 1,
+  "heading": "UK Ministry of Justice"
+ },
+ {
+  "doc_id": "2025-10-22_PRCO_OpenAI_NextChapterSovereignAI",
+  "section_idx": 2,
+  "heading": "Introducing UK data residency"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 1,
+  "heading": "Accelerating access to frontier AI in key sectors: Science & Education"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 2,
+  "heading": "Establishing Google DeepMind’s first automated science laboratory in the UK"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 3,
+  "heading": "Enhancing teaching and learning"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 4,
+  "heading": "Modernizing public services"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 5,
+  "heading": "Advancing national security and resilience"
+ },
+ {
+  "doc_id": "2025-12-10_PRCO_DeepMind_StrengtheningPartnership",
+  "section_idx": 6,
+  "heading": "National partnerships on AI"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 1,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 2,
+  "heading": "Section 1: Promote responsible adoption of AI to transform public services"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 3,
+  "heading": "Section 2: Accelerate scientific discovery and innovation"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 4,
+  "heading": "Section 3: Advance AI security and preparedness"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 5,
+  "heading": "General terms"
+ },
+ {
+  "doc_id": "2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity",
+  "section_idx": 6,
+  "heading": "Signatories"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 1,
+  "heading": "Building on a foundation of collaboration"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 2,
+  "heading": "What the partnership involves"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 3,
+  "heading": "Key research areas"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 4,
+  "heading": "Monitoring AI reasoning processes"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 5,
+  "heading": "Understanding social and emotional impacts"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 6,
+  "heading": "Evaluating economic systems"
+ },
+ {
+  "doc_id": "2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership",
+  "section_idx": 7,
+  "heading": "Working together to realise the benefits of AI"
+ },
+ {
+  "doc_id": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind",
+  "section_idx": 1,
+  "heading": "Notes to editors"
+ },
+ {
+  "doc_id": "2026-01-19_WMS_DSIT_RoadmapMinisterialStatement",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 2,
+  "heading": "1. Joining up public services"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 3,
+  "heading": "2. Harnessing AI for public good"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 4,
+  "heading": "3. Strengthening our digital public infrastructure"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 5,
+  "heading": "4. Investing in talent"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 6,
+  "heading": "5. Funding for outcomes, procuring for growth"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 7,
+  "heading": "6. Committing to transparency, driving accountability"
+ },
+ {
+  "doc_id": "2026-01-20_BLOG_GDS_OurRoadmapLaunch",
+  "section_idx": 8,
+  "heading": "Get involved"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 1,
+  "heading": "Message from the Secretary of State"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 2,
+  "heading": "The roadmap for modern digital government"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 3,
+  "heading": "Join up public sector services"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 4,
+  "heading": "Harness the power of AI for the public good"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 5,
+  "heading": "Strengthen and extend our digital and data public infrastructure"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 6,
+  "heading": "Elevate leadership, invest in talent"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 7,
+  "heading": "Fund for outcomes, procure for growth and innovation"
+ },
+ {
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "section_idx": 8,
+  "heading": "Commit to transparency, drive accountability"
+ },
+ {
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "section_idx": 1,
+  "heading": "AI for UK government services that puts safety first"
+ },
+ {
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "section_idx": 2,
+  "heading": "Helping more people find work in the UK"
+ },
+ {
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "section_idx": 3,
+  "heading": "Our commitment to the UK’s leadership in AI"
+ },
+ {
+  "doc_id": "2026-01-27_PRCO_Anthropic_GOVUKPartnership",
+  "section_idx": 4,
+  "heading": "Bringing AI to public services around the world"
+ },
+ {
+  "doc_id": "2026-01-27_PRGOV_DSIT_TopBritishAIExpertise",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 1,
+  "heading": "Foreword by the Prime Minister"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 2,
+  "heading": "Foreword by the Secretary of State for Science, Innovation and Technology"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 3,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 5,
+  "heading": "Building sufficient, secure and sustainable AI Infrastructure"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 6,
+  "heading": "Unlocking data assets in the public and private sector"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 7,
+  "heading": "Developing top AI talent and upskilling the nation"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 8,
+  "heading": "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 10,
+  "heading": "Accelerating AI adoption in government"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 11,
+  "heading": "Accelerating AI adoption in the private sector"
+ },
+ {
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "section_idx": 12,
+  "heading": "3. Secure our future with homegrown AI"
+ },
+ {
+  "doc_id": "2026-02-18_PRCO_ElevenLabs_UKAISIPartnership",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 1,
+  "heading": "Introduction"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 2,
+  "heading": "The transformative potential of AI"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 3,
+  "heading": "Section 1: Public Sector Adoption and Accessibility"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 4,
+  "heading": "Section 2: AI Security"
+ },
+ {
+  "doc_id": "2026-06-08_MOU_ElevenLabs_AIOpportunities",
+  "section_idx": 5,
+  "heading": "Section 3: Talent and Upskilling"
+ },
+ {
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "section_idx": 1,
+  "heading": "The MOU"
+ },
+ {
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "section_idx": 2,
+  "heading": "Doubling down in the UK"
+ },
+ {
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "section_idx": 3,
+  "heading": "Building across UK public life"
+ },
+ {
+  "doc_id": "2026-06-08_PRCO_ElevenLabs_UKMOUExpansion",
+  "section_idx": 4,
+  "heading": "ElevenLabs for Government"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 0,
+  "heading": "(start)"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 1,
+  "heading": "Foreword by the Secretary of State for Science, Innovation and Technology"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 2,
+  "heading": "The opportunity"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 4,
+  "heading": "1.1 Building sufficient, secure and sustainable AI Infrastructure"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 5,
+  "heading": "1.2 Unlocking data assets in the public and private sector"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 6,
+  "heading": "1.3 Training, attracting and retaining the next generation of AI scientists and founders"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 7,
+  "heading": "1.4 Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 9,
+  "heading": "2.1 AI Adoption is core to delivering the government’s missions"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 10,
+  "heading": "Adoption missions"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 11,
+  "heading": "2.2 Adopt a “Scan > Pilot > Scale” approach in government"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 12,
+  "heading": "Scan"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 13,
+  "heading": "Pilot"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 14,
+  "heading": "Scale"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 15,
+  "heading": "2.3 Enable public and private sectors to reinforce each other"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 16,
+  "heading": "2.4 Address private-sector-user-adoption barriers"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 17,
+  "heading": "3. Secure our future with homegrown AI"
+ },
+ {
+  "doc_id": "2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan",
+  "section_idx": 18,
+  "heading": "Conclusion"
+ }
+]

@@ -1,0 +1,164 @@
+{
+  "doc_id": "2025-06-16_MOU_Cohere_AIOpportunities",
+  "source_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-cohere-on-ai-opportunities/memorandum-of-understanding-between-uk-and-cohere-on-ai-opportunities",
+  "fetched_at": "2026-08-29T15:24:05.226815+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Memorandum of Understanding between UK and Cohere on AI opportunities"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introduction"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "This Memorandum of Understanding ( MoU ) outlines the shared intent of the UK government and Cohere to work together to strengthen the UK’s AI capabilities and harness the potential of this technology to meaningfully improve people’s lives."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "The growing power of AI creates new opportunities to address fundamental societal challenges. When thoughtfully deployed, this technology can be leveraged across sectors – from healthcare and finance to defence and national security – to create higher quality services, stimulate economic growth and enable new breakthroughs and discoveries."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Both parties commit to exploring opportunities to implement effective and secure AI solutions in areas of strategic importance to the UK, whilst deepening efforts to understand and address the practical risks posed by advanced capabilities."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Through Cohere’s ongoing and future commitment to Britain’s AI ecosystem, this collaboration will reinforce the UK’s position as a global hub for AI excellence, incentivising the creation of high-quality jobs and developing domestic AI expertise."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Public Sector Adoption"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Public Sector Adoption"
+      ],
+      "text": "Cohere and DSIT will partner to explore how AI tools could be used throughout government to empower civil servants and improve the efficiency and effectiveness of public services. This could include identifying opportunities to streamline administration and boost productivity across the public sector, and improve data analysis in domains such as health."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Public Sector Adoption"
+      ],
+      "text": "Future collaboration may involve teams like the Government Digital Service ( GDS ) and the Incubator for AI ( i.AI ) to develop and pilot AI tools across departments with the goal of accelerating AI adoption across the UK public sector."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Talent Ecosystem"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Talent Ecosystem"
+      ],
+      "text": "Cohere and DSIT will collaborate to cultivate homegrown and attract overseas AI talent as outlined in the AI Opportunities Action Plan , ensuring the UK builds and retains the expertise needed to drive future AI innovation."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Talent Ecosystem"
+      ],
+      "text": "Cohere will support DSIT ’s upcoming fellowship programmes, AI Pioneer and AI Global. The first upskills non- AI specialists in developing AI skills and knowledge to address a challenge-driven research problem in their domain, and the second enables overseas AI researchers to conduct frontier work in the UK."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Talent Ecosystem"
+      ],
+      "text": "As part of this, Cohere will provide fellows with access to their latest state-of-the-art models and expert support, enabling them to leverage cutting-edge AI to research and solve critical societal issues."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "AI Security"
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "AI Security"
+      ],
+      "text": "Cohere and the UK government will work together to advance the science, best practices, and standards in AI security for the benefit of the UK public and the UK AI industry."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "AI Security"
+      ],
+      "text": "This may include exploring research collaborations with the UK’s AI Security Institute ( AISI ) in areas such as societal resilience, deepening knowledge around evolving model capabilities and risks, and developing technological safeguards that can elevate safety standards for advanced AI ."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "AI Security"
+      ],
+      "text": "This may also involve collaborations across the UK public sector or the broader UK research and development ecosystem to accelerate scientific discovery and advance the state-of-the art in the safe and secure deployment of AI ."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Defence"
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Defence"
+      ],
+      "text": "Cohere and the UK government will work together to exchange good practice and explore opportunities to support ambitious, safe, and responsible adoption of AI in defence contexts."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Defence"
+      ],
+      "text": "This might include AI training and development, and informing the development of policy positions."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Defence"
+      ],
+      "text": "This memorandum is voluntary, not legally binding, and without prejudice to any binding agreements. It does not prejudice future procurement decisions."
+    }
+  ]
+}

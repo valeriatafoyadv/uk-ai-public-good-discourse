@@ -1,0 +1,762 @@
+{
+  "doc_id": "2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn",
+  "source_url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
+  "fetched_at": "2026-08-29T15:24:03.920863+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "AI Opportunities Action Plan: One Year On"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Foreword by the Prime Minister"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "A year ago, we launched the AI Opportunities Action Plan to set a clear direction for how Britain would harness Artificial Intelligence – not simply to respond to change, but to shape it and ensure this new technology benefits everyone."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "We did so because AI is progressing at extraordinary speed. It is already transforming healthcare and science, reshaping how people learn and work, and changing how public services are delivered. Done right, AI can drive productivity, create new opportunities in every part of the country, and make a tangible difference to everyday lives."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Our ambition is to make sure people have the skills and confidence to thrive in an AI -enabled economy, to modernise public services so they work better for citizens, and to build the economic foundations for long-term growth. One year on, we have moved decisively from ambition to delivery – including:"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Putting people first: We have begun the biggest skills drive in a generation – having worked with industry to deliver over one million AI courses towards our goal of upskilling 10 million workers by 2030. We launched flagship programmes like the Spärck AI scholarship and TechGrad undergraduate scholarships, alongside new apprenticeships and lifelong learning entitlements."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Rewiring the state: We’re embedding AI into frontline services. Through the AI Diagnostic Fund, one-third of NHS chest X-rays – or 2.4 million scans – are now AI -assisted, speeding up diagnoses and improving care. We have accelerated procurement processes and announced trials of AI tutoring tools to narrow the attainment gap."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "Supercharging the economy: We have designated 5 AI Growth Zones, unlocking investment and accelerating data centre buildout. We launched Isambard- AI in Bristol and committed £2 billion to expand UK compute capacity twentyfold by 2030. And through the Sovereign AI Unit , we have established up to £500 million worth of funding to back UK AI companies."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "These achievements will ensure we’re building the infrastructure for growth, embedding AI into services people rely on, and creating opportunities for workers and businesses."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "But there is much more to do. This year we will go further and faster, with the new AI Growth Zone Delivery Unit ensuring data centres are built quickly in the places they are needed most. We will take proven AI tools in public services – from diagnostics to planning to digital assistants – and scale them nationwide so people everywhere can benefit. And we will put the newly established Sovereign AI Unit to work, deploying its funding to help scale UK AI companies in critical parts of the value chain."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "This is a moment of opportunity – and of real responsibility. The choices we make now have the potential to benefit our economy, our public services, and people’s lives for many years to come. We must make sure these technologies work for everyone, supporting growth while upholding the highest standards of safety. That is the task we set ourselves a year ago. And that is what we are now delivering."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Prime Minister"
+      ],
+      "text": "The Rt Hon Keir Starmer KCB KC MP Prime Minister"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Foreword by the Secretary of State for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "We’re at a defining moment for Britain: our role in the world and our future prosperity. AI is now a key driver of economic strength and hard power. And it brings major opportunities - to grow the economy, create jobs and improve public services. This government is determined to seize this opportunity to deliver for Britain and the British people. As a government, our mission is to help people through the changes AI brings and shape a future that works for all, not just a few at the top. That is how our country – and its people – succeed."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "A year ago, the AI Opportunities Action Plan set out how we would build on our strengths and seize the opportunities of the future. Over the past twelve months we have already delivered against that ambition. We have now met 38 of the 50 actions – three-quarters of the Plan - and this update sets out what that means in practice."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "We have begun by laying the foundations on which Britain can lead and prosper as an AI nation. Compute and data are the engine room of modern AI , so we are building them here. 5 new AI Growth Zones across Great Britain are already unlocking billions of pounds of private investment, creating thousands of jobs and building the data centre capacity that will power AI ‑driven growth. The expansion of our AI Research Resource provides free public compute to Britain’s world-leading researchers, businesses and start-ups. The National Data Library ( NDL ) is unlocking high‑value government and public sector data responsibly, so we can speed up medical research, improve the efficiency of public services, and help British firms develop new AI ‑driven products and services. And we are determined to secure our future with more world-leading, homegrown AI . Our Sovereign AI Unit is backed by up to £500 million of government funding to invest in and support UK AI companies. We are ensuring that British researchers and entrepreneurs have the compute, capital and ecosystem they need to build world‑class businesses here."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "As the plan sets out, we need to embrace AI to change lives. This means integrating AI into public services - the NHS is already using AI to halve treatment time for stroke patients and speed up the diagnosis of prostate cancer, and we have launched world-leading trials of AI tutoring in schools to support learning outcomes and reduce teacher workload. It means supporting businesses to adopt AI , through initiatives like Innovate UK’s expanded BridgeAI programme, helping thousands of businesses put AI to work before the end of this Parliament. And it means initiatives such as the cross‑economy AI Growth Lab which create safe spaces to trial AI in real‑world settings, so that promising technologies can be deployed faster while risks are properly understood and managed."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "We will only succeed in winning for Britain if people have the confidence this technology is safe, and if we support people through the changes it brings. That is why we have established a new Future of Work Unit in Department for Science, Innovation and Technology ( DSIT ) to provide authoritative evidence on AI ’s impact on the labour market, lead action across government and ensure AI boosts jobs and growth while helping workers to adapt. And it is why, in a unique partnership with leading companies and public sector bodies, we have raised our ambition to upskill 10 million workers in AI skills by 2030 – with over 1 million AI upskilling courses already delivered."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "There is more to do. Our ambition is to make Britain the fastest adopting AI country in the G7 . Our mission is to shape the changes this technology brings and build a future that works for all."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "Foreword by the Secretary of State for Science, Innovation and Technology"
+      ],
+      "text": "The Rt Hon Liz Kendall MP Secretary of State for Department for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introduction"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "A year ago, we launched the AI Opportunities Action Plan to ensure the UK is effectively seizing the opportunities of AI . Throughout 2025, the government moved decisively from ambition to delivery. One year on, we have now met our commitments against 38 of the 50 actions – you can track our progress in detail at our public dashboard . This is delivery with purpose: putting people first, rewiring the state to improve public services, and supercharging the sectors that will drive long-term growth."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "This update focuses on tangible progress against our Action Plan commitments."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Section 1: Lay the foundations How we enabled data centre buildout through the designation of 5 AI Growth Zones, expanded public sector compute through Isambard- AI , begun to unlock priority public datasets via the National Data Library, and delivered 1 million free AI upskilling courses through industry partners."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Section 2: Change lives by embracing AI How we are rewiring the state – from launching a world-leading pilot of AI tutoring tools in schools to narrow the attainment gap, to hitting our target to scale AI diagnostic tools nationally."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Section 3: Secure our future with homegrown AI How - we are securing the UK’s stake in frontier AI through the Sovereign AI Unit – which has already started investing in creating data assets to support UK companies – such as the OpenBind consortium’s structural dataset to unlock AI -driven drug discovery."
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "Taken together, these measures show how the UK is not just keeping pace with the AI revolution – but actively shaping it – turning ambition into impact for citizens, business and the economy."
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "But there is much more to do, such as bringing AI Growth Zones from designation to delivery, operationalising the new UK Sovereign AI Unit – backed by up to £500 million, and taking public service AI tools to a truly national scale. We will continue to deliver at pace, to ensure Britain will continue not just to adapt to technological change, but to shape it in the public interest."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "1. Lay the foundations to enable AI"
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "1. Lay the foundations to enable AI"
+      ],
+      "text": "Building sufficient, secure and sustainable AI Infrastructure"
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Building sufficient, secure and sustainable AI Infrastructure"
+      ],
+      "text": "Compute is the essential foundation for modern AI : it is the processing capacity that enables models to be trained, tested and deployed at scale. Our national compute capacity will shape where cutting‑edge research happens, where high‑growth firms choose to locate, and how quickly new applications reach the public."
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Building sufficient, secure and sustainable AI Infrastructure"
+      ],
+      "text": "The UK Compute Roadmap sets out our plan to ensure Britain has the compute it needs – and, last year – we already started to deliver against it. In particular:"
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Building sufficient, secure and sustainable AI Infrastructure"
+      ],
+      "text": "We launched AI Growth Zones – backed by new reforms to planning and energy access, including energy discounts for AI Growth Zones in Scotland and North East England. The government designated 5 AI Growth Zones across Great Britain, including 2 in Wales and one in Scotland – generating £28.2 billion in investment, creating more than 15,000 jobs, and providing £5 million of targeted funding for each zone to drive adoption at the local level. Looking forward, the priority will be to designate a small number of additional AI Growth Zones. The AI Growth Zone Delivery Unit will broker power, planning and offtake across the first wave of Zones to support build out of the AI data centre capacity the UK needs."
+    },
+    {
+      "block_id": "b034",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Building sufficient, secure and sustainable AI Infrastructure"
+      ],
+      "text": "We launched the AI Research Resource and switched on Isambard- AI . The government is already making good on the Action Plan commitment to expand public sector compute by 20x. We launched Isambard- AI supercomputer at Bristol University in July 2025 and earmarked up to £250 million to scale up cloud capacity for the AI Research Resource. In January 2026, the government confirmed it will also procure to increase the supercomputer capacity at the University of Cambridge – already home to the DAWN supercomputer – sixfold by Spring 2026."
+    },
+    {
+      "block_id": "b035",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Building sufficient, secure and sustainable AI Infrastructure"
+      ],
+      "text": "We are expanding our compute in a sustainable and secure way – which is why we’re positioning our AI Growth Zones near renewable power, such as the new Small Modular Reactors ( SMRs ) in North Wales, and a new micro-grid in Lanarkshire. Similarly, the Department for Science, Innovation and Technology ( DSIT ), the AI Security Institute ( AISI ) and the National Cyber Security Centre ( NCSC ) have established a new research programme into the development of secure AI computing systems to ensure Britain’s data remains safe and secure"
+    },
+    {
+      "block_id": "b036",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "1. Lay the foundations to enable AI"
+      ],
+      "text": "Unlocking data assets in the public and private sector"
+    },
+    {
+      "block_id": "b037",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "Data determines what problems AI can solve, which firms can compete, and how quickly new tools reach citizens and public services. The government is treating data as a strategic national asset – something to be curated, made more widely accessible, and combined with compute. Last year, we completed the following:"
+    },
+    {
+      "block_id": "b038",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "We backed the National Data Library ( NDL ) with over £100 million at Spending Review 2025 . The NDL will shape what data government collects and how it is managed. It is creating high value public sector data assets, has published clear guidelines for making government datasets AI -ready, and has launched its first in a series of open calls for data proposals from researchers and industry to better understand demand for public sector data."
+    },
+    {
+      "block_id": "b039",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "We began to unlock high impact public datasets for AI use . This includes:"
+    },
+    {
+      "block_id": "b040",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "the launch of the Health Data Research Service ( HDRS ): the government and Wellcome have committed up to £600 million to create a secure, single access point to regional and national scale health datasets. The service will be led by healthcare innovator Dr Melanie Ivarsson, who was appointed as CEO in January 2026, with Baroness Nicola Blackwood appointed as Chair in November 2025"
+    },
+    {
+      "block_id": "b041",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "development of the AI Education Content Store : a curated curriculum and assessment corpora to make AI more accurate for teachers"
+    },
+    {
+      "block_id": "b042",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "We paired data and compute at Isambard- AI (Bristol) and the Edinburgh Parallel Computing Centre. Isambard‑ AI will be linked to a new “British Library for the AI age” data facility, and the next national supercomputer – backed by £750 million of government funding – will be coupled to the International Data Facility at the Edinburgh Parallel Computing Centre. Ensuring researchers can access major datasets directly alongside public compute will let researchers run advanced AI models on large proprietary datasets in a secure environment – for instance, high-impact health datasets to improve medical and drug discovery."
+    },
+    {
+      "block_id": "b043",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "We are also unlocking high‑value private and research data . This includes:"
+    },
+    {
+      "block_id": "b044",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "the Creative Content Exchange – - announced in June 2025, and now in pilot phase with 12 leading cultural institutions including The National Archives, Natural History Museum and Royal Armouries. The scheme creates a marketplace to sell, buy, license and enable permitted access to digitised cultural and creative assets enabling them to be licensed at scale."
+    },
+    {
+      "block_id": "b045",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Unlocking data assets in the public and private sector"
+      ],
+      "text": "enacting the Data (Use and Access) Act 2025 – providing government with new powers to establish Smart Data schemes, allowing consumers and businesses to share data securely to access better, more tailored products and services. These schemes can help households manage their finances and secure better deals, improve SME access to finance, and speed up transactions. We are investing £36 million to support the development of new Smart Data schemes across the economy."
+    },
+    {
+      "block_id": "b046",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "1. Lay the foundations to enable AI"
+      ],
+      "text": "Developing top AI talent and upskilling the nation"
+    },
+    {
+      "block_id": "b047",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "We’re building the next generation of AI talent and closing the UK’s AI skills gap at scale – upskilling 10 million workers by 2030, reforming the computing curriculum and related courses, and attracting the best in global talent. In particular:"
+    },
+    {
+      "block_id": "b048",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "We have worked with industry partners to deliver over 1 million free AI courses to workers across the UK in partnership with leading AI companies, and launched the AI Skills Boost platform to provide free AI learning nationwide, expanding the programme to provide 10 million workers with key AI skills by 2030."
+    },
+    {
+      "block_id": "b049",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "We have committed £187 million to TechFirst – the government’s flagship tech skills programme opening pathways into the tech sector. As part of this, we have already:"
+    },
+    {
+      "block_id": "b050",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "committed £7.8 million to the TechLocal : AI Professional Degree and Traineeship Accelerator to help universities develop and deliver hands-on, industry-relevant AI education and AI graduate traineeships."
+    },
+    {
+      "block_id": "b051",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "launched TechGrad undergraduate scholarships work placements in AI and related frontier industries, starting recruitment of up to 350 high potential UK students for the first scholarship cohort in 2026. The government will scale to support up to 900 students a year from 2026/2027."
+    },
+    {
+      "block_id": "b052",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "launched the flagship Spärck AI scholarship to attract and retain world-leading talent, providing full tuition and stipends for hundreds of exceptional master’s students across 9 leading UK universities."
+    },
+    {
+      "block_id": "b053",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "We have also expanded the UK’s ability to attract global talent . We have created a dedicated AI sourcing function in government, designed to operate at the level of top-tier search firms. Staffed by experienced talent operators from organisations such X and Google DeepMind, the function has scaled AI Security Institute ( AISI ) to over 100 technical staff – including alumni from OpenAI, Google DeepMind, Anthropic, Meta, Cohere, and Palantir."
+    },
+    {
+      "block_id": "b054",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "In January 2026 , we also announced a doubling in resourcing of the Global Talent Taskforce – bringing in specialist private sector head-hunting expertise, establishing new functions to support individuals to relocate and companies to set up UK offices at pace, and emboldening its concierge offer to the world’s elite talent. This work is starting with a dedicated focus on international AI talent. Researchers and academics in sectors such as AI will also benefit from visa fee reimbursements, so they can more easily come to the UK and drive innovation. In addition, we have made significant progress delivering Immigration White Paper commitments to strengthen targeted immigration routes – including by expanding the High Potential Individual, Innovator Founder, and Global Talent immigration routes."
+    },
+    {
+      "block_id": "b055",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Developing top AI talent and upskilling the nation"
+      ],
+      "text": "Recognising that AI will reshape the world of work, we have also launched an AI and Future of Work programme , to be delivered by a new cross-government unit . Backed by a panel of experts from business and trade unions, the unit will provide the best analysis and evidence on AI ’s impact on the economy and labour market to provide timely advice on when new policies should be implemented across government. It will ensure the AI transition boosts economic growth, supports workers to adapt, protects communities from the mistakes of past industrial change, and delivers a fair, dignified future of work for everyone, where people are supported into better jobs in a more productive economy."
+    },
+    {
+      "block_id": "b056",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "1. Lay the foundations to enable AI"
+      ],
+      "text": "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+    },
+    {
+      "block_id": "b057",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "Safe and trusted AI is a precondition for growth and public service transformation. Over the past year, the government has built out a world‑leading AI security institute, updated regulation, and is creating an assurance ecosystem so that advanced AI can be developed and deployed with confidence."
+    },
+    {
+      "block_id": "b058",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "We backed the AI Security Institute ( AISI ) with £240 million at Spending Review 2025 to expand work on frontier model testing, foundational safety and societal resilience."
+    },
+    {
+      "block_id": "b059",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "AISI now has over 100 researchers, has tested 30 frontier models, and is producing a systematic evidence base on how capabilities and risks are evolving."
+    },
+    {
+      "block_id": "b060",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "Its Frontier AI Trends Report , 10 peer-reviewed papers at NeurIPS 2025, a landmark study on AI ‑driven persuasion in Science , and the international Alignment Project have cemented AISI ’s role as a global reference point for AI safety."
+    },
+    {
+      "block_id": "b061",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "By chairing the International Network for AI Measurement, Evaluation and Science , AISI is also shaping global standards, amplifying the UK’s influence on how advanced systems are evaluated and controlled."
+    },
+    {
+      "block_id": "b062",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "We have also taken steps to build the AI assurance ecosystem that underpins safe deployment. The Trusted Third‑Party AI Assurance Roadmap , an £11 million AI Assurance Innovation Fund, and the new Centre for AI Measurement at the National Physical Laboratory are helping to create a domestic market for trusted assurance services and global standards for testing, verification and validation."
+    },
+    {
+      "block_id": "b063",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "The first round of the AI Assurance Innovation Fund will open for applications in Spring 2026. To drive AI adoption, we will also explore opportunities for the fund to support the work of the UK’s AI Adoption Hubs by providing funding to pilot innovative assurance solutions alongside cutting-edge AI technologies."
+    },
+    {
+      "block_id": "b064",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "We have worked with regulators to enable safe AI innovation and promote adoption. This includes:"
+    },
+    {
+      "block_id": "b065",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "building sandboxes – the government launched a call for evidence for the AI Growth Lab - a pioneering cross-economy sandbox that would supervise the deployment of responsible AI -enabled products that current regulation hinders. And many regulators are already innovating to get responsible AI to citizens, faster. For instance, the Medicines and Healthcare products Regulatory Agency ( MHRA ) has launched of Airlock phase 2 – a regulatory sandbox addressing challenges arising when regulating AI as a medical device. The second phase will include clinical AI assistant technologies that help doctors with paperwork and notes and provide medical advice or suggest diagnoses. The Financial Conduct Authority ( FCA ) has also launched the ‘ Supercharged Sandbox’ in collaboration with Nvidia which provides firms with access to better data, technical expertise and regulatory support to speed up innovation particularly in the discovery and experimentation phase of development."
+    },
+    {
+      "block_id": "b066",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "providing additional funding for regulators – including through the £3.6 million AI Capability Fund and £8.9 million Regulators’ Pioneer Fund – which help regulators develop capability in AI ."
+    },
+    {
+      "block_id": "b067",
+      "structural_position": "body",
+      "heading_path": [
+        "1. Lay the foundations to enable AI",
+        "Enabling safe and trusted AI development and adoption through regulation, safety and assurance"
+      ],
+      "text": "Following strategic guidance issued by the government this year, regulators will publish a plan setting out how they will enable safe AI -powered innovation and begin to report on this annually."
+    },
+    {
+      "block_id": "b068",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "2. Change lives by embracing AI"
+    },
+    {
+      "block_id": "b069",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "2. Change lives by embracing AI"
+      ],
+      "text": "Accelerating AI adoption in government"
+    },
+    {
+      "block_id": "b070",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "AI has the power to transform public services and bring tangible benefits to citizens. Previous governments started piloting AI , but this government has laid the foundations to begin properly scaling products across 2026 and beyond. Over the past year:"
+    },
+    {
+      "block_id": "b071",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we scaled Minute , an AI -powered scribe for government meetings to support 1000 officials in 22 local authorities. Minute is improving public sector productivity, reducing the hours needed to process and summarise meetings, and is being developed as a live service for all local authorities by MHCLG’s Local AI programme"
+    },
+    {
+      "block_id": "b072",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we developed Extract , a tool that rapidly processes planning documents into data, to accelerate the delivery of much-needed housing. This is expected to be made available to all councils by Spring 2026, freeing up thousands of hours for planning in councils. This will improve reliability in the planning process and reduce costs and save time for councils and developers"
+    },
+    {
+      "block_id": "b073",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we are funding an AI tool to reduce processing times in planning, initially aiming to cut the time for the most straightforward applications by 50%, with a longer‑term ambition of near‑instant decisions. In November 2025, we published a tender for an AI augmented decision-making tool for planners. We have set the target to scale to regional‑scale trials by May 2026, ready for national scale‑up in 2027"
+    },
+    {
+      "block_id": "b074",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we have announced trials of AI tutoring tools . By March 2026, we will launch tenders and partnership work for co-creation and in-school trials of AI to develop AI -powered tools to support learning and reduce teacher workload. The objective is to improve attainment and narrow the disadvantage gap. These tools could support up to 450,000 children on free school meals in years 9 to 11 to access one to one tutoring"
+    },
+    {
+      "block_id": "b075",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "Government purchasing power is a huge lever, and this government has the ambition to be a great customer by partnering with industry, particularly start-ups, to can improve public services. Over the past year:"
+    },
+    {
+      "block_id": "b076",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we have developed AI Accelerator Tenders to accelerate procurement and enable the build out of regional scale products in 6 months"
+    },
+    {
+      "block_id": "b077",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "we have established an AI scan function in the Incubator for AI ( i.AI ) which speeds up procurement by providing a single front door to companies"
+    },
+    {
+      "block_id": "b078",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in government"
+      ],
+      "text": "from January 2026, we have developed a clear AI Commercial Strategy , which prioritises buying from the market and innovating through challenge-led procurement"
+    },
+    {
+      "block_id": "b079",
+      "structural_position": "section_heading",
+      "heading_path": [
+        "2. Change lives by embracing AI"
+      ],
+      "text": "Accelerating AI adoption in the private sector"
+    },
+    {
+      "block_id": "b080",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in the private sector"
+      ],
+      "text": "Over the past year, the government has established a coordinated, economy‑wide approach to private sector adoption, putting sector leadership in place, and backing regions and SMEs to use AI to boost productivity and create better jobs."
+    },
+    {
+      "block_id": "b081",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in the private sector"
+      ],
+      "text": "We launched the Modern Industrial Strategy in June 2025 which sets out how AI can drive productivity and competitiveness across 8 priority sectors, from digital and technologies to advanced manufacturing, financial services and life sciences – backed by 8 AI Sector Champions. The Industrial Strategy is backed by funding commitments including:"
+    },
+    {
+      "block_id": "b082",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in the private sector"
+      ],
+      "text": "£150 million for 6 transformative AI and technology programmes , including additional help for to professional and business services adopt AI most effectively."
+    },
+    {
+      "block_id": "b083",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in the private sector"
+      ],
+      "text": "£40 million for a new network of Robotics Adoption Hubs and an expansion of the Made Smarter adoption programme."
+    },
+    {
+      "block_id": "b084",
+      "structural_position": "body",
+      "heading_path": [
+        "2. Change lives by embracing AI",
+        "Accelerating AI adoption in the private sector"
+      ],
+      "text": "At Autumn Budget 2025 , the government set out plans to expand Innovate UK’s BridgeAI programme across priority sectors, providing nationwide access to tailored guidance, funding and expertise to de‑risk and accelerate AI deployment which will support thousands of businesses to adopt AI before the end of this Parliament."
+    },
+    {
+      "block_id": "b085",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "3. Secure our future with homegrown AI"
+    },
+    {
+      "block_id": "b086",
+      "structural_position": "body",
+      "heading_path": [
+        "3. Secure our future with homegrown AI"
+      ],
+      "text": "To maximise the UK’s stake in frontier AI , the government established the Sovereign AI Unit to build the UK’s AI capabilities and support high-growth AI companies in the UK. Over its first year, the unit has:"
+    },
+    {
+      "block_id": "b087",
+      "structural_position": "body",
+      "heading_path": [
+        "3. Secure our future with homegrown AI"
+      ],
+      "text": "allocated sovereign compute to support AI researchers and high-growth start-ups to conduct groundbreaking work in the UK, including the University of Cambridge’s MACE (a materials foundation model for atomistic simulations and discovery)"
+    },
+    {
+      "block_id": "b088",
+      "structural_position": "body",
+      "heading_path": [
+        "3. Secure our future with homegrown AI"
+      ],
+      "text": "invested in creating data assets to support UK companies, including providing £8 million seed funding for the OpenBind consortium’s structural dataset to unlock AI -driven drug discovery"
+    },
+    {
+      "block_id": "b089",
+      "structural_position": "body",
+      "heading_path": [
+        "3. Secure our future with homegrown AI"
+      ],
+      "text": "scaled Pillar VC and ARIA’s Encode Fellowship to increase the concentration of top AI talent and venture capital ecosystem in the UK"
+    },
+    {
+      "block_id": "b090",
+      "structural_position": "body",
+      "heading_path": [
+        "3. Secure our future with homegrown AI"
+      ],
+      "text": "The government will launch the next phase of the Sovereign AI Unit in April 2026 . Backed by up to £500 million, the unit will be chaired by James Wise (Balderton Capital) and delivered by the Department of Science, Innovation and Technology, and will invest in and support UK AI companies to become world leading in critical parts of the AI value chain."
+    }
+  ]
+}

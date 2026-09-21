@@ -1,0 +1,198 @@
+{
+  "doc_id": "2026-01-20_STRAT_GDS_RoadmapModernDigitalGov",
+  "source_url": "https://roadmap-for-modern-digital-government.campaign.gov.uk/",
+  "fetched_at": "2026-08-29T15:24:05.065350+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "A roadmap for modern digital government"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Our plan to build a modern digital government that works for you – making life easier, driving growth and delivering smarter, more efficient public services"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Message from the Secretary of State"
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "When we came into government, the Prime Minister made a commitment to the British people that politics should tread lightly on people’s lives."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "For the sleep-deprived parent, trying to sort childcare. The homeowner, getting planning permission. The worried patient, booking a doctor’s appointment. Life is busy, and our role as a government should be to carry the burden in these moments, not add to it. Renewing public services means ensuring they’re shaped by, and accountable to, the people who use them."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "This plan sets out how we do that: by embracing AI, removing outdated IT, and strengthening our cyber resilience, in the face of new threats."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "It’s our roadmap to make the everyday interactions you have with government simpler, faster and more personal. So you can manage your health records, appointments and prescriptions, all in one place. So you can quickly do your taxes, check your car’s MOT status, or renew your driving licence online. And ultimately, to put power and control back in your hands, when you use any government service."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "This is a collective effort across government, and I want to thank the digital, data and technology leaders whose work has shaped this plan. Together, we’re building a more agile, productive and inclusive state, fit for the future."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "The Rt Hon Liz Kendall MP, Secretary of State for Science, Innovation and Technology"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "Read more about the roadmap and how we’re tracking progress"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Message from the Secretary of State"
+      ],
+      "text": "Read our first quarterly progress summary"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "The roadmap for modern digital government"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Join up public sector services"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Join up public sector services"
+      ],
+      "text": "We’re redesigning how we deliver services for people and businesses by setting high standards and working together as one public sector."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Harness the power of AI for the public good"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Harness the power of AI for the public good"
+      ],
+      "text": "We’re promoting responsible AI adoption and strengthening skills across government to create more inclusive, accessible and productive public services that work for everyone."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Strengthen and extend our digital and data public infrastructure"
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Strengthen and extend our digital and data public infrastructure"
+      ],
+      "text": "We’re building a safe and secure digital public infrastructure that provides a platform for teams across the public sector to drive growth and innovation."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Elevate leadership, invest in talent"
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Elevate leadership, invest in talent"
+      ],
+      "text": "We’re building a future-ready public sector by strengthening digital leadership, improving pay and career paths for specialists and giving all civil servants the skills they need to thrive in a digital age."
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Fund for outcomes, procure for growth and innovation"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Fund for outcomes, procure for growth and innovation"
+      ],
+      "text": "We’re transforming how we fund, buy and manage technology so that public money delivers the best possible outcomes for people who rely on government services."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "pillar_name",
+      "heading_path": [
+        "The roadmap for modern digital government"
+      ],
+      "text": "Commit to transparency, drive accountability"
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "The roadmap for modern digital government",
+        "Commit to transparency, drive accountability"
+      ],
+      "text": "We’re changing how we work to build trust by making government more open, accountable and focused on what matters to the public."
+    }
+  ]
+}

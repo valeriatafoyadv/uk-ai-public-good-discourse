@@ -1,0 +1,246 @@
+{
+  "source_url": "https://dataingovernment.blog.gov.uk/2025/05/27/is-it-possible-to-build-responsible-ai-tools-in-human-resources/",
+  "fetched_at": "2026-09-10T15:58:03.995208+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Is it possible to build responsible AI tools in human resources?"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In an era where Artificial Intelligence (AI) is increasingly assisting people in the workplace, it is essential that any new technology is introduced in an ethical and responsible manner. This includes being mindful of the risks of biased outputs and ensuring that human judgement remains central to critical decision-making processes."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The IDEA Unit, part of the Data Directorate in the Government Digital Service (GDS), is actively identifying opportunities to embed AI and automation tools across other teams within GDS. This initiative aims to equip public servants with enhanced tools to support their work, in line with the six-point plan of the Blueprint for modern digital government ."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In 2024, we were approached by GDS’ Capability Team seeking assistance in how they collected and managed their project data, as well as exploring whether AI could be employed to streamline a time-consuming search task."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "This team leads career development conversations for Senior Civil Servants (SCS) in the digital and data profession throughout government and collaborates with their line managers to assist in shaping career development pathways."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Our team recognises the challenges associated with handling sensitive data, particularly in Human Resource (HR), and has contributed to the AI Playbook for the UK Government to share guidance on the responsible use of AI."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In December 2024 we published an Algorithmic Transparency Recording Standard (ATRS) record outlining the AI solution we had built."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "In this blog, we demonstrate that prioritising the risks associated with AI during data science development and testing allowed the creation of a useful and responsible tool using a Large Language Model (LLM), even in a business area as sensitive as HR."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Identifying the need for change"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Identifying the need for change"
+      ],
+      "text": "We reviewed the existing manual processes for how career data on SCS was being collected and used to assess people’s suitability for vacant digital roles, so they could be informed of potential career development opportunities. This analysis revealed an opportunity for us to assist our Capability colleagues in achieving significant efficiency savings."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Responsible development"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "Principle 4 of the AI Playbook addresses decision-making and emphasises the importance of maintaining ‘meaningful human control at the right stages’. To uphold this principle, we committed to the following:"
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "A human would always retain the ability and responsibility for decision-making, ensuring that the process remained transparent. All information and insights underpinning AI outputs would be accessible to the user"
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "AI would be deployed only where justified and could deliver significant benefits, concentrating on processes where its capabilities are most suitable"
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "AI would not irreversibly replace any part of the process; the option to resort to existing manual activities would always remain available if needed"
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "To address other ethical considerations we ensured that:"
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "Any use of personal data was pseudo-anonymised to protect individual privacy."
+    },
+    {
+      "block_id": "b018",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "Prompt engineering incorporated measures to mitigate bias, fostering fairness in AI outputs."
+    },
+    {
+      "block_id": "b019",
+      "structural_position": "body",
+      "heading_path": [
+        "Responsible development"
+      ],
+      "text": "Testing was conducted to detect and address potential bias within the system."
+    },
+    {
+      "block_id": "b020",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Succession Select: AI that supports rather than replaces"
+    },
+    {
+      "block_id": "b021",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "The team developed a tool called Succession Select, utilising a LLM in a multi-step process. Here’s how it works:"
+    },
+    {
+      "block_id": "b022",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "Create ideal candidate description : When searching for suitable candidates, Succession Select first creates an ideal candidate career description based on the role’s requirements, serving as a benchmark for fair comparison. This description is informed by the LLM’s training data which includes typical job titles, skills, and responsibilities across various levels of seniority in a wide range of job roles."
+    },
+    {
+      "block_id": "b023",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "Match candidates : The tool then compares this idealised description against an authorised database of pseudo-anonymised profiles from Senior Civil Servants to identify potential matches. It evaluates factors such as career history, skills and grade, returning to the user a long list of career profiles that are relevant to the specific role vacancy."
+    },
+    {
+      "block_id": "b024",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "Provide suggestion shortlist : Finally, Succession Select generates a shortlist of candidates for human review, summarising each candidate’s profile and detailing why they could be a good fit for the role, alongside any concerns or issues (such as lack of experience in a specific area or length of time in post)."
+    },
+    {
+      "block_id": "b025",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "This streamlined process helps the team to now focus their efforts on assessing candidate suitability, rather than sifting through data to find matching keywords. Additionally, by using a systematic data-driven process, Succession Select promotes a more impartial and unbiased method for internal candidate suggestions."
+    },
+    {
+      "block_id": "b026",
+      "structural_position": "body",
+      "heading_path": [
+        "Succession Select: AI that supports rather than replaces"
+      ],
+      "text": "One user highlighted the transformative impact of the tool: \"AI is transforming our internal processes by moving us from manual searching to strategic engagement with the best-fit talent. It enables faster identification of internal candidates by using data on skills, experience, and aspirations - giving us more time to focus on career development and decision-making.\""
+    },
+    {
+      "block_id": "b027",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Looking ahead"
+    },
+    {
+      "block_id": "b028",
+      "structural_position": "body",
+      "heading_path": [
+        "Looking ahead"
+      ],
+      "text": "The improved data pipeline we have established is now fully integrated into the customer’s workflow. The Succession Select search tool is regularly used to identify individuals across government to support important career conversations."
+    },
+    {
+      "block_id": "b029",
+      "structural_position": "body",
+      "heading_path": [
+        "Looking ahead"
+      ],
+      "text": "The IDEA unit continues to manage the tool, with plans to enhance the user experience by making it more intuitive and streamlined. Additionally, there are plans to expand the dataset to include more detailed career information, which will improve the accuracy of its suggestions."
+    },
+    {
+      "block_id": "b030",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Empowering government digital reform"
+    },
+    {
+      "block_id": "b031",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering government digital reform"
+      ],
+      "text": "The introduction of Succession Select illustrates that, by understanding the associated risks, AI can be successfully integrated into business workflows in a manner that supports rather than replaces human input. This approach ensures that the incorporation of AI is both responsible and transparent, enhancing productivity while maintaining essential human oversight."
+    },
+    {
+      "block_id": "b032",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering government digital reform"
+      ],
+      "text": "Read more about Succession Select via its Algorithmic Transparency Recording Standard (ATRS) record. There you will also find the ATRS record for our other AI tool, a chatbot called AskOps ."
+    },
+    {
+      "block_id": "b033",
+      "structural_position": "body",
+      "heading_path": [
+        "Empowering government digital reform"
+      ],
+      "text": "Read the AI Playbook for the UK Government to see the framework and principles which guide safe, responsible and effective use of AI in government organisations.Join the Artificial Intelligence community of practice to connect with people interested in AI across government, attend the monthly meet-ups and receive newsletters with all the latest AI news from across government."
+    }
+  ],
+  "doc_id": "2025-05-27_BLOG_DataInGov_ResponsibleAIHR_"
+}

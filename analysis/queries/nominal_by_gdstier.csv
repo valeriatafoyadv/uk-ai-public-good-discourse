@@ -1,0 +1,5 @@
+gds_tier,docs_present,docs_variant,docs_absent,total_nominal_mentions,total_variant_mentions
+T1,7,0,8,26,9
+T2,5,5,13,12,12
+T3,4,2,22,11,5
+# gds_tier auto-assigned, provisional

@@ -1,0 +1,11 @@
+{
+  "doc_id": "2025-02-10_STRAT_GDS_AIPlaybookUKGovernment",
+  "fetch_status": "ok",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "final_url": "https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html",
+  "sha256": "5b0d320cf1f8a838eefb452dd495d2aadc43c3e9270d8160bd49f6c789c23d2a",
+  "bytes": 673902,
+  "n_blocks": 1123,
+  "error": null
+}

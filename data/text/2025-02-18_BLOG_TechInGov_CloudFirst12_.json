@@ -1,0 +1,116 @@
+{
+  "source_url": "https://technology.blog.gov.uk/2025/02/18/governments-cloud-first-policy-is-12/",
+  "fetched_at": "2026-09-10T15:58:06.039862+01:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Government’s Cloud First Policy is 12!"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "Two landmark publications: the State of Digital Government Review , and the blueprint for modern digital government are clear - cloud technology is helping to reshape how government works."
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "With the blueprint setting out the long-term vision, and with the Government Cloud First policy turning 12, we thought it was a good time to reflect on the successes, the challenges and our current focus."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "body",
+      "heading_path": [],
+      "text": "The objective of the Government Cloud First policy is that government departments and public organisations should use public cloud services as their first choice when buying IT services. This rule must be followed by central government and is strongly encouraged for other public sector organisations. The aim is for us to spend less time provisioning technology and more time improving public services."
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Cloud technology has helped us improve our public services"
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Cloud technology has helped us improve our public services"
+      ],
+      "text": "The State of Digital Government Review found that about 60% of UK government and public sector IT systems are run on cloud services. This is a good percentage when compared to big private companies and other countries, and we now have lots of experience of cloud helping departments to deliver services."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "body",
+      "heading_path": [
+        "Cloud technology has helped us improve our public services"
+      ],
+      "text": "The Ministry of Justice (MoJ) has used the Cloud to simplify its operations, enhance internal collaboration, and reduce reliance on legacy systems. They have created a data and analytics platform that serves over 500 professionals daily with data from diverse sources; ranging from legacy databases to modern digital services."
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Cloud technology has helped us improve our public services"
+      ],
+      "text": "While this shift has delivered better public services, cost savings and improved security, it's not without its hurdles. Departments are grappling with the complexities of moving their remaining legacy systems, addressing skills shortages, and managing security concerns."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Our focus now"
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "What we are doing"
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "Coordinating professional development opportunities so that Government Digital and Data professionals have access to low (or zero) cost training and certification programmes such as the AWS Solutions architect Profession bootcamp, Microsoft’s Cross Platforms Hero’s, the Oracle University. Read more about the Get Cloud Certified this autumn programme we ran last year as a good example of the training on offer."
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "Supporting under-represented groups in technology with initiatives like the AWS CloudUp for Her pilot and Microsoft’s TechHer for Government."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "Working with cloud service providers to offer consistently secure, well-architected cloud environments that can be rapidly deployed and consumed. We want to ensure all elements of the public sector can access their services and benefit from enhanced deals and cost savings."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "Looking to connect and strengthen the communities of cloud practitioners that have emerged across the public sector. We will hold regular events with key partners and suppliers to share knowledge and best practice."
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Our focus now"
+      ],
+      "text": "More information and resources to support your organisations’ cloud journey are available in the new GOV.UK collection : Cloud Guidance for the public sector , and by contacting the GDS Cloud Strategy mailbox ."
+    }
+  ],
+  "doc_id": "2025-02-18_BLOG_TechInGov_CloudFirst12_"
+}

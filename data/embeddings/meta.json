@@ -1,0 +1,13 @@
+{
+ "model": "embeddinggemma",
+ "dim": 768,
+ "n_sections": 538,
+ "normalisation": "L2",
+ "truncation_chars": 1500,
+ "lexicon_version": 1,
+ "probes": [
+  "AI should deliver benefits for every citizen and improve ordinary people's lives",
+  "technology in government must serve the public and society as a whole",
+  "the gains from artificial intelligence must be shared across the whole country"
+ ]
+}

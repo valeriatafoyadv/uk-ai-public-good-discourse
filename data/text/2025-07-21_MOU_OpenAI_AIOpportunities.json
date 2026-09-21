@@ -1,0 +1,132 @@
+{
+  "doc_id": "2025-07-21_MOU_OpenAI_AIOpportunities",
+  "source_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+  "fetched_at": "2026-08-29T15:24:05.260918+00:00",
+  "format": "html",
+  "blocks": [
+    {
+      "block_id": "b001",
+      "structural_position": "title",
+      "heading_path": [],
+      "text": "Memorandum of Understanding between UK and OpenAI on AI opportunities"
+    },
+    {
+      "block_id": "b002",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Introduction"
+    },
+    {
+      "block_id": "b003",
+      "structural_position": "body",
+      "heading_path": [
+        "Introduction"
+      ],
+      "text": "This Memorandum of Understanding ( MoU ) outlines the shared intent of the Department for Science, Innovation and Technology ( DSIT ) and OpenAI to establish strategic partnerships that accelerate AI -driven economic growth and deliver opportunities to materially improve people’s lives throughout the UK."
+    },
+    {
+      "block_id": "b004",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 1: the transformative potential of AI"
+    },
+    {
+      "block_id": "b005",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1: the transformative potential of AI"
+      ],
+      "text": "AI has the potential to be the most transformative technology of our time—capable of changing how people live, learn, work, and access public services. In the hands of UK citizens, AI will be a powerful tool to drive productivity, accelerate discovery, and create opportunity. AI will also be harnessed to address society’s greatest challenges, which means building from the ground up and engaging the public to build trust in the technology, ensuring it delivers for all."
+    },
+    {
+      "block_id": "b006",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 1: the transformative potential of AI"
+      ],
+      "text": "DSIT and OpenAI share a vision for building on the UK’s strengths in science, innovation and talent, to maintain a world-leading UK AI ecosystem rooted in democratic values. Following the ambition set out in the AI Opportunities Action Plan, this partnership will support the UK’s goal to build sovereign AI in the UK: ensuring that the UK continues to drive critical AI research and participates actively in development of this unique technology."
+    },
+    {
+      "block_id": "b007",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 2: public and private sector adoption"
+    },
+    {
+      "block_id": "b008",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2: public and private sector adoption"
+      ],
+      "text": "OpenAI and DSIT will collaborate to identify opportunities for how advanced AI models can be deployed throughout government and the private sector, to help civil servants work more efficiently, and to support small businesses and citizens to navigate public services more effectively."
+    },
+    {
+      "block_id": "b009",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2: public and private sector adoption"
+      ],
+      "text": "This collaboration may include cross-departmental initiatives designed to develop sovereign solutions to the UK’s hardest problems, including in areas such as justice, defence and security, and education technology. This means demonstrating best use of cutting-edge technology in the UK and creating resources to support the UK AI developer and startup ecosystem."
+    },
+    {
+      "block_id": "b010",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 2: public and private sector adoption"
+      ],
+      "text": "The partnership may also include exploring how AI can be deployed in the public sector in line with the UK’s safety standards and guidelines, tailored AI skills workshops, and partnerships to expand public engagement with AI technology to seek and implement feedback."
+    },
+    {
+      "block_id": "b011",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 3: infrastructure"
+    },
+    {
+      "block_id": "b012",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3: infrastructure"
+      ],
+      "text": "OpenAI will work with DSIT to identify potential routes to deliver the infrastructure priorities laid out in the AI Opportunities Action Plan , recognising the importance of UK sovereign capability in achieving the economic benefits of AI ."
+    },
+    {
+      "block_id": "b013",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 3: infrastructure"
+      ],
+      "text": "This may include exploring OpenAI’s participation in AI Growth Zones, and other collaborative efforts to strengthen the UK’s capabilities in training, evaluating, and deploying next-generation models. We may also explore avenues to develop state-of-the-art, AI -enabled R&D infrastructure in the UK, focused on shared areas of strategic interest."
+    },
+    {
+      "block_id": "b014",
+      "structural_position": "section_heading",
+      "heading_path": [],
+      "text": "Section 4: technical information exchange"
+    },
+    {
+      "block_id": "b015",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4: technical information exchange"
+      ],
+      "text": "OpenAI and the UK government will collaborate to improve understanding of capabilities and security risks, and to mitigate those risks."
+    },
+    {
+      "block_id": "b016",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4: technical information exchange"
+      ],
+      "text": "This may include expanding the existing partnership between OpenAI and the UK AI Security Institute to include the development of a new technical information sharing programme, partnering to deepen knowledge across government around evolving model capabilities and risks, exploring safety research collaborations, and partnering to develop safeguards that protect the public and uphold democratic values."
+    },
+    {
+      "block_id": "b017",
+      "structural_position": "body",
+      "heading_path": [
+        "Section 4: technical information exchange"
+      ],
+      "text": "This memorandum is voluntary, not legally binding, and without prejudice to any binding agreements. It does not prejudice against future procurement decisions."
+    }
+  ]
+}

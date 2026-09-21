@@ -1,0 +1,67 @@
+doc_id,Genre,Speaker,Side,Family,GDSTier,Stage,TermStatus,Year
+2024-01-18_STRAT_CDDO_GenerativeAIFramework,STRAT,CDDO,Public,None,T1,,present,2024
+2024-02-06_REG_DSIT_ProInnovationAIRegulation,REG,DSIT,Public,None,T3,,present,2024
+2025-01-13_STRAT_DSIT_AIActionPlanGovResponse,STRAT,DSIT,Public,None,T2,,variant,2025
+2026-01-29_STRAT_DSIT_AIActionPlanOneYearOn,STRAT,DSIT,Public,None,T2,,variant,2026
+2025-01-12_PRGOV_PMO_BlueprintTurbochargeAI,PRGOV,PMO,Public,None,T3,,present,2025
+2025-01-21_WMS_DSIT_BlueprintMinisterialStatement,WMS,DSIT,Public,None,T2,1,present,2025
+2025-01-21_STRAT_GDS_StateOfDigitalGovReview,STRAT,DSIT_and_GDS,Public,None,T1,2,present,2025
+2025-01-27_BLOG_GDS_SameNameNewAmbitions,BLOG,GDS,Public,None,T1,2,absent,2025
+2025-01-13_STRAT_DSIT_AIOpportunitiesActionPlan,STRAT,External_adviser,"Public, led by external actor",None,T3,,absent,2025
+2025-02-10_STRAT_GDS_AIPlaybookUKGovernment,STRAT,GDS,Public,None,T1,,present,2025
+2025-02-10_BLOG_GDS_LaunchingAIPlaybook,BLOG,GDS,Public,None,T1,2,absent,2025
+2025-01-21_STRAT_GDS_BlueprintModernDigitalGov,STRAT,DSIT_and_GDS,Public,None,T1,,present,2025
+2026-01-20_BLOG_GDS_OurRoadmapLaunch,BLOG,GDS,Public,None,T1,1,present,2026
+2026-01-20_STRAT_GDS_RoadmapModernDigitalGov,STRAT,DSIT_and_GDS,Public,None,T1,1,present,2026
+2026-01-19_WMS_DSIT_RoadmapMinisterialStatement,WMS,DSIT_and_GDS,Public,None,T1,,absent,2026
+2026-01-27_PRGOV_DSIT_TopBritishAIExpertise,PRGOV,DSIT,Public,None,T3,1,present,2026
+2025-08-18_BLOG_GDS_AIExemplarsProgramme,BLOG,GDS,Public,None,T1,,present,2025
+2025-02-14_MOU_Anthropic_AIOpportunities,MOU,DSIT_and_Anthropic,Private (partnership),Anthropic,T3,2,absent,2025
+2025-02-14_PRCO_Anthropic_SignsMOUUKGov,PRCO,Anthropic,Private,Anthropic,T3,,absent,2025
+2026-01-27_PRCO_Anthropic_GOVUKPartnership,PRCO,Anthropic,Private,Anthropic,T2,,variant,2026
+2025-06-16_MOU_Cohere_AIOpportunities,MOU,DSIT_and_Cohere,Private (partnership),Cohere,T2,2,absent,2025
+2025-06-15_PRCO_Cohere_CanadaUKPartnerships,PRCO,Cohere,Private,Cohere,T3,,absent,2025
+2025-07-21_MOU_OpenAI_AIOpportunities,MOU,DSIT_and_OpenAI,Private (partnership),OpenAI,T3,2,absent,2025
+2025-07-21_PRGOV_DSIT_OpenAIExpandUKOffice,PRGOV,DSIT,Public,OpenAI,T3,2,absent,2025
+2025-07-21_PRCO_OpenAI_StrategicPartnership,PRCO,OpenAI,Private,OpenAI,T3,,absent,2025
+2025-10-22_PRCO_OpenAI_NextChapterSovereignAI,PRCO,OpenAI,Private,OpenAI,T3,,absent,2025
+2025-09-16_PRCO_OpenAI_StargateUK,PRCO,OpenAI,Private,OpenAI,T3,,absent,2025
+2025-12-11_MOU_DeepMind_AIOpportunitiesSecurity,MOU,DSIT_and_DeepMind,Private (partnership),DeepMind,T2,2,absent,2025
+2025-12-11_PRGOV_DSIT_NationalRenewalDeepMind,PRGOV,DSIT,Public,DeepMind,T3,1,present,2025
+2025-12-11_PRCO_DeepMind_DeepeningAISIPartnership,PRCO,DeepMind,Private,DeepMind,T3,,absent,2025
+2025-12-10_PRCO_DeepMind_StrengtheningPartnership,PRCO,DeepMind,Private,DeepMind,T2,,variant,2025
+2026-06-08_MOU_ElevenLabs_AIOpportunities,MOU,DSIT_and_ElevenLabs,Private (partnership),ElevenLabs,T2,2,absent,2026
+2026-02-18_PRCO_ElevenLabs_UKAISIPartnership,PRCO,ElevenLabs,Private,ElevenLabs,T3,,absent,2026
+2026-06-08_PRCO_ElevenLabs_UKMOUExpansion,PRCO,ElevenLabs,Private,ElevenLabs,T3,,absent,2026
+2025-02-14_PRGOV_DSIT_TacklingAISecurityRisks,PRGOV,DSIT,Public,None,T3,1,absent,2025
+2026-01-29_WMS_DSIT_AIActionPlanOneYearOnMinisterialStatement,WMS,DSIT,Public,None,T3,,variant,2026
+2026-06-08_MOU_Cisco_AIOpportunities,MOU,DSIT_and_Cisco,Public,Cisco,T3,,absent,2026
+2026-06-08_PRCO_Cisco_JoinsForcesUKGov,PRCO,Cisco,Public,Cisco,T3,,absent,2026
+2026-06-08_MOU_Synthesia_AISkillsOpportunities,MOU,DSIT_and_Synthesia,Public,Synthesia,T3,,absent,2026
+2025-06-09_MOU_NVIDIA_AISkills,MOU,DSIT_and_NVIDIA,Public,NVIDIA,T3,,absent,2025
+2025-06-09_MOU_NVIDIA_AIAdvancedConnectivity,MOU,DSIT_and_NVIDIA,Public,NVIDIA,T3,,absent,2025
+2025-06_PRCO_NVIDIA_UKPartnership_,PRCO,NVIDIA,Public,NVIDIA,T3,,absent,2025
+2025-10-23_PRGOV_MOJ_OpenAIDataHosting,PRGOV,DSIT,Public,OpenAI,T3,,absent,2025
+2025-12-18_STRAT_GDS_DataAIEthicsFramework,STRAT,DSIT,Public,None,T2,,present,2025
+2025-01-13_WMS_DSIT_AIActionPlanMinisterialStatement,WMS,DSIT,Public,None,T3,,absent,2025
+2026-06-08_PRGOV_DSIT_AIAdoptionSummitPartnerships,PRGOV,DSIT,Public,None,T2,,absent,2026
+2025-06-02_WMS_DSIT_CrossGovernmentAIExperiment,WMS,DSIT,Public,None,T2,,present,2025
+2024-07-26_WMS_DSIT_AIActionPlanCommissioning,WMS,DSIT,Public,None,T3,,absent,2024
+2024-02-06_WMS_DSIT_AIRegulationGovResponse,WMS,DSIT,Public,None,T3,,variant,2024
+2025-02-07_BLOG_GDS_ShapingDigitalCentre_,BLOG,GDS,Public,None,T1,,absent,2025
+2025-11-07_BLOG_TechInGov_SourcingStack_,BLOG,DSIT,Public,None,T2,,absent,2025
+2026-04-15_BLOG_GDS_GDSLocalFoundations_,BLOG,GDS,Public,None,T1,,absent,2026
+2026-01-21_BLOG_GDS_DigitalWalletReality_,BLOG,GDS,Public,None,T1,,absent,2026
+2025-10-03_BLOG_CDDO_AISummitResearch_,BLOG,DSIT,Public,None,T2,,present,2025
+2025-03-27_BLOG_CDDO_UserResearchAI_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-03-10_BLOG_CDDO_ResponsibleAIFrameworks_,BLOG,DSIT,Public,None,T2,,variant,2025
+2026-07-02_BLOG_TechInGov_ResponsibleAICloudEvent_,BLOG,DSIT,Public,None,T2,,absent,2026
+2025-07-16_BLOG_CDDO_ResponsibleAIAdvisoryPanel_,BLOG,DSIT,Public,None,T2,,present,2025
+2025-09-22_BLOG_CDDO_TestAssureAI_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-05-27_BLOG_DataInGov_ResponsibleAIHR_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-12-18_BLOG_DataInGov_DataAIEthicsFramework_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-02-18_BLOG_TechInGov_CloudFirst12_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-11-24_BLOG_GDS_GDSLocalGoesLive_,BLOG,GDS,Public,None,T1,,absent,2025
+2026-05-15_BLOG_InsideGOVUK_DevelopingChat_,BLOG,DSIT,Public,None,T2,,absent,2026
+2025-05-06_BLOG_CDDO_BlueprintHackathonLeeds_,BLOG,DSIT,Public,None,T2,,absent,2025
+2025-03-07_BLOG_GDS_VisualisingModernDigitalGov_,BLOG,GDS,Public,None,T1,,absent,2025

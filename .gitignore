@@ -1,0 +1,8 @@
+.venv/
+data/raw/*
+!data/raw/*.meta.json
+!data/raw/archive_urls.json
+__pycache__/
+*.pyc
+.DS_Store
+coding/guidebook_draft.backup-*.yaml

@@ -51,7 +51,7 @@ just which codes exist.
 
 | Round | What the pipeline does | Scripts | Output |
 |---|---|---|---|
-| 1.1 | Splits each document into coding units, runs the seven core questions plus AGENCY, MODALITY, METAPHOR, and DEFINITIONAL over every unit with a language model, and checks that every extracted quotation is verbatim | `04_segment.py`, `05_code.py` | `coding/units.jsonl`, `coding/round1/*.jsonl` |
+| 1.2 | Splits each document into coding units, runs the seven core questions plus AGENCY, MODALITY, METAPHOR, and DEFINITIONAL over every unit with a language model, and checks that every extracted quotation is verbatim | `04_segment.py`, `05_code.py` | `coding/units.jsonl`, `coding/round1/*.jsonl` |
 | 1.2 | Groups the coded answers by embedding similarity into candidate sub-codes for the author to name | `06_consolidate.py` | `coding/guidebook_draft.yaml` (and a metaphor report, `analysis/metaphors_report.md`, written when the step runs) |
 | 2.1 | Builds the citation network: explicit references, echoed phrasing, and the one declared supersession | `06_network_v0.py` | `analysis/networks/intertextual_v0.json`, `analysis/networks/authorship_family_map.html` |
 | 2.2 | Detects phrases shared between government and company documents in each partnership family, and tabulates AGENCY by genre | `07_echo.py`, `11_agency_query.py`, `07b_queries.py` | `analysis/queries/` |
@@ -73,6 +73,18 @@ its model, prompt version, and run identifier.
 | `kimi-k3:cloud` | 1,175 (43%) | Chosen in a model evaluation on verbatim fidelity (97.6%; `coding/model_eval/decision.md`) |
 | `deepseek-v4-flash:cloud` | 1,217 (45%) | Took over most remaining calls when usage limits made further `kimi-k3` use impractical |
 | Claude Code agent (`claude-code-local`) | 319 (12%) | Coded documents added after the automated run, under the same rule |
+
+Using three engines was an operational substitution under a rate limit, not a designed comparison,
+and the method says so; `kimi-k3:cloud` stayed the model of record throughout. What keeps it
+defensible is that every record carries its engine and passes the same per-quotation
+`quote_verified` check, so the fidelity gap between engines is auditable record by record, not
+just asserted from the aggregate.
+
+The choice of `kimi-k3:cloud` itself came from an evaluation, not a default: four candidate models
+were run on the same six units against all eleven questions (66 calls each) and scored on valid
+JSON output, verbatim quotation fidelity, and a reasonable `applies=false` rate on short passages.
+Full results and the decision rule are in [`coding/model_eval/decision.md`](coding/model_eval/decision.md)
+and [`results.csv`](coding/model_eval/results.csv).
 
 2,682 of the 2,711 quotations were verbatim; the 29 that were not are flagged (`quote_verified = false`).
 Embeddings for clustering use `embeddinggemma`, run locally through Ollama.

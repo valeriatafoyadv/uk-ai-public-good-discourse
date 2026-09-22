@@ -97,7 +97,7 @@ Return JSON: {"applies": bool, "instances": [{"future": "<one sentence>",
 Question: Who or what is cast as hero, threat, or obstacle in this passage?
 Return JSON: {"applies": bool, "instances": [{"actant": "<who/what>",
 "role": "hero|threat|obstacle", "threat_type":
-"riesgo_tecnologico|rezago_geopolitico|statu_quo_burocratico|desconfianza_publica|otro|n/a",
+"technological_risk|geopolitical_lag|bureaucratic_status_quo|public_distrust|other|n/a",
 "verbatim_quote": "<exact>"}], "confidence": 0-1}
 ```
 
@@ -117,7 +117,7 @@ descriptive: what is taken for granted>", "verbatim_quote": "<exact>"}],
 ```
 Question: For the main claims in this passage, how is agency handled?
 Return JSON: {"applies": bool, "instances": [{"form":
-"agente_explicito|pasiva_sin_agente|nominalizacion",
+"explicit_agent|agentless_passive|nominalisation",
 "agent_if_named": "<who or null>", "verbatim_quote": "<exact>"}],
 "confidence": 0-1}
 ```
@@ -126,8 +126,8 @@ Return JSON: {"applies": bool, "instances": [{"form":
 
 ```
 Question: What modality do the main claims carry?
-deontica = must/should/commit/required; epistemica = will/could/expected/likely.
-Return JSON: {"applies": bool, "instances": [{"modality": "deontica|epistemica",
+deontic = must/should/commit/required; epistemic = will/could/expected/likely.
+Return JSON: {"applies": bool, "instances": [{"modality": "deontic|epistemic",
 "marker": "<the modal word/phrase>", "verbatim_quote": "<exact>"}],
 "confidence": 0-1}
 ```
@@ -142,7 +142,7 @@ Return JSON: {"applies": bool, "instances": [{"expression": "<exact word/phrase>
 "verbatim_quote": "<exact sentence>", "suggested_source_domain": "<e.g. MACHINE,
 JOURNEY, TERRITORY, CONTAINER, FORCE>", "suggested_target_domain": "<e.g. AI,
 GOVERNMENT, POLICY>", "formula": "<TARGET IS SOURCE>",
-"lj_type": "estructural|orientacional|ontologica|personificacion",
+"lj_type": "structural|orientational|ontological|personification",
 "highlights": "<what the metaphor foregrounds>", "hides": "<what it backgrounds>"}],
 "confidence": 0-1}
 ```
@@ -165,7 +165,7 @@ Return JSON: {"applies": bool, "instances": [{"defined_term": "<the phrase>",
 ```
 You will receive the full text of one document. Answer at document level.
 Return JSON: {"function": "<what the document is for, one sentence>",
-"audience": "parlamento|practitioners|publico_general|industria|mixta",
+"audience": "parliament|practitioners|general_public|industry|mixed",
 "force": "recommendation|commitment|obligation|announcement",
 "narrative_arc": "beginning|middle|end",
 "arc_rationale": "<one sentence>"}
@@ -173,6 +173,8 @@ Return JSON: {"function": "<what the document is for, one sentence>",
 
 ## Labels
 
-Some answer labels were written in Spanish in the prompts (for example `agente_explicito`,
-`pasiva_sin_agente`, `nominalizacion`, `deontica`, `epistemica`). `scripts/11_agency_query.py` maps the
-AGENCY labels to English; see `docs/data_dictionary.md`.
+The controlled-vocabulary values above (AGENCY `form`, MODALITY `modality`, ACTANTS `threat_type`,
+METAPHOR `lj_type`, DOC_PROFILE `audience`) were originally specified in Spanish in this prompt file.
+On 2026-09-22 the prompt and every existing coding record were normalised to English, verified
+against each record's `verbatim_quote` to confirm no extracted text changed. See
+`docs/data_dictionary.md` for the full vocabulary list.

@@ -27,9 +27,7 @@ The fields of every file the pipeline reads or writes. For where each file comes
 
 `doc_id`, `source_url`, `fetched_at`, `format`, and `blocks`: an ordered list of
 `{block_id, structural_position, heading_path, text}`. `structural_position` is one of `title`,
-`pillar_name`, `section_heading`, `body`, `quotation`. Present for the 54 GOV.UK and parliament.uk
-documents only (Open Government Licence v3.0); the 12 company press releases have no file here — see
-[`corpus.md`](corpus.md).
+`pillar_name`, `section_heading`, `body`, `quotation`.
 
 ## `data/raw/<doc_id>.meta.json`: retrieval record
 
@@ -65,9 +63,14 @@ Other files in the folder: `doc_profiles.jsonl` (one document-level profile per 
 audience, force, narrative arc), `definitional_instances.jsonl` (the DEFINITIONAL records that apply,
 in date order), and `run_meta.json` (the log of coding runs).
 
-Vocabularies. AGENCY `form`: `agente_explicito` (explicit agent, 264), `pasiva_sin_agente` (agentless passive, 63),
-`nominalizacion` (nominalisation, 81). MODALITY: `deontica` (deontic, 110), `epistemica` (epistemic, 268). The
-prompts were written with Spanish labels; `11_agency_query.py` maps them to English.
+Vocabularies. AGENCY `form`: `explicit_agent` (264), `agentless_passive` (63), `nominalisation` (81).
+MODALITY: `deontic` (110), `epistemic` (268). ACTANTS `threat_type`: `technological_risk`,
+`geopolitical_lag`, `bureaucratic_status_quo`, `public_distrust`, `other`, `n/a`. METAPHOR `lj_type`
+(Lakoff & Johnson 1980): `structural`, `orientational`, `ontological`, `personification`. DOC_PROFILE
+`audience`: `parliament`, `practitioners`, `general_public`, `industry`, `mixed`. These enums were
+originally specified in Spanish in the prompt; the prompt and every existing coding record were
+normalised to English on 2026-09-22, verified against `verbatim_quote` to confirm no extracted text
+changed (see `coding/prompts/prompts_v1.yaml`'s header comment).
 
 ## `coding/guidebook_draft.yaml`: candidate codebook
 
@@ -90,3 +93,8 @@ question, `n_applies_true`, `n_clusters`, and `clusters`. Each cluster has `cand
 | `term_counts.csv` | `doc_id`, `genre`, `speaker`, `family`, `n_nominal`, `n_variant`, `n_distributive`, `nominal_forms` |
 | `agency_by_genre.csv` | `genre`, `explicit_agent`, `agentless_passive`, `nominalisation` |
 | `zero_count_by_genre.csv`, `nominal_by_gdstier.csv` | `genre` or `gds_tier`, then `docs_present`, `docs_variant`, `docs_absent`, `total_nominal_mentions`, `total_variant_mentions` |
+
+## `analysis/qa/dissertation_numbers.md`
+
+One row per reported figure: where it appears, what it is, the value in the dissertation text, the value
+recomputed from the data, and `ok` when they agree.

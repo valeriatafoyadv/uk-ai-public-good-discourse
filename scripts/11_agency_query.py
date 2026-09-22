@@ -3,12 +3,17 @@
 
 Reads the AGENCY records in coding/round1/*.jsonl (skipping any record that
 carries an "error" field -- Round 1 coding is partial while the Ollama Cloud
-quota is being drained in bursts, see coding/round1/run_meta.json), maps the
-Spanish `form` values emitted by the active prompt run
-(agente_explicito / pasiva_sin_agente / nominalizacion) to the English labels
-used throughout this project (explicit_agent / agentless_passive /
-nominalisation), and cross-tabulates instance counts against genre (from
-data/manifest.csv).
+quota is being drained in bursts, see coding/round1/run_meta.json) and
+cross-tabulates the `form` value (explicit_agent / agentless_passive /
+nominalisation) against genre (from data/manifest.csv).
+
+The prompt originally specified this field's values in Spanish
+(agente_explicito / pasiva_sin_agente / nominalizacion); records coded under
+that version, and the prompt itself, were normalised to English on
+2026-09-22 (coding/prompts/prompts_v1.yaml stays version 1 -- only the
+output-language convention changed, not what is being asked). FORM_MAP below
+is kept only as a safety net for any stray record still carrying the old
+values; it is a no-op against current data.
 
 Output: analysis/queries/agency_by_genre.csv -- one row per genre, one column
 per form. A leading "# STATUS: PARTIAL ..." comment line is written whenever
@@ -35,6 +40,10 @@ OUT_CSV = os.path.join(ROOT, "analysis", "queries", "agency_by_genre.csv")
 GENRES = ["STRAT", "MOU", "PRGOV", "PRCO", "BLOG", "WMS", "REG"]
 FORMS = ["explicit_agent", "agentless_passive", "nominalisation"]
 FORM_MAP = {
+    "explicit_agent": "explicit_agent",
+    "agentless_passive": "agentless_passive",
+    "nominalisation": "nominalisation",
+    # pre-2026-09-22 records/prompt runs (see module docstring)
     "agente_explicito": "explicit_agent",
     "pasiva_sin_agente": "agentless_passive",
     "nominalizacion": "nominalisation",

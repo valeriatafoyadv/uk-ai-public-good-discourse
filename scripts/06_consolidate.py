@@ -302,7 +302,12 @@ def normalize_expr(expr):
     return re.sub(r"\s+", " ", (expr or "").strip().lower())
 
 
+# Records and the prompt were normalised to English on 2026-09-22 (see
+# coding/prompts/prompts_v1.yaml's header comment); the Spanish entries below
+# are kept only as a safety net for any stray pre-2026-09-22 record.
 LJ_LABELS = {
+    "structural": "structural", "orientational": "orientational",
+    "ontological": "ontological", "personification": "personification",
     "estructural": "structural", "orientacional": "orientational",
     "ontologica": "ontological", "ontológica": "ontological",
     "personificacion": "personification", "personificación": "personification",

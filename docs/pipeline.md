@@ -53,6 +53,12 @@ the text as ordered blocks labelled title, pillar name, section heading, body, o
 PDF and HTML files are not kept in the repository; each document's source URL, hash, and retrieval
 record are in `data/raw/<doc_id>.meta.json`.
 
+This public repository keeps the extracted text (`data/text/<doc_id>.json`) only for the 54 GOV.UK and
+parliament.uk documents, under the Open Government Licence v3.0. It does not keep the text of the 12
+company press releases (`docs/corpus.md` marks which); steps 4, 5, 7, and 8 below read every file in
+`data/text/` and fail or under-count if a document is missing, not skip it silently — run
+`02b_fetch_companies.py` first to regenerate those 12 files from their source URL.
+
 ### 3. Extraction check
 For every document: valid JSON, non-empty, exactly one title block, block labels in the allowed
 vocabulary, and a plausible length for its genre. Retrieval metadata is merged into the manifest.

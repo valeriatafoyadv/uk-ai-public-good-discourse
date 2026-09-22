@@ -27,7 +27,9 @@ The fields of every file the pipeline reads or writes. For where each file comes
 
 `doc_id`, `source_url`, `fetched_at`, `format`, and `blocks`: an ordered list of
 `{block_id, structural_position, heading_path, text}`. `structural_position` is one of `title`,
-`pillar_name`, `section_heading`, `body`, `quotation`.
+`pillar_name`, `section_heading`, `body`, `quotation`. Present for the 54 GOV.UK and parliament.uk
+documents only (Open Government Licence v3.0); the 12 company press releases have no file here — see
+[`corpus.md`](corpus.md).
 
 ## `data/raw/<doc_id>.meta.json`: retrieval record
 

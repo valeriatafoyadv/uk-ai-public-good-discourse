@@ -26,12 +26,28 @@ family, and whether the phrase or a named variant occurs.
 
 24 of the 66 sit in one of eight partnership families (Anthropic, Cohere, OpenAI, Google
 DeepMind, ElevenLabs, NVIDIA, Cisco, Synthesia); the other 42 are government-authored.
+[`docs/corpus.md`](docs/corpus.md) lists all 66 with a link to the source and, where one was
+captured, a web archive snapshot.
+
+`data/text/` holds the structured text (title, heading, body, quotation blocks) of the 54
+GOV.UK and parliament.uk documents, reproduced under the [Open Government Licence
+v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — Contains
+public sector information licensed under the Open Government Licence v3.0. It does not hold the
+text of the 12 company press releases, which are not covered by that licence; `docs/corpus.md`
+links to those instead, and `02b_fetch_companies.py` re-fetches them from their source URL.
 
 ## What the pipeline does
 
 The dissertation codes the corpus in four rounds. Rounds 1.1, 2.1, and 2.2 are the author's own
 interpretive coding in NVivo; the pipeline supplies Round 1.2 and the computed layers that the
-author reads against the manual coding in Rounds 2.1 and 2.2.
+author reads against the manual coding in Rounds 2.1 and 2.2. The NVivo project itself is not in
+this repository. Two exports from it supported that manual coding: a **codebook export**, NVivo's
+standard listing of the project's codes with their descriptions and how many sources and
+references each has, and a **coded-passage report** written for this project, which instead lists
+each coded instance with the surrounding text, the code's position in the passage, and its parent
+and child codes in the author's hierarchy — richer than the codebook because it carries enough
+detail to compute how often a code repeats and what share of a document's words fall under it, not
+just which codes exist.
 
 | Round | What the pipeline does | Scripts | Output |
 |---|---|---|---|
@@ -55,7 +71,7 @@ its model, prompt version, and run identifier.
 | Engine | Records | Notes |
 |---|---|---|
 | `kimi-k3:cloud` | 1,175 (43%) | Chosen in a model evaluation on verbatim fidelity (97.6%; `coding/model_eval/decision.md`) |
-| `deepseek-v4-flash: cloud` | 1,217 (45%) | Took over most remaining calls when usage limits made further `kimi-k3` use impractical |
+| `deepseek-v4-flash:cloud` | 1,217 (45%) | Took over most remaining calls when usage limits made further `kimi-k3` use impractical |
 | Claude Code agent (`claude-code-local`) | 319 (12%) | Coded documents added after the automated run, under the same rule |
 
 2,682 of the 2,711 quotations were verbatim; the 29 that were not are flagged (`quote_verified = false`).
@@ -65,6 +81,7 @@ Embeddings for clustering use `embeddinggemma`, run locally through Ollama.
 
 | Page | What it covers |
 |---|---|
+| [`docs/corpus.md`](docs/corpus.md) | The 66 documents with a link to each source and, where captured, an archive snapshot |
 | [`docs/pipeline.md`](docs/pipeline.md) | Each step in run order: inputs, what it does, outputs, and where the dissertation reports it |
 | [`docs/crosswalk.md`](docs/crosswalk.md) | Every table, figure, and reported number of the dissertation, against the file and script that produce it |
 | [`docs/prompts.md`](docs/prompts.md) | The coding prompts the model received, reproduced for replication (pipeline instructions only) |
@@ -81,7 +98,8 @@ ollama pull embeddinggemma        # only for segmentation retrieval and clusteri
 
 The coding records, structured texts, and network are in the repository, so the tables and figures of
 Chapter 5 can be regenerated from them without calling a language model again (steps 6 to 9 of
-[`docs/pipeline.md`](docs/pipeline.md)). Requirements: Python 3.13 or later and, for segmentation
+[`docs/pipeline.md`](docs/pipeline.md)), except that steps reading `data/text/` will fail on the 12
+company documents until `02b_fetch_companies.py` re-fetches them locally — see above. Requirements: Python 3.13 or later and, for segmentation
 retrieval and clustering, [Ollama](https://ollama.com) on `localhost:11434`. Re-running the coding step
 (`05_code.py`) needs access to the language models named above. On Windows, use `.venv\Scripts\python.exe`.
 
@@ -93,7 +111,7 @@ file with an automated draft.
 
 ```
 data/manifest.csv        the 66 documents and their attributes
-data/text/               structured text of every document
+data/text/               structured text of the 54 GOV.UK/parliament.uk documents (OGL)
 coding/prompts/          prompts for the eleven questions and the document profile, versioned
 coding/round1/           raw coding records (JSONL per document, with model and run metadata)
 coding/model_eval/       the model comparison and the decision

@@ -94,6 +94,7 @@ Embeddings for clustering use `embeddinggemma`, run locally through Ollama.
 | Page | What it covers |
 |---|---|
 | [`docs/corpus.md`](docs/corpus.md) | The 66 documents with a link to each source and, where captured, an archive snapshot |
+| [`docs/memos.md`](docs/memos.md) | Six of the author's Round 1.1 analytical memos, lightly edited |
 | [`docs/pipeline.md`](docs/pipeline.md) | Each step in run order: inputs, what it does, outputs, and where the dissertation reports it |
 | [`docs/crosswalk.md`](docs/crosswalk.md) | Every table, figure, and reported number of the dissertation, against the file and script that produce it |
 | [`docs/prompts.md`](docs/prompts.md) | The coding prompts the model received, reproduced for replication (pipeline instructions only) |

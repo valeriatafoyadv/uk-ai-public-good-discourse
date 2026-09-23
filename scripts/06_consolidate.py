@@ -302,18 +302,6 @@ def normalize_expr(expr):
     return re.sub(r"\s+", " ", (expr or "").strip().lower())
 
 
-# Records and the prompt were normalised to English on 2026-09-22 (see
-# coding/prompts/prompts_v1.yaml's header comment); the Spanish entries below
-# are kept only as a safety net for any stray pre-2026-09-22 record.
-LJ_LABELS = {
-    "structural": "structural", "orientational": "orientational",
-    "ontological": "ontological", "personification": "personification",
-    "estructural": "structural", "orientacional": "orientational",
-    "ontologica": "ontological", "ontológica": "ontological",
-    "personificacion": "personification", "personificación": "personification",
-}
-
-
 def write_metaphors_report(coverage_warning_text):
     manifest = load_manifest()
     records = load_metaphor_records()
@@ -377,7 +365,6 @@ def write_metaphors_report(coverage_warning_text):
         top_target = target_domains.most_common(1)[0][0] if target_domains else "?"
         top_formula = formulas.most_common(1)[0][0] if formulas else "?"
         top_lj = lj_types.most_common(1)[0][0] if lj_types else "?"
-        top_lj_en = LJ_LABELS.get(top_lj, top_lj)
         top_highlight = highlights.most_common(1)[0][0] if highlights else ""
         top_hide = hides.most_common(1)[0][0] if hides else ""
 
@@ -389,7 +376,7 @@ def write_metaphors_report(coverage_warning_text):
         lines.append(f"- **Suggested formula:** {top_formula or (top_target.upper() + ' IS ' + top_source.upper())}\n")
         lines.append(f"- **Suggested source domain:** {top_source.upper() or '?'}\n")
         lines.append(f"- **Suggested target domain:** {top_target.upper() or '?'}\n")
-        lines.append(f"- **Tentative L&J type:** {top_lj_en or '?'}{disagreement_note}\n")
+        lines.append(f"- **Tentative L&J type:** {top_lj or '?'}{disagreement_note}\n")
         lines.append(f"- **What it highlights:** {top_highlight or '(not specified)'}\n")
         lines.append(f"- **What it hides:** {top_hide or '(not specified)'}\n")
         lines.append(f"- **Count:** {n} instance(s) in {len(docs)} document(s)\n")

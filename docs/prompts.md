@@ -174,7 +174,5 @@ Return JSON: {"function": "<what the document is for, one sentence>",
 ## Labels
 
 The controlled-vocabulary values above (AGENCY `form`, MODALITY `modality`, ACTANTS `threat_type`,
-METAPHOR `lj_type`, DOC_PROFILE `audience`) were originally specified in Spanish in this prompt file.
-On 2026-09-22 the prompt and every existing coding record were normalised to English, verified
-against each record's `verbatim_quote` to confirm no extracted text changed. See
-`docs/data_dictionary.md` for the full vocabulary list.
+METAPHOR `lj_type`, DOC_PROFILE `audience`) are listed in full in
+`docs/data_dictionary.md`.

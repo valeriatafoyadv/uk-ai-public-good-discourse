@@ -1,5 +1,5 @@
 # AI for the public good: Corpus and analysis pipeline.
-### Discourse analysis · GDS/DSIT, United Kingdom · January 2024 – July 2026
+### Discourse analysis · GDS/DSIT, United Kingdom · documents published 18 January 2024 – 2 July 2026
 
 Pipeline part of the dissertation submitted in part-fulfilment of the MPA in Innovation, Public Policy and Public Value 
 (UCL Institute for Innovation and Public Purpose, 2026) on
@@ -10,7 +10,12 @@ consolidates.** The final interpretation and validation of the results rests wit
 
 ## The corpus
 
-66 documents, published between 18 January 2024 and 2 July 2026, listed in
+**Data window.** 66 documents, published between 18 January 2024 and 2 July 2026 (the eligibility
+window runs to 31 July 2026, so the 21 July 2026 machinery-of-government change falls inside it).
+The texts in `data/text/` were retrieved between 29 August and 10 September 2026; each file records
+its own retrieval time in `fetched_at`.
+
+The documents are listed in
 [`data/manifest.csv`](data/manifest.csv) with genre, date, authorship side, partnership
 family, and whether the phrase or a named variant occurs.
 
@@ -99,7 +104,25 @@ Embeddings for clustering use `embeddinggemma`, run locally through Ollama.
 | [`docs/pipeline.md`](docs/pipeline.md) | Each step in run order: inputs, what it does, outputs, and where the dissertation reports it |
 | [`docs/crosswalk.md`](docs/crosswalk.md) | Every table, figure, and reported number of the dissertation, against the file and script that produce it |
 | [`docs/prompts.md`](docs/prompts.md) | The coding prompts the model received, reproduced for replication (pipeline instructions only) |
-| [`docs/data_dictionary.md`](docs/data_dictionary.md) | The fields of every data file |
+| [`docs/data_dictionary.md`](docs/data_dictionary.md) | Every data file and its fields, types, and codes, with the data window |
+
+## Data dictionary
+
+The full data dictionary is in [`docs/data_dictionary.md`](docs/data_dictionary.md). The main files:
+
+| File | One row or record per | Count | Key fields |
+|---|---|---|---|
+| `data/manifest.csv` | Document | 66 | `doc_id`, `date`, `genre`, `side`, `family`, `term_status`, `url` |
+| `data/text/<doc_id>.json` | Document (GOV.UK and parliament.uk) | 54 | `source_url`, `fetched_at`, `blocks` (with `structural_position`) |
+| `coding/units.jsonl` | Coding unit | 91 | `unit_id`, `text`, `retrieval` |
+| `coding/round1/<doc_id>.jsonl` | Unit, question, and instance | 2,711 with an extract | `question`, `answer_summary`, `verbatim_quote`, `quote_verified`, `model`, `run_id` |
+| `coding/guidebook_draft.yaml` | Candidate sub-code cluster | — | `candidate_name`, `n_instances`, `example_quotes` |
+| `analysis/networks/intertextual_v0.json` | Document and link | 66 nodes, 115 edges | `type` (`reference`, `echo`, `supersession`), `evidence` |
+| `analysis/queries/*.csv` | Varies | — | Term counts, echo phrases, AGENCY by genre |
+
+Genre codes: `STRAT` strategy paper, `MOU` memorandum of understanding, `PRCO` company press release,
+`PRGOV` government press release, `BLOG` blog post, `WMS` written ministerial statement, `REG`
+regulatory response.
 
 ## Reproducing it
 
@@ -139,3 +162,17 @@ data/embeddings/         stored embeddings used for retrieval and clustering
 docs/                    pipeline steps, crosswalk to the dissertation, data dictionary
 scripts/                 the pipeline scripts, numbered in the order they run
 ```
+
+## Licence
+
+The code and the author's own data (coding records, codebook, network, queries, and documentation)
+are released under the [MIT Licence](LICENSE). The document texts in `data/text/` are Crown copyright
+and are reproduced under the [Open Government Licence
+v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), not the MIT
+Licence. The company press releases are not reproduced here and remain under their publishers'
+terms.
+
+## How to cite
+
+Tafoya, V. (2026). *AI for the public good: Corpus and analysis pipeline* [Computer software].
+https://github.com/valeriatafoyadv/uk-ai-public-good-discourse

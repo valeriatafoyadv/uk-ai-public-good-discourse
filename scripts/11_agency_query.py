@@ -7,14 +7,6 @@ quota is being drained in bursts, see coding/round1/run_meta.json) and
 cross-tabulates the `form` value (explicit_agent / agentless_passive /
 nominalisation) against genre (from data/manifest.csv).
 
-The prompt originally specified this field's values in Spanish
-(agente_explicito / pasiva_sin_agente / nominalizacion); records coded under
-that version, and the prompt itself, were normalised to English on
-2026-09-22 (coding/prompts/prompts_v1.yaml stays version 1 -- only the
-output-language convention changed, not what is being asked). FORM_MAP below
-is kept only as a safety net for any stray record still carrying the old
-values; it is a no-op against current data.
-
 Output: analysis/queries/agency_by_genre.csv -- one row per genre, one column
 per form. A leading "# STATUS: PARTIAL ..." comment line is written whenever
 the latest Round 1 run (per run_meta.json) has not completed, so the file is
@@ -39,15 +31,6 @@ OUT_CSV = os.path.join(ROOT, "analysis", "queries", "agency_by_genre.csv")
 
 GENRES = ["STRAT", "MOU", "PRGOV", "PRCO", "BLOG", "WMS", "REG"]
 FORMS = ["explicit_agent", "agentless_passive", "nominalisation"]
-FORM_MAP = {
-    "explicit_agent": "explicit_agent",
-    "agentless_passive": "agentless_passive",
-    "nominalisation": "nominalisation",
-    # pre-2026-09-22 records/prompt runs (see module docstring)
-    "agente_explicito": "explicit_agent",
-    "pasiva_sin_agente": "agentless_passive",
-    "nominalizacion": "nominalisation",
-}
 
 SKIP_FILES = {"doc_profiles.jsonl", "definitional_instances.jsonl"}
 
@@ -89,12 +72,11 @@ def load_agency_records():
                     continue
                 inst = d["instance_data"]
                 obj = json.loads(inst) if isinstance(inst, str) else inst
-                form_es = obj.get("form")
-                form_en = FORM_MAP.get(form_es)
-                if form_en is None:
-                    unmapped.add(form_es)
+                form = obj.get("form")
+                if form not in FORMS:
+                    unmapped.add(form)
                     continue
-                instances.append({"doc_id": d["doc_id"], "form": form_en})
+                instances.append({"doc_id": d["doc_id"], "form": form})
     if unmapped:
         print(f"WARNING: unmapped AGENCY form values, skipped: {sorted(unmapped)}")
     return instances, n_attempted, n_ok
